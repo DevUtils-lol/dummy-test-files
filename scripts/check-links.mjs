@@ -12,11 +12,12 @@
  *   npm run check -- --verbose                 # list every link (always on in GitHub Actions)
  *
  * Options: --concurrency N (default 12; at most 2 per host), --timeout MS (default 20000),
- *          --dead-after N (default 3 consecutive failures before a link is hidden)
+ *
  *
  * A link fails on HTTP errors, timeouts, an HTML page where a file was expected, a wrong
- * file signature, or a size that drifted by more than 5 %. It is only marked dead after N
- * consecutive failures, so a host's bad day doesn't remove it. Rate-limited answers keep the
+ * file signature, or a size that drifted by more than 5 %. Links are NEVER removed or hidden:
+ * a failing link stays published with `failingSince` (the day the current run of failures
+ * started) and the last error, so apps can warn users; one successful check clears it. Rate-limited answers keep the
  * previous status: "slow down" is not "broken".
  */
 import { appendFile, mkdir, readFile, writeFile } from "node:fs/promises";
@@ -41,7 +42,6 @@ const opts = {
     dry: arg("dry", false) === true,
     concurrency: Number(arg("concurrency", 12)),
     timeout: Number(arg("timeout", 20000)),
-    deadAfter: Number(arg("dead-after", 3)),
 };
 
 const data = await loadData();
@@ -125,7 +125,7 @@ const duration = Date.now() - started;
 // ---- results ------------------------------------------------------------------------------
 const today = new Date().toISOString().slice(0, 10);
 const now = new Date().toISOString();
-const counts = { ok: 0, failing: 0, dead: 0, rateLimited: 0 };
+const counts = { ok: 0, failing: 0, rateLimited: 0 };
 const problems = [];
 /** @type {Record<string, Record<string, any>>} */
 const next = {};
@@ -142,7 +142,10 @@ for (const { f, r, ms } of results) {
         continue;
     }
     const failCount = r.ok ? 0 : (prev?.failCount ?? 0) + 1;
-    const state = r.ok ? "ok" : failCount >= opts.deadAfter ? "dead" : "failing";
+    const state = r.ok ? "ok" : "failing";
+    // First day of the current run of failures ("dead" is the old name for a long failure).
+    const wasFailing = prev && prev.state !== "ok";
+    const failingSince = r.ok ? null : wasFailing ? prev.failingSince ?? today : today;
     counts[state]++;
     bucket[f.id] = {
         state,
@@ -152,9 +155,10 @@ for (const { f, r, ms } of results) {
         cors: r.cors,
         lastOk: r.ok ? today : prev?.lastOk ?? null,
         failCount,
+        ...(failingSince ? { failingSince } : {}),
         ...(r.error ? { error: r.error } : {}),
     };
-    if (!r.ok) problems.push({ f, state, error: r.error, failCount });
+    if (!r.ok) problems.push({ f, state, error: r.error, failCount, failingSince });
 }
 
 // Every link, grouped by category. Collapsed groups in GitHub Actions; locally only with --verbose.
@@ -190,16 +194,16 @@ if (badHosts.length) {
 }
 if (problems.length) {
     console.log(`\nProblems (${problems.length}):`);
-    for (const p of problems) console.log(`  ${p.state === "dead" ? "✗ DEAD   " : p.state === "rate-limited" ? "⏳ limited" : `! fail ${p.failCount}/${opts.deadAfter}`}  ${p.f.id}  ${p.error}  (${p.f._path})`);
+    for (const p of problems) console.log(`  ${p.state === "rate-limited" ? "⏳ rate-limited       " : `! failing since ${p.failingSince}`}  ${p.f.id}  ${p.error}  (${p.f._path})`);
 }
 
-console.log(`\nChecked ${all.length} links on ${hosts.size} hosts in ${fmtTime(duration)}: ok ${counts.ok} · failing ${counts.failing} · dead ${counts.dead} · rate-limited (unchanged) ${counts.rateLimited}`);
+console.log(`\nChecked ${all.length} links on ${hosts.size} hosts in ${fmtTime(duration)}: ok ${counts.ok} · failing ${counts.failing} · rate-limited (unchanged) ${counts.rateLimited}`);
 
 if (process.env.GITHUB_STEP_SUMMARY) {
-    const lines = [`### Link check`, ``, `**${all.length}** links on **${hosts.size}** hosts checked in **${fmtTime(duration)}**`, ``, `✅ ok **${counts.ok}** · ⚠️ failing **${counts.failing}** · ❌ dead **${counts.dead}** · ⏳ rate-limited **${counts.rateLimited}**`, ``];
+    const lines = [`### Link check`, ``, `**${all.length}** links on **${hosts.size}** hosts checked in **${fmtTime(duration)}**`, ``, `✅ ok **${counts.ok}** · ⚠️ failing **${counts.failing}** · ⏳ rate-limited **${counts.rateLimited}**`, ``];
     if (problems.length) {
-        lines.push(`| Entry | State | Problem | File |`, `|---|---|---|---|`);
-        for (const p of problems.slice(0, 200)) lines.push(`| \`${p.f.id}\` | ${p.state} | ${String(p.error).replace(/\|/g, "\\|")} | \`${p.f._path}\` |`);
+        lines.push(`| Entry | Failing since | Problem | File |`, `|---|---|---|---|`);
+        for (const p of problems.slice(0, 200)) lines.push(`| \`${p.f.id}\` | ${p.failingSince ?? p.state} | ${String(p.error).replace(/\|/g, "\\|")} | \`${p.f._path}\` |`);
     }
     await appendFile(process.env.GITHUB_STEP_SUMMARY, lines.join("\n") + "\n");
 }
@@ -215,4 +219,4 @@ if (!opts.dry) {
     console.log(`Wrote ${Object.keys(next).map((c) => rel(path.join(STATUS_DIR, `${c}.json`))).join(", ")}`);
 }
 
-if (opts.strict && counts.failing + counts.dead > 0) process.exit(1);
+if (opts.strict && counts.failing > 0) process.exit(1);

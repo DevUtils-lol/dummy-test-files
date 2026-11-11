@@ -1,8 +1,8 @@
 name: Daily link check
 
 # Probes every link once a day and saves the results on the `link-status` branch, then
-# republishes, so dead links disappear from apps automatically (after 3 failed days in a
-# row) and recovered ones come back.
+# republishes. Failing links are flagged (with the date they started failing and why), never
+# hidden; the flag clears on the next successful check.
 #
 # Why a separate branch: `main` is protected (every change needs a reviewed PR) and the
 # Actions bot can't bypass that without a personal token. `link-status` holds only

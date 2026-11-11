@@ -2,7 +2,7 @@
 
 An open catalog of **test and sample files** for developers: videos in every codec, huge images, broken PDFs, 100 GB speed-test files, odd CSVs, fonts, 3D models and more.
 
-- **Checked every day.** A bot probes each link, compares its size and checks its first bytes, so a `.png` really is a PNG. A link that fails 3 days in a row disappears on its own, and comes back if the host recovers.
+- **Checked every day.** A bot probes each link, compares its size and checks its first bytes, so a `.png` really is a PNG. A link that stops working is never hidden: it is flagged as failing, with the date it started and the error, and the flag clears as soon as the host recovers.
 - **Anyone can add files.** Each file is one small JSON file, so a PR is a couple of lines and never conflicts with anyone else's.
 - **Nothing to host.** The catalog only links to files that publishers host themselves, so it can grow without storage or bandwidth limits.
 - **Free to reuse.** The data is CC0. Use it in your app, test suite or CLI.
@@ -40,7 +40,7 @@ Each entry looks like this:
 }
 ```
 
-`health` is `ok`, `failing` (it failed recently, and `error` says why) or `unchecked` (newly added). Dead links are never published. `cors: true` means browsers can fetch the file directly. `size` is the size the checker measured, in bytes.
+`health` is `ok`, `failing` or `unchecked` (newly added). Failing entries also carry `error` (why), `failingSince` (the day the current failures began) and `lastOk` (the last day it worked). Links are never dropped, so apps decide how to show them. `cors: true` means browsers can fetch the file directly. `size` is the size the checker measured, in bytes.
 
 The `/v1/` path changes only for breaking format changes, and old versions keep being published while consumers move over.
 

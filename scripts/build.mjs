@@ -16,8 +16,9 @@
  *                                   downloads the shards that actually changed.
  *   all.json                        everything in one file, for simple consumers and offline snapshots
  *
- * Patterns are expanded, link health is merged in and dead links are dropped, so consumers
- * never need any of this repo's logic. Output is deterministic: an unchanged catalog builds
+ * Patterns are expanded and link health is merged in, so consumers never need any of this
+ * repo's logic. Failing links are kept (never hidden) with `failingSince`, `lastOk` and `error`,
+ * so apps can warn users instead of silently losing files. Output is deterministic: an unchanged catalog builds
  * byte-identical files, so CI only publishes real changes.
  */
 import { createHash } from "node:crypto";
@@ -60,14 +61,17 @@ function publish(f) {
         ...(f.description ? { description: f.description } : {}),
         preview: f.preview ?? previewOf(f.format),
         cors: !!s?.cors,
-        health: s ? s.state : "unchecked",
-        ...(s?.state === "failing" && s.error ? { error: s.error } : {}),
+        // "dead" is the old name for a long failure — published as failing, never dropped.
+        health: !s ? "unchecked" : s.state === "ok" ? "ok" : "failing",
+        // Only failing links carry dates, so healthy shards don't change every day.
+        ...(s && s.state !== "ok"
+            ? { ...(s.error ? { error: s.error } : {}), ...(s.failingSince ? { failingSince: s.failingSince } : {}), ...(s.lastOk ? { lastOk: s.lastOk } : {}) }
+            : {}),
     };
 }
 
 const entries = expandAll(data)
     .map(publish)
-    .filter((f) => f.health !== "dead")
     .sort((a, b) => CATEGORIES.indexOf(a.category) - CATEGORIES.indexOf(b.category) || a.id.localeCompare(b.id));
 
 const hash = (s) => createHash("sha256").update(s).digest("hex").slice(0, 10);

@@ -1,5 +1,5 @@
 name: Report a problem with a file
-description: Wrong content, misleading name or license problem. (Dead links are removed automatically after 3 failed daily checks.)
+description: Wrong content, misleading name or license problem. (Links that stop working are flagged automatically by the daily check.)
 labels: ["problem"]
 body:
   - type: input
