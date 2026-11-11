@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-3d-modell-des-sierpinski-dreiecks-20220520-iteration-10",
+    "name": "3D-Modell des Sierpinski-Dreiecks 20220520 Iteration 10",
+    "category": "3d",
+    "format": "stl",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/3D-Modell_des_Sierpinski-Dreiecks_20220520_Iteration_10.stl?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 23619684,
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ],
+    "preview": "none"
+}

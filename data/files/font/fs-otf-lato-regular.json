@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-otf-lato-regular",
+    "name": "Lato-Regular",
+    "category": "font",
+    "format": "otf",
+    "url": "https://filesamples.com/samples/font/otf/Lato-Regular.otf",
+    "size": 105452,
+    "approxSize": true,
+    "source": "filesamples"
+}

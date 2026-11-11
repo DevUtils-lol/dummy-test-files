@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-everest-himalayas",
+    "name": "Everest, Himalayas",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Everest%2C_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 8357266,
+    "meta": {
+        "width": 4032,
+        "height": 2688
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

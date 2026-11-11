@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-jxl-jxl",
+    "name": "Smallest valid JXL",
+    "category": "image",
+    "format": "jxl",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/jxl.jxl",
+    "size": 16,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

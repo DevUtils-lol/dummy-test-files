@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "code-stripe-api-openapi-yaml",
+    "name": "Stripe API (OpenAPI)",
+    "category": "code",
+    "format": "yaml",
+    "url": "https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.yaml",
+    "size": 6629420,
+    "source": "stripe-openapi",
+    "tags": [
+        "openapi",
+        "large"
+    ]
+}

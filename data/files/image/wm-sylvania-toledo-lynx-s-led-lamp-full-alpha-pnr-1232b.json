@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-sylvania-toledo-lynx-s-led-lamp-full-alpha-pnr-1232b",
+    "name": "SYLVANIA ToLEDo Lynx S LED lamp-full alpha PNr°1232b",
+    "category": "image",
+    "format": "webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/SYLVANIA_ToLEDo_Lynx_S_LED_lamp-full_alpha_PNr%C2%B01232b.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 4125794,
+    "meta": {
+        "width": 1421,
+        "height": 7802
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

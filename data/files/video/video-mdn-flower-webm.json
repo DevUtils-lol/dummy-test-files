@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-mdn-flower-webm",
+    "name": "Flower (CC0)",
+    "category": "video",
+    "format": "webm",
+    "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+    "size": null,
+    "meta": {
+        "codec": "VP8"
+    },
+    "source": "mdn",
+    "tags": [
+        "cc0",
+        "short"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mpeg-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "mpeg",
+    "url": "https://filesamples.com/samples/video/mpeg/sample_640x360.mpeg",
+    "size": 567296,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

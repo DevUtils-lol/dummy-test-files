@@ -1,0 +1,31 @@
+name: Suggest a file
+description: Know a good test file but don't want to open a PR? Tell us here.
+labels: ["suggestion"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Direct download URL
+      description: Must download the file itself — not a web page about it.
+      placeholder: https://example.org/files/sample-4k.mp4
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [any-size, video, streaming, audio, image, document, spreadsheet, data, archive, code, ebook, 3d, font, security]
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License / terms of use
+      placeholder: CC-BY 4.0, public domain, "free for testing", …
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What is it good for testing?
+      placeholder: HEVC 10-bit decode, huge EXIF block, malformed CSV quoting, …

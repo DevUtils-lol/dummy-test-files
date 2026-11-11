@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "soundhelix",
+    "name": "SoundHelix",
+    "homepage": "https://www.soundhelix.com",
+    "license": "Free for any use"
+}

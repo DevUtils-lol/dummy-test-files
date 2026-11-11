@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dfont-sourcecodepro-regular",
+    "name": "SourceCodePro-Regular",
+    "category": "font",
+    "format": "dfont",
+    "url": "https://filesamples.com/samples/font/dfont/SourceCodePro-Regular.dfont",
+    "size": 72765,
+    "approxSize": true,
+    "source": "filesamples"
+}

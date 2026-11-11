@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-009-pdflatex-geotopo-geotopo-pdf",
+    "name": "pdflatex geotopo",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/009-pdflatex-geotopo/GeoTopo.pdf",
+    "size": null,
+    "meta": {
+        "pages": 117
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ],
+    "description": "Tests: annotations: Link ×509"
+}

@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-015-arabic-habibi-oneline-cmap-pdf",
+    "name": "arabic: habibi oneline cmap",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/015-arabic/habibi-oneline-cmap.pdf",
+    "size": null,
+    "meta": {
+        "pages": 1
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ]
+}

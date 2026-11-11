@@ -1,0 +1,21 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "image-nasa-blue-marble-jpg",
+    "name": "Blue Marble 21600×10800",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x21600x10800.jpg",
+    "size": 29868040,
+    "meta": {
+        "width": 21600,
+        "height": 10800
+    },
+    "source": "nasa",
+    "tags": [
+        "huge-dimensions",
+        "large",
+        "233-megapixel"
+    ],
+    "preview": "none",
+    "description": "233 megapixels — stress-tests decoders, thumbnailers and upload limits."
+}

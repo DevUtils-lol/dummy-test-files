@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "sheet-filesamples-xlsx",
+    "name": "Sample Excel workbook",
+    "category": "spreadsheet",
+    "format": "xlsx",
+    "url": "https://filesamples.com/samples/document/xlsx/sample1.xlsx",
+    "size": null,
+    "source": "filesamples",
+    "tags": [
+        "office"
+    ]
+}

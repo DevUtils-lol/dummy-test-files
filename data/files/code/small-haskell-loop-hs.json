@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-haskell-loop-hs",
+    "name": "Smallest valid HS (haskell_loop)",
+    "category": "code",
+    "format": "hs",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/haskell_loop.hs",
+    "size": 10,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

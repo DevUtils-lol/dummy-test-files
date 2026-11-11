@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dts-sample4",
+    "name": "Sample 4",
+    "category": "audio",
+    "format": "dts",
+    "url": "https://filesamples.com/samples/audio/dts/sample4.dts",
+    "size": 43127931,
+    "approxSize": true,
+    "meta": {
+        "duration": 244
+    },
+    "source": "filesamples"
+}

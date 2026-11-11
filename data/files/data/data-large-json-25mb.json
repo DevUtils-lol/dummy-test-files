@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-large-json-25mb",
+    "name": "Large JSON (~25 MB)",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/json-iterator/test-data/master/large-file.json",
+    "size": null,
+    "approxSize": true,
+    "source": "json-iterator",
+    "tags": [
+        "large",
+        "array"
+    ]
+}

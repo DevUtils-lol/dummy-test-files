@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-heif-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "heif",
+    "url": "https://filesamples.com/samples/image/heif/sample1.heif",
+    "size": 2506097,
+    "approxSize": true,
+    "source": "filesamples"
+}

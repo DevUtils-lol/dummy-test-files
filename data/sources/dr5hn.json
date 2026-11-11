@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "dr5hn",
+    "name": "countries-states-cities-database",
+    "homepage": "https://github.com/dr5hn/countries-states-cities-database",
+    "license": "ODbL"
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "font-roboto-bold-latin-woff2",
+    "name": "Roboto Bold (Latin)",
+    "category": "font",
+    "format": "woff2",
+    "url": "https://cdn.jsdelivr.net/npm/@fontsource/roboto@5.3.0/files/roboto-latin-700-normal.woff2",
+    "size": 22240,
+    "source": "fontsource",
+    "tags": [
+        "web-font"
+    ]
+}

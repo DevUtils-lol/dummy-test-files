@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-igea-ply",
+    "name": "Igea (PLY)",
+    "category": "3d",
+    "format": "ply",
+    "url": "https://raw.githubusercontent.com/alecjacobson/common-3d-test-models/master/data/igea.ply",
+    "size": 3107641,
+    "source": "3d-test-models",
+    "tags": [
+        "mesh",
+        "classic-test-model"
+    ]
+}

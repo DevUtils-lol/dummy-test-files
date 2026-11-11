@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-heif-heif",
+    "name": "Smallest valid HEIF",
+    "category": "image",
+    "format": "heif",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/heif.heif",
+    "size": 386,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

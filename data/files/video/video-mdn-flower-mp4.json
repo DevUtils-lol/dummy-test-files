@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-mdn-flower-mp4",
+    "name": "Flower (CC0)",
+    "category": "video",
+    "format": "mp4",
+    "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "size": null,
+    "meta": {
+        "codec": "H.264"
+    },
+    "source": "mdn",
+    "tags": [
+        "cc0",
+        "short"
+    ]
+}

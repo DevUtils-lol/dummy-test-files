@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-cvs-symphony-no-6-1st-movement",
+    "name": "Symphony No.6 (1st movement)",
+    "category": "audio",
+    "format": "cvs",
+    "url": "https://filesamples.com/samples/audio/cvs/Symphony%20No.6%20%281st%20movement%29.cvs",
+    "size": 2915041,
+    "approxSize": true,
+    "source": "filesamples"
+}

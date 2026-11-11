@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-028-image-references-deduplication-wrong-references-pdf",
+    "name": "image references deduplication: wrong references",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/028-image-references-deduplication/wrong-references.pdf",
+    "size": null,
+    "meta": {
+        "pages": 3
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ]
+}

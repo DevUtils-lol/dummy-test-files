@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-xwd-sample-1280-853",
+    "name": "Sample 1280×853",
+    "category": "image",
+    "format": "xwd",
+    "url": "https://filesamples.com/samples/image/xwd/sample_1280%C3%97853.xwd",
+    "size": 3271557,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 853
+    },
+    "source": "filesamples"
+}

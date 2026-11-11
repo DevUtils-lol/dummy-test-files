@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-aac-sample2",
+    "name": "Sample 2",
+    "category": "audio",
+    "format": "aac",
+    "url": "https://filesamples.com/samples/audio/aac/sample2.aac",
+    "size": 3596616,
+    "approxSize": true,
+    "meta": {
+        "duration": 209
+    },
+    "source": "filesamples"
+}

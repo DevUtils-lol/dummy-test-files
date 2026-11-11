@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-vignes-pr-s-du-pic-de-vissou-october-2020",
+    "name": "Vignes près du Pic de Vissou - October 2020",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 42796377,
+    "meta": {
+        "width": 7360,
+        "height": 4600
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ]
+}

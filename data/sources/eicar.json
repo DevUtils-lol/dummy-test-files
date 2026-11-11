@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "eicar",
+    "name": "EICAR",
+    "homepage": "https://www.eicar.org",
+    "license": "Industry-standard anti-malware test file"
+}

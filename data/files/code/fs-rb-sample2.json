@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-rb-sample2",
+    "name": "Sample 2",
+    "category": "code",
+    "format": "rb",
+    "url": "https://filesamples.com/samples/code/rb/sample2.rb",
+    "size": 1116,
+    "approxSize": true,
+    "source": "filesamples"
+}

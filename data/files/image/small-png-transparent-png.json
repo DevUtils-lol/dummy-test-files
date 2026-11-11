@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-png-transparent-png",
+    "name": "Smallest valid PNG (png transparent)",
+    "category": "image",
+    "format": "png",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/png-transparent.png",
+    "size": 67,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

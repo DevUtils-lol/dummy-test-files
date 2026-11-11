@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-hevc-sample-1280x720-surfing-with-audio",
+    "name": "Sample 1280×720 surfing (with audio)",
+    "category": "video",
+    "format": "hevc",
+    "url": "https://filesamples.com/samples/video/hevc/sample_1280x720_surfing_with_audio.hevc",
+    "size": 31625052,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 720
+    },
+    "source": "filesamples"
+}

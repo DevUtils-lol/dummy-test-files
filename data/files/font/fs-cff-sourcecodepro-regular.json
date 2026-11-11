@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-cff-sourcecodepro-regular",
+    "name": "SourceCodePro-Regular",
+    "category": "font",
+    "format": "cff",
+    "url": "https://filesamples.com/samples/font/cff/SourceCodePro-Regular.cff",
+    "size": 43356,
+    "approxSize": true,
+    "source": "filesamples"
+}

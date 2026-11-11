@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-webm-sample-960x400-ocean-with-audio",
+    "name": "Sample 960×400 ocean (with audio)",
+    "category": "video",
+    "format": "webm",
+    "url": "https://filesamples.com/samples/video/webm/sample_960x400_ocean_with_audio.webm",
+    "size": 17249075,
+    "approxSize": true,
+    "meta": {
+        "width": 960,
+        "height": 400,
+        "duration": 47
+    },
+    "source": "filesamples"
+}

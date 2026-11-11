@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-swf-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "swf",
+    "url": "https://filesamples.com/samples/video/swf/sample_640x360.swf",
+    "size": 627886,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360
+    },
+    "source": "filesamples"
+}

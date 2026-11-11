@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-cpp-sample1",
+    "name": "Sample 1",
+    "category": "code",
+    "format": "cpp",
+    "url": "https://filesamples.com/samples/code/cpp/sample1.cpp",
+    "size": 94,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-ada-adb",
+    "name": "Smallest valid ADB (ada)",
+    "category": "code",
+    "format": "adb",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/ada.adb",
+    "size": 27,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

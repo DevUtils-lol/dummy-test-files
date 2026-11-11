@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ps-slick",
+    "name": "slick",
+    "category": "font",
+    "format": "ps",
+    "url": "https://filesamples.com/samples/font/ps/slick.ps",
+    "size": 32338,
+    "approxSize": true,
+    "source": "filesamples"
+}

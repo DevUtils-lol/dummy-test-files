@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "image-picsum-1920",
+    "name": "Random photo 1920×1080",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://picsum.photos/1920/1080",
+    "size": null,
+    "meta": {
+        "width": 1920,
+        "height": 1080
+    },
+    "source": "picsum",
+    "tags": [
+        "photo",
+        "random"
+    ],
+    "description": "A different real photo on every request (redirects to a random image)."
+}

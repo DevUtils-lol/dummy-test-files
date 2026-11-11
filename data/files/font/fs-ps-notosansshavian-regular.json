@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ps-notosansshavian-regular",
+    "name": "NotoSansShavian-Regular",
+    "category": "font",
+    "format": "ps",
+    "url": "https://filesamples.com/samples/font/ps/NotoSansShavian-Regular.ps",
+    "size": 34284,
+    "approxSize": true,
+    "source": "filesamples"
+}

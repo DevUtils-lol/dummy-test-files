@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-magnolia-soulangeana-blossom",
+    "name": "Magnolia × soulangeana blossom",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Magnolia_%C3%97_soulangeana_blossom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 198160,
+    "meta": {
+        "width": 1280,
+        "height": 960
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

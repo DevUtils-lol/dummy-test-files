@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-nyc-taxi-parquet",
+    "name": "NYC yellow taxi trips, Jan 2024",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet",
+    "size": 49961641,
+    "meta": {
+        "rows": 2964624
+    },
+    "source": "nyc-tlc",
+    "tags": [
+        "large",
+        "real-data",
+        "columnar"
+    ]
+}

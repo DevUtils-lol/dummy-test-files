@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-webm-webm",
+    "name": "Smallest valid WEBM",
+    "category": "video",
+    "format": "webm",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/webm.webm",
+    "size": 185,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

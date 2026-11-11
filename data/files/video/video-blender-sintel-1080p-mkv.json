@@ -1,0 +1,21 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-blender-sintel-1080p-mkv",
+    "name": "Sintel full movie 1080p",
+    "category": "video",
+    "format": "mkv",
+    "url": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv",
+    "size": 1180090590,
+    "meta": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 888
+    },
+    "source": "blender",
+    "tags": [
+        "matroska",
+        "large",
+        "1080p",
+        "short-film"
+    ]
+}

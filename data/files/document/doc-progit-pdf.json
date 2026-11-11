@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-progit-pdf",
+    "name": "Pro Git book",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://github.com/progit/progit2/releases/download/2.1.449/progit.pdf",
+    "size": 18804212,
+    "meta": {
+        "pages": 500
+    },
+    "source": "progit",
+    "tags": [
+        "large",
+        "book",
+        "code-blocks"
+    ]
+}

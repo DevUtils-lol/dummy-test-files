@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ts-sample-1920x1080",
+    "name": "Sample 1920×1080",
+    "category": "video",
+    "format": "ts",
+    "url": "https://filesamples.com/samples/video/ts/sample_1920x1080.ts",
+    "size": 15078523,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

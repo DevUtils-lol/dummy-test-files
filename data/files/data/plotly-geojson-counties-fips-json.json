@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-geojson-counties-fips-json",
+    "name": "geojson counties fips",
+    "category": "data",
+    "format": "geojson",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json",
+    "size": 3216816,
+    "source": "plotly",
+    "tags": [
+        "real-data"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bat-bios-date",
+    "name": "bios date",
+    "category": "code",
+    "format": "bat",
+    "url": "https://filesamples.com/samples/code/bat/bios_date.bat",
+    "size": 1075,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-processed-data-csv",
+    "name": "processed data",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/processed_data.csv",
+    "size": 90470092,
+    "source": "plotly",
+    "tags": [
+        "real-data",
+        "large"
+    ]
+}

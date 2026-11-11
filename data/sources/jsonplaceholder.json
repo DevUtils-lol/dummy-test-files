@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "jsonplaceholder",
+    "name": "JSONPlaceholder",
+    "homepage": "https://jsonplaceholder.typicode.com",
+    "license": "Free fake API"
+}

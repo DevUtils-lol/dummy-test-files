@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bin-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "bin",
+    "url": "https://filesamples.com/samples/font/bin/fontawesome-webfont.bin",
+    "size": 252549,
+    "approxSize": true,
+    "source": "filesamples"
+}

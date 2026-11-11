@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-go-sample3",
+    "name": "Sample 3",
+    "category": "code",
+    "format": "go",
+    "url": "https://filesamples.com/samples/code/go/sample3.go",
+    "size": 414,
+    "approxSize": true,
+    "source": "filesamples"
+}

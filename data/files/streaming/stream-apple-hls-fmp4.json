@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "stream-apple-hls-fmp4",
+    "name": "Apple advanced HLS (fMP4)",
+    "category": "streaming",
+    "format": "m3u8",
+    "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+    "size": 6291,
+    "source": "apple",
+    "tags": [
+        "hls",
+        "fmp4",
+        "subtitles"
+    ]
+}

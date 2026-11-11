@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-node-js-20-10-0-windows-x64-7z",
+    "name": "Node.js 20.10.0 Windows x64",
+    "category": "archive",
+    "format": "7z",
+    "url": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-win-x64.7z",
+    "size": 18867114,
+    "source": "nodejs",
+    "tags": [
+        "7-zip"
+    ]
+}

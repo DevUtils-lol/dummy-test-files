@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "security-eicar",
+    "name": "EICAR anti-malware test file",
+    "category": "security",
+    "format": "com",
+    "url": "https://secure.eicar.org/eicar.com",
+    "size": 68,
+    "source": "eicar",
+    "tags": [
+        "antivirus",
+        "upload-scanning"
+    ],
+    "preview": "none",
+    "description": "Harmless by design, but every antivirus flags it — use it to test upload scanners and quarantine flows. Your own antivirus may block the download."
+}

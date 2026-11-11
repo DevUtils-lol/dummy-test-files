@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-fb2-alices-adventures-in-wonderland",
+    "name": "Alices Adventures in Wonderland",
+    "category": "ebook",
+    "format": "fb2",
+    "url": "https://filesamples.com/samples/ebook/fb2/Alices%20Adventures%20in%20Wonderland.fb2",
+    "size": 3250586,
+    "approxSize": true,
+    "source": "filesamples"
+}

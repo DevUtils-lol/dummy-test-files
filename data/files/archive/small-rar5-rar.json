@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-rar5-rar",
+    "name": "Smallest valid RAR (rar5)",
+    "category": "archive",
+    "format": "rar",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/rar5.rar",
+    "size": 65,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-flightdata-csv",
+    "name": "flightdata",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/flightdata.csv",
+    "size": 29970641,
+    "source": "plotly",
+    "tags": [
+        "real-data",
+        "large"
+    ]
+}

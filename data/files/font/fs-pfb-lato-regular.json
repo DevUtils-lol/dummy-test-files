@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pfb-lato-regular",
+    "name": "Lato-Regular",
+    "category": "font",
+    "format": "pfb",
+    "url": "https://filesamples.com/samples/font/pfb/Lato-Regular.pfb",
+    "size": 55460,
+    "approxSize": true,
+    "source": "filesamples"
+}

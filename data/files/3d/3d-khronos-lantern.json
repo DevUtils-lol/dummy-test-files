@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-khronos-lantern",
+    "name": "Lantern",
+    "category": "3d",
+    "format": "glb",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Lantern/glTF-Binary/Lantern.glb",
+    "size": 9564264,
+    "source": "khronos",
+    "tags": [
+        "gltf",
+        "pbr"
+    ]
+}

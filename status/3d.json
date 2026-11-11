@@ -1,0 +1,185 @@
+{
+    "checkedAt": "2026-09-28T17:21:11.136Z",
+    "entries": {
+        "3d-khronos-duck-glb": {
+            "state": "ok",
+            "http": 206,
+            "size": 120484,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-abeautifulgame-glb": {
+            "state": "ok",
+            "http": 206,
+            "size": 42977928,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "wm-wikiversity-logo-3d": {
+            "state": "ok",
+            "http": 206,
+            "size": 475340,
+            "contentType": "application/sla",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "wm-3d-modell-des-sierpinski-dreiecks-20220520-iteration-10": {
+            "state": "ok",
+            "http": 206,
+            "size": 23619684,
+            "contentType": "application/sla",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "wm-meta-wiki-logo-3d": {
+            "state": "ok",
+            "http": 206,
+            "size": 5442630,
+            "contentType": "application/sla",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-stanford-bunny-obj": {
+            "state": "ok",
+            "http": 206,
+            "size": 2408417,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-teapot-obj": {
+            "state": "ok",
+            "http": 206,
+            "size": 210614,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-spot-obj": {
+            "state": "ok",
+            "http": 206,
+            "size": 330624,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-armadillo-obj": {
+            "state": "ok",
+            "http": 206,
+            "size": 4634780,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-horse-obj": {
+            "state": "ok",
+            "http": 206,
+            "size": 4818311,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-xyzrgb-dragon-obj": {
+            "state": "ok",
+            "http": 206,
+            "size": 11817802,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-igea-ply": {
+            "state": "ok",
+            "http": 206,
+            "size": 3107641,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-damagedhelmet": {
+            "state": "ok",
+            "http": 206,
+            "size": 3773916,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-avocado": {
+            "state": "ok",
+            "http": 206,
+            "size": 8110040,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-boombox": {
+            "state": "ok",
+            "http": 206,
+            "size": 10614184,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-fox": {
+            "state": "ok",
+            "http": 206,
+            "size": 162852,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-lantern": {
+            "state": "ok",
+            "http": 206,
+            "size": 9564264,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-toycar": {
+            "state": "ok",
+            "http": 206,
+            "size": 5422412,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-sheenchair": {
+            "state": "ok",
+            "http": 206,
+            "size": 4125648,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "3d-khronos-cesiumman": {
+            "state": "ok",
+            "http": 206,
+            "size": 438044,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        }
+    }
+}

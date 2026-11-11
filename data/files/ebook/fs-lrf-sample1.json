@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-lrf-sample1",
+    "name": "Sample 1",
+    "category": "ebook",
+    "format": "lrf",
+    "url": "https://filesamples.com/samples/ebook/lrf/sample1.lrf",
+    "size": 105902,
+    "approxSize": true,
+    "source": "filesamples"
+}

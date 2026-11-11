@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-medicare-csv",
+    "name": "medicare",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/medicare.csv",
+    "size": 2145177,
+    "source": "plotly",
+    "tags": [
+        "real-data"
+    ]
+}

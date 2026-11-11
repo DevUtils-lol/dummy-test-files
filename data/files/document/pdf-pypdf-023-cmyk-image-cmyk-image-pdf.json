@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-023-cmyk-image-cmyk-image-pdf",
+    "name": "cmyk image",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/023-cmyk-image/cmyk-image.pdf",
+    "size": null,
+    "meta": {
+        "pages": 1
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ]
+}

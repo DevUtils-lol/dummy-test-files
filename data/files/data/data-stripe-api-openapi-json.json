@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-stripe-api-openapi-json",
+    "name": "Stripe API (OpenAPI)",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.json",
+    "size": 8316935,
+    "source": "stripe-openapi",
+    "tags": [
+        "openapi",
+        "large"
+    ]
+}

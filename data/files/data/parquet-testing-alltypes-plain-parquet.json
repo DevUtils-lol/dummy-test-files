@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "parquet-testing-alltypes-plain-parquet",
+    "name": "Every primitive type",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/apache/parquet-testing/master/data/alltypes_plain.parquet",
+    "size": 1851,
+    "source": "parquet-testing",
+    "tags": [
+        "parquet-feature"
+    ]
+}

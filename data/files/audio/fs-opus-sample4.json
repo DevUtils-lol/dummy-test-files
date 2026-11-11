@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-opus-sample4",
+    "name": "Sample 4",
+    "category": "audio",
+    "format": "opus",
+    "url": "https://filesamples.com/samples/audio/opus/sample4.opus",
+    "size": 3418358,
+    "approxSize": true,
+    "meta": {
+        "duration": 244
+    },
+    "source": "filesamples"
+}

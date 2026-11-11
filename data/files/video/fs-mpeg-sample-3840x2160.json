@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mpeg-sample-3840x2160",
+    "name": "Sample 3840×2160",
+    "category": "video",
+    "format": "mpeg",
+    "url": "https://filesamples.com/samples/video/mpeg/sample_3840x2160.mpeg",
+    "size": 46787461,
+    "approxSize": true,
+    "meta": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-016-libre-office-link-libre-office-link-pdf",
+    "name": "libre office link",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/016-libre-office-link/libre-office-link.pdf",
+    "size": null,
+    "meta": {
+        "pages": 1
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ],
+    "description": "Tests: annotations: Link ×1"
+}

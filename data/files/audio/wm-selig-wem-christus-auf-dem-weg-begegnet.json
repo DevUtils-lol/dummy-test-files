@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-selig-wem-christus-auf-dem-weg-begegnet",
+    "name": "Selig, wem Christus auf dem Weg begegnet",
+    "category": "audio",
+    "format": "mid",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Selig%2C_wem_Christus_auf_dem_Weg_begegnet.mid?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 6510,
+    "meta": {
+        "duration": 104
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ],
+    "preview": "none"
+}

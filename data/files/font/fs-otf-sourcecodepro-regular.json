@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-otf-sourcecodepro-regular",
+    "name": "SourceCodePro-Regular",
+    "category": "font",
+    "format": "otf",
+    "url": "https://filesamples.com/samples/font/otf/SourceCodePro-Regular.otf",
+    "size": 117350,
+    "approxSize": true,
+    "source": "filesamples"
+}

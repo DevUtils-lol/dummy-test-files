@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mobi-famouspaintings",
+    "name": "famouspaintings",
+    "category": "ebook",
+    "format": "mobi",
+    "url": "https://filesamples.com/samples/ebook/mobi/famouspaintings.mobi",
+    "size": 6522143,
+    "approxSize": true,
+    "source": "filesamples"
+}

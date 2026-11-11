@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-honeybee-landing-on-milkthistle02",
+    "name": "Honeybee landing on milkthistle02",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Honeybee_landing_on_milkthistle02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 330529,
+    "meta": {
+        "width": 1600,
+        "height": 1067
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

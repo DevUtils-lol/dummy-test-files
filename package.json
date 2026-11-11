@@ -1,0 +1,20 @@
+{
+  "name": "test-files",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An open, community-maintained catalog of test and sample files — every link checked daily.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20.10"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/check-links.mjs",
+    "build": "node scripts/build.mjs",
+    "add": "node scripts/add.mjs",
+    "schema": "node scripts/schema.mjs",
+    "test": "node --test test/",
+    "ci": "node scripts/schema.mjs --check && node scripts/validate.mjs && node --test test/ && node scripts/build.mjs --out .ci-dist"
+  }
+}

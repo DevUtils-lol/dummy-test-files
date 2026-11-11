@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-3gp-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "3gp",
+    "url": "https://filesamples.com/samples/video/3gp/sample_640x360.3gp",
+    "size": 574720,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

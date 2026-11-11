@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dfont-slick",
+    "name": "slick",
+    "category": "font",
+    "format": "dfont",
+    "url": "https://filesamples.com/samples/font/dfont/slick.dfont",
+    "size": 2898,
+    "approxSize": true,
+    "source": "filesamples"
+}

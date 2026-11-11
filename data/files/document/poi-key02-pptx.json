@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-key02-pptx",
+    "name": "Presentation KEY02",
+    "category": "document",
+    "format": "pptx",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/KEY02.pptx",
+    "size": 2282394,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "presentation"
+    ]
+}

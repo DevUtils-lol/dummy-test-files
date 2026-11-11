@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-big-buck-bunny-4k",
+    "name": "Big Buck Bunny 4K",
+    "category": "video",
+    "format": "webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Big_Buck_Bunny_4K.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 2964839055,
+    "meta": {
+        "width": 4000,
+        "height": 2250,
+        "duration": 635
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "very-large"
+    ]
+}

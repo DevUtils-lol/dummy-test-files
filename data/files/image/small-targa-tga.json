@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-targa-tga",
+    "name": "Smallest valid TGA (targa)",
+    "category": "image",
+    "format": "tga",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/targa.tga",
+    "size": 47,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

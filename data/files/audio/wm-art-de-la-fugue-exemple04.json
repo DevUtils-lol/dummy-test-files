@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-art-de-la-fugue-exemple04",
+    "name": "Art de la fugue exemple04",
+    "category": "audio",
+    "format": "mid",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Art_de_la_fugue_exemple04.mid?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 313,
+    "meta": {
+        "duration": 7
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ],
+    "preview": "none"
+}

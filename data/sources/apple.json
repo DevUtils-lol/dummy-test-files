@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "apple",
+    "name": "Apple HLS examples",
+    "homepage": "https://developer.apple.com/streaming/examples/",
+    "license": "Apple sample content"
+}

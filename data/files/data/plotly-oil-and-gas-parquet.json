@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-oil-and-gas-parquet",
+    "name": "oil and gas",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/oil-and-gas.parquet",
+    "size": 2807664,
+    "source": "plotly",
+    "tags": [
+        "real-data"
+    ]
+}

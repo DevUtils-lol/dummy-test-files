@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "imdb",
+    "name": "IMDb non-commercial datasets",
+    "homepage": "https://developer.imdb.com/non-commercial-datasets/",
+    "license": "Personal & non-commercial use"
+}

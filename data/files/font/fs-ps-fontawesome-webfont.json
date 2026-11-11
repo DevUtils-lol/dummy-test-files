@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ps-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "ps",
+    "url": "https://filesamples.com/samples/font/ps/fontawesome-webfont.ps",
+    "size": 533955,
+    "approxSize": true,
+    "source": "filesamples"
+}

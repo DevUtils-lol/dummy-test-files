@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-prunella-modularis-dunnock-xc443806",
+    "name": "Prunella modularis - Dunnock XC443806",
+    "category": "audio",
+    "format": "mp3",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Prunella_modularis_-_Dunnock_XC443806.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 12399859,
+    "meta": {
+        "duration": 426
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

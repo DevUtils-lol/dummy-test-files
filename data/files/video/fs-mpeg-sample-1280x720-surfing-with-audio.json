@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mpeg-sample-1280x720-surfing-with-audio",
+    "name": "Sample 1280×720 surfing (with audio)",
+    "category": "video",
+    "format": "mpeg",
+    "url": "https://filesamples.com/samples/video/mpeg/sample_1280x720_surfing_with_audio.mpeg",
+    "size": 37518049,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 720,
+        "duration": 183
+    },
+    "source": "filesamples"
+}

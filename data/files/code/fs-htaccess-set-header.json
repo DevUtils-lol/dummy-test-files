@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-htaccess-set-header",
+    "name": "set header",
+    "category": "code",
+    "format": "htaccess",
+    "url": "https://filesamples.com/samples/code/htaccess/set_header.htaccess",
+    "size": 34,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-py-sample3",
+    "name": "Sample 3",
+    "category": "code",
+    "format": "py",
+    "url": "https://filesamples.com/samples/code/py/sample3.py",
+    "size": 338,
+    "approxSize": true,
+    "source": "filesamples"
+}

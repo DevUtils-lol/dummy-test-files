@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "nodejs",
+    "name": "Node.js releases",
+    "homepage": "https://nodejs.org/dist/",
+    "license": "MIT"
+}

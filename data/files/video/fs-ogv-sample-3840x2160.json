@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ogv-sample-3840x2160",
+    "name": "Sample 3840×2160",
+    "category": "video",
+    "format": "ogv",
+    "url": "https://filesamples.com/samples/video/ogv/sample_3840x2160.ogv",
+    "size": 8189379,
+    "approxSize": true,
+    "meta": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

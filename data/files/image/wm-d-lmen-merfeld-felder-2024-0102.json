@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-d-lmen-merfeld-felder-2024-0102",
+    "name": "Dülmen, Merfeld, Felder -- 2024 -- 0102",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/D%C3%BClmen%2C_Merfeld%2C_Felder_--_2024_--_0102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 62780952,
+    "meta": {
+        "width": 7847,
+        "height": 5885
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-oga-sample2",
+    "name": "Sample 2",
+    "category": "audio",
+    "format": "oga",
+    "url": "https://filesamples.com/samples/audio/oga/sample2.oga",
+    "size": 23079158,
+    "approxSize": true,
+    "meta": {
+        "duration": 217
+    },
+    "source": "filesamples"
+}

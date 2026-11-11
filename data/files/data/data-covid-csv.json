@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-covid-csv",
+    "name": "COVID-19 time series",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/datasets/covid-19/main/data/time-series-19-covid-combined.csv",
+    "size": 8578215,
+    "source": "datasets",
+    "tags": [
+        "real-data",
+        "time-series"
+    ]
+}

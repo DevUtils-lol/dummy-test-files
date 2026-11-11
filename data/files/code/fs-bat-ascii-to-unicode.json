@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bat-ascii-to-unicode",
+    "name": "ascii to unicode",
+    "category": "code",
+    "format": "bat",
+    "url": "https://filesamples.com/samples/code/bat/ascii_to_unicode.bat",
+    "size": 1618,
+    "approxSize": true,
+    "source": "filesamples"
+}

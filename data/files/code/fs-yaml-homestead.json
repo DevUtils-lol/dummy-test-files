@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-yaml-homestead",
+    "name": "Homestead",
+    "category": "code",
+    "format": "yaml",
+    "url": "https://filesamples.com/samples/code/yaml/Homestead.yaml",
+    "size": 457,
+    "approxSize": true,
+    "source": "filesamples"
+}

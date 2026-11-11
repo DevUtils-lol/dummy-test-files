@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "stripe-openapi",
+    "name": "Stripe OpenAPI",
+    "homepage": "https://github.com/stripe/openapi",
+    "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ps-opensans-regular",
+    "name": "OpenSans-Regular",
+    "category": "font",
+    "format": "ps",
+    "url": "https://filesamples.com/samples/font/ps/OpenSans-Regular.ps",
+    "size": 246886,
+    "approxSize": true,
+    "source": "filesamples"
+}

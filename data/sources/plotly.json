@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "plotly",
+    "name": "plotly/datasets",
+    "homepage": "https://github.com/plotly/datasets",
+    "license": "Various open data (see repo)"
+}

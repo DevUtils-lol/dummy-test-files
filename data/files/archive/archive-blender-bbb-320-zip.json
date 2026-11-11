@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-blender-bbb-320-zip",
+    "name": "Big Buck Bunny 320×180 (zipped MP4)",
+    "category": "archive",
+    "format": "zip",
+    "url": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4.zip",
+    "size": 64657225,
+    "source": "blender",
+    "tags": [
+        "video-inside"
+    ]
+}

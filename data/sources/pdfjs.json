@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "pdfjs",
+    "name": "Mozilla pdf.js test suite",
+    "homepage": "https://github.com/mozilla/pdf.js",
+    "license": "Apache-2.0 (test corpus)"
+}

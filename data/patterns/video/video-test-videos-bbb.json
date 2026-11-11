@@ -1,0 +1,128 @@
+{
+    "$schema": "../../../schema/pattern.schema.json",
+    "id": "video-test-videos-bbb",
+    "category": "video",
+    "source": "test-videos",
+    "idTemplate": "video-{movie.key}-{codec.key}-{res.key}p-{size.key}",
+    "name": "{movie.label} {res.key}p {codec.label}",
+    "url": "https://test-videos.co.uk/vids/{movie.path}/{codec.path}/{res.key}/{movie.file}_{res.key}_10s_{size.key}.{codec.ext}",
+    "format": "{codec.ext}",
+    "size": "{size.bytes}",
+    "approxSize": true,
+    "meta": {
+        "width": "{res.width}",
+        "height": "{res.height}",
+        "duration": "10",
+        "codec": "{codec.label}"
+    },
+    "tags": [
+        "{codec.key}",
+        "{res.key}p",
+        "{movie.key}"
+    ],
+    "vars": {
+        "movie": [
+            {
+                "key": "bbb",
+                "path": "bigbuckbunny",
+                "file": "Big_Buck_Bunny",
+                "label": "Big Buck Bunny"
+            },
+            {
+                "key": "jellyfish",
+                "path": "jellyfish",
+                "file": "Jellyfish",
+                "label": "Jellyfish"
+            }
+        ],
+        "codec": [
+            {
+                "key": "h264",
+                "path": "mp4/h264",
+                "ext": "mp4",
+                "label": "H.264"
+            },
+            {
+                "key": "h265",
+                "path": "mp4/h265",
+                "ext": "mp4",
+                "label": "H.265 / HEVC"
+            },
+            {
+                "key": "av1",
+                "path": "mp4/av1",
+                "ext": "mp4",
+                "label": "AV1"
+            },
+            {
+                "key": "vp9",
+                "path": "webm/vp9",
+                "ext": "webm",
+                "label": "VP9"
+            },
+            {
+                "key": "mkv",
+                "path": "mkv",
+                "ext": "mkv",
+                "label": "H.264 (MKV)"
+            }
+        ],
+        "res": [
+            {
+                "key": "360",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "key": "720",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "key": "1080",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "size": [
+            {
+                "key": "1MB",
+                "bytes": 1048576
+            },
+            {
+                "key": "5MB",
+                "bytes": 5242880
+            },
+            {
+                "key": "10MB",
+                "bytes": 10485760
+            },
+            {
+                "key": "20MB",
+                "bytes": 20971520
+            },
+            {
+                "key": "30MB",
+                "bytes": 31457280
+            }
+        ]
+    },
+    "exclude": [
+        {
+            "movie": "jellyfish",
+            "codec": "av1"
+        },
+        {
+            "movie": "bbb",
+            "codec": "h265",
+            "res": "360",
+            "size": "30MB"
+        },
+        {
+            "movie": "bbb",
+            "codec": "av1",
+            "res": "360",
+            "size": "30MB"
+        }
+    ]
+}

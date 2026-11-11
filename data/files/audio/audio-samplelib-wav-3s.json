@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-samplelib-wav-3s",
+    "name": "Sample 3 seconds",
+    "category": "audio",
+    "format": "wav",
+    "url": "https://samplelib.com/lib/preview/wav/sample-3s.wav",
+    "size": 563756,
+    "meta": {
+        "duration": 3
+    },
+    "source": "samplelib",
+    "tags": [
+        "pcm",
+        "short"
+    ]
+}

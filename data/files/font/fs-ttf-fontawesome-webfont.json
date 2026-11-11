@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ttf-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "ttf",
+    "url": "https://filesamples.com/samples/font/ttf/fontawesome-webfont.ttf",
+    "size": 165550,
+    "approxSize": true,
+    "source": "filesamples"
+}

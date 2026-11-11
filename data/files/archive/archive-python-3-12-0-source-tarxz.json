@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-python-3-12-0-source-tarxz",
+    "name": "Python 3.12.0 source",
+    "category": "archive",
+    "format": "tar.xz",
+    "url": "https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tar.xz",
+    "size": 20575020,
+    "source": "python",
+    "tags": [
+        "xz",
+        "source"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-rm-sample-1280x720-surfing-with-audio",
+    "name": "Sample 1280×720 surfing (with audio)",
+    "category": "video",
+    "format": "rm",
+    "url": "https://filesamples.com/samples/video/rm/sample_1280x720_surfing_with_audio.rm",
+    "size": 38021,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 720
+    },
+    "source": "filesamples"
+}

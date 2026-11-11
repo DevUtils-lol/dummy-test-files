@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-woff-sourcecodepro-regular",
+    "name": "SourceCodePro-Regular",
+    "category": "font",
+    "format": "woff",
+    "url": "https://filesamples.com/samples/font/woff/SourceCodePro-Regular.woff",
+    "size": 34191,
+    "approxSize": true,
+    "source": "filesamples"
+}

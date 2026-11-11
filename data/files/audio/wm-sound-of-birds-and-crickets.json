@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-sound-of-birds-and-crickets",
+    "name": "Sound of birds and crickets",
+    "category": "audio",
+    "format": "wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sound_of_birds_and_crickets.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 101917254,
+    "meta": {
+        "duration": 531
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "ebook-pride-and-prejudice-kindle-kf8-azw3",
+    "name": "Pride and Prejudice (Kindle KF8)",
+    "category": "ebook",
+    "format": "azw3",
+    "url": "https://www.gutenberg.org/ebooks/1342.kf8.images",
+    "size": 25335116,
+    "source": "gutenberg",
+    "tags": [
+        "kindle",
+        "large"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-sfd-slick",
+    "name": "slick",
+    "category": "font",
+    "format": "sfd",
+    "url": "https://filesamples.com/samples/font/sfd/slick.sfd",
+    "size": 7956,
+    "approxSize": true,
+    "source": "filesamples"
+}

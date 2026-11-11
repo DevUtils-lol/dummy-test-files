@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-suite-n-structure-100000-opening-arrays-json",
+    "name": "JSONTestSuite n_structure_100000_opening_arrays.json",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/nst/JSONTestSuite/master/test_parsing/n_structure_100000_opening_arrays.json",
+    "size": null,
+    "source": "json-test-suite",
+    "tags": [
+        "edge-case",
+        "parser-test"
+    ],
+    "description": "100,000 nested “[” — must be rejected without a stack overflow."
+}

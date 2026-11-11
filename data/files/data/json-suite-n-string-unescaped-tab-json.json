@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-suite-n-string-unescaped-tab-json",
+    "name": "JSONTestSuite n_string_unescaped_tab.json",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/nst/JSONTestSuite/master/test_parsing/n_string_unescaped_tab.json",
+    "size": null,
+    "source": "json-test-suite",
+    "tags": [
+        "edge-case",
+        "parser-test"
+    ],
+    "description": "Invalid: raw tab inside a string."
+}

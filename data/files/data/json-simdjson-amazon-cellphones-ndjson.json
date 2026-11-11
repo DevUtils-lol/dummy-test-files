@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-simdjson-amazon-cellphones-ndjson",
+    "name": "amazon cellphones",
+    "category": "data",
+    "format": "ndjson",
+    "url": "https://raw.githubusercontent.com/simdjson/simdjson-data/master/jsonexamples/amazon_cellphones.ndjson",
+    "size": 277673,
+    "source": "simdjson",
+    "tags": [
+        "benchmark",
+        "real-world"
+    ]
+}

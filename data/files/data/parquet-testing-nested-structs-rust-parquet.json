@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "parquet-testing-nested-structs-rust-parquet",
+    "name": "Nested structs",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/apache/parquet-testing/master/data/nested_structs.rust.parquet",
+    "size": 53040,
+    "source": "parquet-testing",
+    "tags": [
+        "parquet-feature"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-psd-sample-5184-3456",
+    "name": "Sample 5184×3456",
+    "category": "image",
+    "format": "psd",
+    "url": "https://filesamples.com/samples/image/psd/sample_5184%C3%973456.psd",
+    "size": 107500012,
+    "approxSize": true,
+    "meta": {
+        "width": 5184,
+        "height": 3456
+    },
+    "source": "filesamples"
+}

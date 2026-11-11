@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "mdn",
+    "name": "MDN Web Docs",
+    "homepage": "https://developer.mozilla.org",
+    "license": "CC0"
+}

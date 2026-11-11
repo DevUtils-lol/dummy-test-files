@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "gutenberg",
+    "name": "Project Gutenberg",
+    "homepage": "https://www.gutenberg.org",
+    "license": "Public domain in the USA"
+}

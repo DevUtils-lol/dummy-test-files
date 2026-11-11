@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-snb-sample1",
+    "name": "Sample 1",
+    "category": "ebook",
+    "format": "snb",
+    "url": "https://filesamples.com/samples/ebook/snb/sample1.snb",
+    "size": 98949,
+    "approxSize": true,
+    "source": "filesamples"
+}

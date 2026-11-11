@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-jpeg2-jp2",
+    "name": "Smallest valid JP2 (jpeg2)",
+    "category": "image",
+    "format": "jp2",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/jpeg2.jp2",
+    "size": 212,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

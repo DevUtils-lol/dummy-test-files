@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-htaccess-enable-browser-cache",
+    "name": "enable browser cache",
+    "category": "code",
+    "format": "htaccess",
+    "url": "https://filesamples.com/samples/code/htaccess/enable_browser_cache.htaccess",
+    "size": 619,
+    "approxSize": true,
+    "source": "filesamples"
+}

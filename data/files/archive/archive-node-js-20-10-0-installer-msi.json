@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-node-js-20-10-0-installer-msi",
+    "name": "Node.js 20.10.0 installer",
+    "category": "archive",
+    "format": "msi",
+    "url": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-x64.msi",
+    "size": 26607616,
+    "source": "nodejs",
+    "tags": [
+        "installer",
+        "windows"
+    ]
+}

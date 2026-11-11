@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-flashvideo-flv",
+    "name": "Smallest valid FLV (FlashVideo)",
+    "category": "video",
+    "format": "flv",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/FlashVideo.flv",
+    "size": 212,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

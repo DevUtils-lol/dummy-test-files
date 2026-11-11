@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-khronos-toycar",
+    "name": "Toy Car",
+    "category": "3d",
+    "format": "glb",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/ToyCar/glTF-Binary/ToyCar.glb",
+    "size": 5422412,
+    "source": "khronos",
+    "tags": [
+        "gltf",
+        "pbr"
+    ]
+}

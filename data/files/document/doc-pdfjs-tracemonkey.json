@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-pdfjs-tracemonkey",
+    "name": "TraceMonkey paper (pdf.js test)",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/mozilla/pdf.js/master/test/pdfs/tracemonkey.pdf",
+    "size": null,
+    "meta": {
+        "pages": 14
+    },
+    "source": "pdfjs",
+    "tags": [
+        "multi-page",
+        "text"
+    ]
+}

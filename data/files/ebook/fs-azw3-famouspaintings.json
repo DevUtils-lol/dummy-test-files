@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-azw3-famouspaintings",
+    "name": "famouspaintings",
+    "category": "ebook",
+    "format": "azw3",
+    "url": "https://filesamples.com/samples/ebook/azw3/famouspaintings.azw3",
+    "size": 10422845,
+    "approxSize": true,
+    "source": "filesamples"
+}

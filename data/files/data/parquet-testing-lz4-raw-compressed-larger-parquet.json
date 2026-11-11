@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "parquet-testing-lz4-raw-compressed-larger-parquet",
+    "name": "LZ4 raw compression",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/apache/parquet-testing/master/data/lz4_raw_compressed_larger.parquet",
+    "size": 380836,
+    "source": "parquet-testing",
+    "tags": [
+        "parquet-feature"
+    ]
+}

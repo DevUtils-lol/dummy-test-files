@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "ebook-pride-and-prejudice-plain-text-txt",
+    "name": "Pride and Prejudice (plain text)",
+    "category": "ebook",
+    "format": "txt",
+    "url": "https://www.gutenberg.org/cache/epub/1342/pg1342.txt",
+    "size": 772386,
+    "source": "gutenberg",
+    "tags": [
+        "utf-8"
+    ]
+}

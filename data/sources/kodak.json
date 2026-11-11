@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "kodak",
+    "name": "Kodak Lossless True Color Image Suite",
+    "homepage": "https://r0k.us/graphics/kodak/",
+    "license": "Released by Kodak for unrestricted use"
+}

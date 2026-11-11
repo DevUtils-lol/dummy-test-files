@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-arxiv-attention",
+    "name": "Attention Is All You Need (arXiv)",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://arxiv.org/pdf/1706.03762",
+    "size": null,
+    "meta": {
+        "pages": 15
+    },
+    "source": "arxiv",
+    "tags": [
+        "paper",
+        "math",
+        "figures"
+    ]
+}

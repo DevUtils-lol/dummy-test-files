@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-erf-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "erf",
+    "url": "https://filesamples.com/samples/image/erf/sample1.erf",
+    "size": 7700,
+    "approxSize": true,
+    "source": "filesamples",
+    "tags": [
+        "camera-raw"
+    ]
+}

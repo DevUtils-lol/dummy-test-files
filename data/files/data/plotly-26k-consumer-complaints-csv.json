@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-26k-consumer-complaints-csv",
+    "name": "26k consumer complaints",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/26k-consumer-complaints.csv",
+    "size": 4762432,
+    "source": "plotly",
+    "tags": [
+        "real-data"
+    ]
+}

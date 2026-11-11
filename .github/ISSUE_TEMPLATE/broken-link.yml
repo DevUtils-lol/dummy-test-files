@@ -1,0 +1,16 @@
+name: Report a problem with a file
+description: Wrong content, misleading name or license problem. (Dead links are removed automatically after 3 failed daily checks.)
+labels: ["problem"]
+body:
+  - type: input
+    id: id
+    attributes:
+      label: Entry id or URL
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+    validations:
+      required: true

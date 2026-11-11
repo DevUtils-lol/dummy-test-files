@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-hdr-sample-640-426",
+    "name": "Sample 640×426",
+    "category": "image",
+    "format": "hdr",
+    "url": "https://filesamples.com/samples/image/hdr/sample_640%C3%97426.hdr",
+    "size": 912876,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 426
+    },
+    "source": "filesamples"
+}

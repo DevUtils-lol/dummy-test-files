@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-ppm-ppm",
+    "name": "Smallest valid PPM",
+    "category": "image",
+    "format": "ppm",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/ppm.ppm",
+    "size": 14,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

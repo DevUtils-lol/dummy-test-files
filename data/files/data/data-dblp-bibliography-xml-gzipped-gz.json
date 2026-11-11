@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-dblp-bibliography-xml-gzipped-gz",
+    "name": "dblp bibliography (XML, gzipped)",
+    "category": "data",
+    "format": "gz",
+    "url": "https://dblp.org/xml/dblp.xml.gz",
+    "size": null,
+    "source": "dblp",
+    "tags": [
+        "xml",
+        "gzip",
+        "huge"
+    ]
+}

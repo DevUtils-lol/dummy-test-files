@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mpeg-sample-960x540",
+    "name": "Sample 960×540",
+    "category": "video",
+    "format": "mpeg",
+    "url": "https://filesamples.com/samples/video/mpeg/sample_960x540.mpeg",
+    "size": 696320,
+    "approxSize": true,
+    "meta": {
+        "width": 960,
+        "height": 540,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

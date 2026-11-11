@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-xpm-sample-1280-853",
+    "name": "Sample 1280×853",
+    "category": "image",
+    "format": "xpm",
+    "url": "https://filesamples.com/samples/image/xpm/sample_1280%C3%97853.xpm",
+    "size": 2191524,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 853
+    },
+    "source": "filesamples"
+}

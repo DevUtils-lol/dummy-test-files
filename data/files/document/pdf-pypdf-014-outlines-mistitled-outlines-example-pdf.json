@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-014-outlines-mistitled-outlines-example-pdf",
+    "name": "outlines: mistitled outlines example",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/014-outlines/mistitled_outlines_example.pdf",
+    "size": null,
+    "meta": {
+        "pages": 4
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ],
+    "description": "Tests: annotations: Link ×9"
+}

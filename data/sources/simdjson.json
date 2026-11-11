@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "simdjson",
+    "name": "simdjson benchmark data",
+    "homepage": "https://github.com/simdjson/simdjson-data",
+    "license": "Various open data (see repo)"
+}

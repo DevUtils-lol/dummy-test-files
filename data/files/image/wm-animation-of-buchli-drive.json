@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-animation-of-buchli-drive",
+    "name": "Animation of Buchli Drive",
+    "category": "image",
+    "format": "gif",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Animation_of_Buchli_Drive.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 10213491,
+    "meta": {
+        "width": 540,
+        "height": 540
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

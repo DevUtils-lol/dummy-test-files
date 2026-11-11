@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-simdjson-twitter-api-compact-response-json",
+    "name": "twitter api compact response",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/simdjson/simdjson-data/master/jsonexamples/twitter_api_compact_response.json",
+    "size": 10075,
+    "source": "simdjson",
+    "tags": [
+        "benchmark",
+        "real-world"
+    ]
+}

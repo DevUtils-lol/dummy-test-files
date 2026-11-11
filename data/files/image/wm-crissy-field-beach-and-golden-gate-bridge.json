@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-crissy-field-beach-and-golden-gate-bridge",
+    "name": "Crissy Field beach and Golden Gate Bridge",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Crissy_Field_beach_and_Golden_Gate_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 4341399,
+    "meta": {
+        "width": 5000,
+        "height": 1404
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "tele2",
+    "name": "Tele2 Speedtest",
+    "homepage": "http://speedtest.tele2.net",
+    "license": "Free to use for testing",
+    "allowHttp": true
+}

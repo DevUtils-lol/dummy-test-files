@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-gif-transparent-gif",
+    "name": "Smallest valid GIF (gif transparent)",
+    "category": "image",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/gif-transparent.gif",
+    "size": 42,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

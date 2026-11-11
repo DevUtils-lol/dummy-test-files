@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-khronos-damagedhelmet",
+    "name": "Damaged Helmet",
+    "category": "3d",
+    "format": "glb",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/DamagedHelmet/glTF-Binary/DamagedHelmet.glb",
+    "size": 3773916,
+    "source": "khronos",
+    "tags": [
+        "gltf",
+        "pbr"
+    ]
+}

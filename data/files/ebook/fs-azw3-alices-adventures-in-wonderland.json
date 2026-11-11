@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-azw3-alices-adventures-in-wonderland",
+    "name": "Alices Adventures in Wonderland",
+    "category": "ebook",
+    "format": "azw3",
+    "url": "https://filesamples.com/samples/ebook/azw3/Alices%20Adventures%20in%20Wonderland.azw3",
+    "size": 880282,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-world-cities-csv",
+    "name": "World cities",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/datasets/world-cities/main/data/world-cities.csv",
+    "size": 1333326,
+    "source": "datasets",
+    "tags": [
+        "real-data"
+    ]
+}

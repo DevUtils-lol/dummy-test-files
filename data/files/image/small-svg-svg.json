@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-svg-svg",
+    "name": "Smallest valid SVG",
+    "category": "image",
+    "format": "svg",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/svg.svg",
+    "size": 41,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

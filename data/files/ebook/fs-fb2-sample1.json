@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-fb2-sample1",
+    "name": "Sample 1",
+    "category": "ebook",
+    "format": "fb2",
+    "url": "https://filesamples.com/samples/ebook/fb2/sample1.fb2",
+    "size": 275046,
+    "approxSize": true,
+    "source": "filesamples"
+}

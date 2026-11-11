@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "image-dummyimage-600",
+    "name": "Black 600×400",
+    "category": "image",
+    "format": "png",
+    "url": "https://dummyimage.com/600x400/000/fff.png",
+    "size": 1824,
+    "meta": {
+        "width": 600,
+        "height": 400
+    },
+    "source": "dummyimage",
+    "tags": [
+        "placeholder"
+    ]
+}

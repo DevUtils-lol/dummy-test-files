@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "sheet-poi-samplexlsx",
+    "name": "Apache POI SampleSS.xlsx",
+    "category": "spreadsheet",
+    "format": "xlsx",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/spreadsheet/SampleSS.xlsx",
+    "size": null,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus"
+    ]
+}

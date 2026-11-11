@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dds-sample-5184-3456",
+    "name": "Sample 5184×3456",
+    "category": "image",
+    "format": "dds",
+    "url": "https://filesamples.com/samples/image/dds/sample_5184%C3%973456.dds",
+    "size": 8954839,
+    "approxSize": true,
+    "meta": {
+        "width": 5184,
+        "height": 3456
+    },
+    "source": "filesamples"
+}

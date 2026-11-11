@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-sql-sample2",
+    "name": "Sample 2",
+    "category": "code",
+    "format": "sql",
+    "url": "https://filesamples.com/samples/code/sql/sample2.sql",
+    "size": 86559,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,239 @@
+{
+    "checkedAt": "2026-09-28T17:21:11.136Z",
+    "entries": {
+        "any-tele2-1KB": {
+            "state": "ok",
+            "http": 206,
+            "size": 1024,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-100KB": {
+            "state": "ok",
+            "http": 206,
+            "size": 102400,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-1MB": {
+            "state": "ok",
+            "http": 206,
+            "size": 1048576,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-10MB": {
+            "state": "ok",
+            "http": 206,
+            "size": 10485760,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-100MB": {
+            "state": "ok",
+            "http": 206,
+            "size": 104857600,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-1GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 1073741824,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-10GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 10737418240,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-50GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 53687091200,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-tele2-100GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 107374182400,
+            "contentType": "application/zip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-ovh-1Mb": {
+            "state": "ok",
+            "http": 206,
+            "size": 1048576,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-ovh-10Mb": {
+            "state": "ok",
+            "http": 206,
+            "size": 10485760,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-ovh-100Mb": {
+            "state": "ok",
+            "http": 206,
+            "size": 104857600,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-ovh-1Gb": {
+            "state": "ok",
+            "http": 206,
+            "size": 1073741824,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-ovh-10Gb": {
+            "state": "ok",
+            "http": 206,
+            "size": 10737418240,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-nbg1-100MB": {
+            "state": "ok",
+            "http": 206,
+            "size": 104857600,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-nbg1-1GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 1073741824,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-nbg1-10GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 10737418240,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-fsn1-100MB": {
+            "state": "ok",
+            "http": 206,
+            "size": 104857600,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-fsn1-1GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 1073741824,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-fsn1-10GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 10737418240,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-hel1-100MB": {
+            "state": "ok",
+            "http": 206,
+            "size": 104857600,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-hel1-1GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 1073741824,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-hel1-10GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 10737418240,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-ash-100MB": {
+            "state": "ok",
+            "http": 206,
+            "size": 104857600,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-ash-1GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 1073741824,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "any-hetzner-ash-10GB": {
+            "state": "ok",
+            "http": 206,
+            "size": 10737418240,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        }
+    }
+}

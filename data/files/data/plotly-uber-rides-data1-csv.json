@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-uber-rides-data1-csv",
+    "name": "uber rides data1",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/uber-rides-data1.csv",
+    "size": 58604196,
+    "source": "plotly",
+    "tags": [
+        "real-data",
+        "large"
+    ]
+}

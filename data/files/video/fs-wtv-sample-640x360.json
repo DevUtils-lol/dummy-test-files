@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-wtv-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "wtv",
+    "url": "https://filesamples.com/samples/video/wtv/sample_640x360.wtv",
+    "size": 630784,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

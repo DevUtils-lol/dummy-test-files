@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-filesamples-docx",
+    "name": "Sample Word document",
+    "category": "document",
+    "format": "docx",
+    "url": "https://filesamples.com/samples/document/docx/sample1.docx",
+    "size": null,
+    "source": "filesamples",
+    "tags": [
+        "office"
+    ]
+}

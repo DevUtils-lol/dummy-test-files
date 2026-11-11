@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.ci-dist/
+.DS_Store

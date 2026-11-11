@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "noto",
+    "name": "Noto fonts (Google)",
+    "homepage": "https://github.com/notofonts",
+    "license": "SIL Open Font License"
+}

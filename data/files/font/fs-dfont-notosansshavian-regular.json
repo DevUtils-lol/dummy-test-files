@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dfont-notosansshavian-regular",
+    "name": "NotoSansShavian-Regular",
+    "category": "font",
+    "format": "dfont",
+    "url": "https://filesamples.com/samples/font/dfont/NotoSansShavian-Regular.dfont",
+    "size": 8899,
+    "approxSize": true,
+    "source": "filesamples"
+}

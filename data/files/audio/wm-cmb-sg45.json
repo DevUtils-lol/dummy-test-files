@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-cmb-sg45",
+    "name": "CMB SG45",
+    "category": "audio",
+    "format": "mid",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/CMB_SG45.MID?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 34697,
+    "meta": {
+        "duration": 715
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ],
+    "preview": "none"
+}

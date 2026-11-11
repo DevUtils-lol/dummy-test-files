@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-suite-y-string-utf8-json",
+    "name": "JSONTestSuite y_string_utf8.json",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/nst/JSONTestSuite/master/test_parsing/y_string_utf8.json",
+    "size": null,
+    "source": "json-test-suite",
+    "tags": [
+        "edge-case",
+        "parser-test"
+    ],
+    "description": "Valid UTF-8 string — must be accepted."
+}

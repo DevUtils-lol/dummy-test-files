@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-htaccess-deny-http-request-methods",
+    "name": "deny http request methods",
+    "category": "code",
+    "format": "htaccess",
+    "url": "https://filesamples.com/samples/code/htaccess/deny_http_request_methods.htaccess",
+    "size": 76,
+    "approxSize": true,
+    "source": "filesamples"
+}

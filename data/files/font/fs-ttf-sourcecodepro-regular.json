@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ttf-sourcecodepro-regular",
+    "name": "SourceCodePro-Regular",
+    "category": "font",
+    "format": "ttf",
+    "url": "https://filesamples.com/samples/font/ttf/SourceCodePro-Regular.ttf",
+    "size": 71741,
+    "approxSize": true,
+    "source": "filesamples"
+}

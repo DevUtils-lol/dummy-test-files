@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-country-borders-high-detail-geojson",
+    "name": "Country borders (high detail)",
+    "category": "data",
+    "format": "geojson",
+    "url": "https://raw.githubusercontent.com/datasets/geo-countries/main/data/countries.geojson",
+    "size": 14643643,
+    "source": "datasets",
+    "tags": [
+        "geo",
+        "large"
+    ]
+}

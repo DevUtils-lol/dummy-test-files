@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "akamai",
+    "name": "Akamai DASH samples",
+    "homepage": "https://dash.akamaized.net",
+    "license": "Free test streams"
+}

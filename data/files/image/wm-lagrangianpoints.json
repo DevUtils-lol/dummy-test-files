@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-lagrangianpoints",
+    "name": "LagrangianPoints",
+    "category": "image",
+    "format": "gif",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/LagrangianPoints.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 8815208,
+    "meta": {
+        "width": 800,
+        "height": 420
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

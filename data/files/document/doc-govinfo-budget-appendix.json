@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-govinfo-budget-appendix",
+    "name": "U.S. Budget Appendix FY2024",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://www.govinfo.gov/content/pkg/BUDGET-2024-APP/pdf/BUDGET-2024-APP.pdf",
+    "size": 15932155,
+    "meta": {
+        "pages": 1400
+    },
+    "source": "govinfo",
+    "tags": [
+        "large",
+        "many-pages",
+        "tables"
+    ]
+}

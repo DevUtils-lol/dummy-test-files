@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-wma-sample4",
+    "name": "Sample 4",
+    "category": "audio",
+    "format": "wma",
+    "url": "https://filesamples.com/samples/audio/wma/sample4.wma",
+    "size": 4215276,
+    "approxSize": true,
+    "meta": {
+        "duration": 245
+    },
+    "source": "filesamples"
+}

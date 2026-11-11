@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-haskell-term-hs",
+    "name": "Smallest valid HS (haskell_term)",
+    "category": "code",
+    "format": "hs",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/haskell_term.hs",
+    "size": 13,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

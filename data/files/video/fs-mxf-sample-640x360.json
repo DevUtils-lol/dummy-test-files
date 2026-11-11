@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mxf-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "mxf",
+    "url": "https://filesamples.com/samples/video/mxf/sample_640x360.mxf",
+    "size": 895560,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

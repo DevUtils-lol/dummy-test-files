@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-hevc-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "hevc",
+    "url": "https://filesamples.com/samples/video/hevc/sample_640x360.hevc",
+    "size": 189532,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360
+    },
+    "source": "filesamples"
+}

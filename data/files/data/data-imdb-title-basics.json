@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-imdb-title-basics",
+    "name": "IMDb titles (gzipped TSV)",
+    "category": "data",
+    "format": "gz",
+    "url": "https://datasets.imdbws.com/title.basics.tsv.gz",
+    "size": 227695173,
+    "source": "imdb",
+    "tags": [
+        "tsv",
+        "gzip",
+        "very-large"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "python",
+    "name": "Python releases",
+    "homepage": "https://www.python.org/downloads/",
+    "license": "PSF License"
+}

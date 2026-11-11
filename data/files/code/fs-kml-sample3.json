@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-kml-sample3",
+    "name": "Sample 3",
+    "category": "code",
+    "format": "kml",
+    "url": "https://filesamples.com/samples/code/kml/sample3.kml",
+    "size": 267,
+    "approxSize": true,
+    "source": "filesamples"
+}

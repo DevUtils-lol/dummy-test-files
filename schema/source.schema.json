@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/DevUtils-lol/test-files/main/schema/source.schema.json",
+  "title": "Source",
+  "description": "Who hosts the files and under which terms. Lives at data/sources/<id>.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "homepage",
+    "license"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "maxLength": 80
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 90
+    },
+    "homepage": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200,
+      "description": "Terms under which the files may be used, e.g. \"CC-BY 4.0\"."
+    },
+    "check": {
+      "enum": [
+        "range",
+        "head"
+      ],
+      "description": "\"head\" for hosts that ignore Range requests and are slow to stream."
+    },
+    "allowHttp": {
+      "type": "boolean",
+      "description": "Accept plain http:// links from this host (maintainers only — e.g. legacy speed-test servers)."
+    },
+    "notes": {
+      "type": "string",
+      "maxLength": 500
+    }
+  }
+}

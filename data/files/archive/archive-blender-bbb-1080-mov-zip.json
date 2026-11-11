@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-blender-bbb-1080-mov-zip",
+    "name": "Big Buck Bunny 1080p MOV (zipped)",
+    "category": "archive",
+    "format": "zip",
+    "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_1080p_h264.mov.zip",
+    "size": 725106348,
+    "source": "blender",
+    "tags": [
+        "video-inside",
+        "very-large"
+    ]
+}

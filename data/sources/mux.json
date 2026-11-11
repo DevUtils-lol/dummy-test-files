@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "mux",
+    "name": "Mux Test Streams",
+    "homepage": "https://test-streams.mux.dev",
+    "license": "Free test streams"
+}

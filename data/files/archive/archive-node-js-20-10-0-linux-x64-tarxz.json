@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-node-js-20-10-0-linux-x64-tarxz",
+    "name": "Node.js 20.10.0 Linux x64",
+    "category": "archive",
+    "format": "tar.xz",
+    "url": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-linux-x64.tar.xz",
+    "size": 25470060,
+    "source": "nodejs",
+    "tags": [
+        "xz"
+    ]
+}

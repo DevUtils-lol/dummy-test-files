@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-cff-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "cff",
+    "url": "https://filesamples.com/samples/font/cff/fontawesome-webfont.cff",
+    "size": 191314,
+    "approxSize": true,
+    "source": "filesamples"
+}

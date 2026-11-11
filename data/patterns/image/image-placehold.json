@@ -1,0 +1,79 @@
+{
+    "$schema": "../../../schema/pattern.schema.json",
+    "id": "image-placehold",
+    "category": "image",
+    "source": "placehold",
+    "idTemplate": "image-placehold-{dim.key}-{fmt.key}",
+    "name": "Placeholder {dim.key}",
+    "url": "https://placehold.co/{dim.key}/{fmt.key}",
+    "format": "{fmt.ext}",
+    "size": null,
+    "meta": {
+        "width": "{dim.width}",
+        "height": "{dim.height}"
+    },
+    "tags": [
+        "placeholder",
+        "{dim.label}"
+    ],
+    "vars": {
+        "dim": [
+            {
+                "key": "150x150",
+                "width": 150,
+                "height": 150,
+                "label": "square"
+            },
+            {
+                "key": "640x480",
+                "width": 640,
+                "height": 480,
+                "label": "vga"
+            },
+            {
+                "key": "1280x720",
+                "width": 1280,
+                "height": 720,
+                "label": "hd"
+            },
+            {
+                "key": "1920x1080",
+                "width": 1920,
+                "height": 1080,
+                "label": "full-hd"
+            },
+            {
+                "key": "3840x2160",
+                "width": 3840,
+                "height": 2160,
+                "label": "4k"
+            }
+        ],
+        "fmt": [
+            {
+                "key": "png",
+                "ext": "png"
+            },
+            {
+                "key": "jpeg",
+                "ext": "jpg"
+            },
+            {
+                "key": "webp",
+                "ext": "webp"
+            },
+            {
+                "key": "avif",
+                "ext": "avif"
+            },
+            {
+                "key": "gif",
+                "ext": "gif"
+            },
+            {
+                "key": "svg",
+                "ext": "svg"
+            }
+        ]
+    }
+}

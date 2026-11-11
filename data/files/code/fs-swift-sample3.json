@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-swift-sample3",
+    "name": "Sample 3",
+    "category": "code",
+    "format": "swift",
+    "url": "https://filesamples.com/samples/code/swift/sample3.swift",
+    "size": 170,
+    "approxSize": true,
+    "source": "filesamples"
+}

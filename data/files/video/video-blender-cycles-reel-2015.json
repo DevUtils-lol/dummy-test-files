@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-blender-cycles-reel-2015",
+    "name": "Cycles demo reel 2015",
+    "category": "video",
+    "format": "mov",
+    "url": "https://download.blender.org/demo/movies/Cycles_Demoreel_2015.mov",
+    "size": 344434359,
+    "meta": {
+        "width": 1920,
+        "height": 1080
+    },
+    "source": "blender",
+    "tags": [
+        "quicktime",
+        "large",
+        "1080p"
+    ]
+}

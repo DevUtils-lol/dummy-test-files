@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-issue-51265-3-docx",
+    "name": "Document issue_51265_3",
+    "category": "document",
+    "format": "docx",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/document/issue_51265_3.docx",
+    "size": 529742,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "word"
+    ]
+}

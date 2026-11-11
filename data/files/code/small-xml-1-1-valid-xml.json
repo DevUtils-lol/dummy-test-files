@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-xml-1-1-valid-xml",
+    "name": "Smallest valid XML (xml 1.1 valid)",
+    "category": "code",
+    "format": "xml",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/xml-1.1-valid.xml",
+    "size": 57,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

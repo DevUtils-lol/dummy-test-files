@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-jpg-sample-5184-3456",
+    "name": "Sample 5184×3456",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://filesamples.com/samples/image/jpg/sample_5184%C3%973456.jpg",
+    "size": 5557453,
+    "approxSize": true,
+    "meta": {
+        "width": 5184,
+        "height": 3456
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-svg-sample-1920-1280",
+    "name": "Sample 1920×1280",
+    "category": "image",
+    "format": "svg",
+    "url": "https://filesamples.com/samples/image/svg/sample_1920%C3%971280.svg",
+    "size": 1069548,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1280
+    },
+    "source": "filesamples"
+}

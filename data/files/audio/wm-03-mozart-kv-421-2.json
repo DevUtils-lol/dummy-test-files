@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-03-mozart-kv-421-2",
+    "name": "03 Mozart KV 421 2",
+    "category": "audio",
+    "format": "flac",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/03_Mozart_KV_421_2.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 47104810,
+    "meta": {
+        "duration": 255
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ]
+}

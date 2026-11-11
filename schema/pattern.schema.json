@@ -1,0 +1,182 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/DevUtils-lol/test-files/main/schema/pattern.schema.json",
+  "title": "Test file pattern",
+  "description": "One definition that expands into many files (cartesian product of vars). String fields may use {var.field} placeholders. Lives at data/patterns/<category>/<id>.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "idTemplate",
+    "name",
+    "category",
+    "format",
+    "url",
+    "size",
+    "source",
+    "vars"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "maxLength": 80,
+      "description": "Unique lowercase-kebab-case id. Must match the file name."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 90,
+      "description": "Short human name, e.g. \"Big Buck Bunny 1080p\"."
+    },
+    "category": {
+      "enum": [
+        "any-size",
+        "video",
+        "streaming",
+        "audio",
+        "image",
+        "document",
+        "spreadsheet",
+        "data",
+        "archive",
+        "code",
+        "ebook",
+        "3d",
+        "font",
+        "security"
+      ],
+      "description": "Must match the folder the file is in."
+    },
+    "source": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Id of a file in data/sources/."
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 300
+    },
+    "preview": {
+      "enum": [
+        "image",
+        "video",
+        "audio",
+        "pdf",
+        "text",
+        "none"
+      ],
+      "description": "Override how apps preview it (derived from the format when omitted)."
+    },
+    "approxSize": {
+      "type": "boolean",
+      "description": "The size is nominal (e.g. a \"10 MB\" file that is 10.4 MB)."
+    },
+    "idTemplate": {
+      "type": "string",
+      "description": "Id of each expanded file, e.g. \"any-cf-{size.key}\"."
+    },
+    "format": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "pattern": "^https?://"
+    },
+    "size": {
+      "type": [
+        "string",
+        "integer",
+        "null"
+      ],
+      "description": "Bytes, or a placeholder like \"{size.bytes}\"."
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 12,
+      "items": {
+        "type": "string"
+      }
+    },
+    "meta": {
+      "type": "object",
+      "description": "Technical details shown next to the file.",
+      "additionalProperties": false,
+      "properties": {
+        "codec": {
+          "type": "string",
+          "maxLength": 40,
+          "description": "e.g. \"H.264\", \"AV1\", \"Opus\""
+        },
+        "width": {
+          "type": [
+            "number",
+            "string"
+          ]
+        },
+        "height": {
+          "type": [
+            "number",
+            "string"
+          ]
+        },
+        "duration": {
+          "type": [
+            "number",
+            "string"
+          ]
+        },
+        "pages": {
+          "type": [
+            "number",
+            "string"
+          ]
+        },
+        "rows": {
+          "type": [
+            "number",
+            "string"
+          ]
+        }
+      }
+    },
+    "vars": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": [
+            "key"
+          ],
+          "properties": {
+            "key": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": {
+            "type": [
+              "string",
+              "number"
+            ]
+          }
+        }
+      }
+    },
+    "exclude": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": {
+          "type": "string"
+        }
+      },
+      "description": "Combinations that don't exist upstream, matched on each var's key."
+    }
+  }
+}

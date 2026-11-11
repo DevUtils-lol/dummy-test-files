@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-azw3-around-the-world-in-28-languages",
+    "name": "Around the World in 28 Languages",
+    "category": "ebook",
+    "format": "azw3",
+    "url": "https://filesamples.com/samples/ebook/azw3/Around%20the%20World%20in%2028%20Languages.azw3",
+    "size": 3428844,
+    "approxSize": true,
+    "source": "filesamples"
+}

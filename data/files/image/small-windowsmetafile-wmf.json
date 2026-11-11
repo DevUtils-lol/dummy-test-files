@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-windowsmetafile-wmf",
+    "name": "Smallest valid WMF (WindowsMetafile)",
+    "category": "image",
+    "format": "wmf",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/WindowsMetafile.wmf",
+    "size": 224,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

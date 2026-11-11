@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "font-noto-cjk-jp-otf",
+    "name": "Noto Sans CJK JP Regular",
+    "category": "font",
+    "format": "otf",
+    "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/Japanese/NotoSansCJKjp-Regular.otf",
+    "size": 16467736,
+    "source": "noto",
+    "tags": [
+        "cjk",
+        "large"
+    ]
+}

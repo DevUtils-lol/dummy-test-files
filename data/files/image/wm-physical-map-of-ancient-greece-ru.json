@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-physical-map-of-ancient-greece-ru",
+    "name": "Physical map of Ancient Greece-ru",
+    "category": "image",
+    "format": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Physical_map_of_Ancient_Greece-ru.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 13615725,
+    "meta": {
+        "width": 11987,
+        "height": 11994
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "huge-dimensions"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "parquet-testing-datapage-v1-corrupt-checksum-parquet",
+    "name": "Corrupt page checksum (should fail validation)",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/apache/parquet-testing/master/data/datapage_v1-corrupt-checksum.parquet",
+    "size": 41421,
+    "source": "parquet-testing",
+    "tags": [
+        "parquet-feature",
+        "edge-case"
+    ]
+}

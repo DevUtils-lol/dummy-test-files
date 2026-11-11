@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "linode",
+    "name": "Akamai / Linode Speed Test",
+    "homepage": "https://www.linode.com/speed-test/",
+    "license": "Free to use for testing"
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-svg-sample-640-426",
+    "name": "Sample 640×426",
+    "category": "image",
+    "format": "svg",
+    "url": "https://filesamples.com/samples/image/svg/sample_640%C3%97426.svg",
+    "size": 119951,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 426
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-simdjson-numbers-json",
+    "name": "numbers",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/simdjson/simdjson-data/master/jsonexamples/numbers.json",
+    "size": 150124,
+    "source": "simdjson",
+    "tags": [
+        "benchmark",
+        "real-world"
+    ]
+}

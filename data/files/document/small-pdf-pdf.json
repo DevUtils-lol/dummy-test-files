@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-pdf-pdf",
+    "name": "Smallest valid PDF",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/pdf.pdf",
+    "size": 130,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

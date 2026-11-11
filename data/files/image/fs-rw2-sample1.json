@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-rw2-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "rw2",
+    "url": "https://filesamples.com/samples/image/rw2/sample1.rw2",
+    "size": 17458790,
+    "approxSize": true,
+    "source": "filesamples",
+    "tags": [
+        "camera-raw"
+    ]
+}

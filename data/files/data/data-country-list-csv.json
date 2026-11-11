@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-country-list-csv",
+    "name": "Country list",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/datasets/country-list/main/data.csv",
+    "size": 4048,
+    "source": "datasets",
+    "tags": [
+        "tiny"
+    ]
+}

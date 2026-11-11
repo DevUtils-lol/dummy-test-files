@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bin-notosansshavian-regular",
+    "name": "NotoSansShavian-Regular",
+    "category": "font",
+    "format": "bin",
+    "url": "https://filesamples.com/samples/font/bin/NotoSansShavian-Regular.bin",
+    "size": 9472,
+    "approxSize": true,
+    "source": "filesamples"
+}

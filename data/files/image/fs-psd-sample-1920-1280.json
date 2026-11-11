@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-psd-sample-1920-1280",
+    "name": "Sample 1920×1280",
+    "category": "image",
+    "format": "psd",
+    "url": "https://filesamples.com/samples/image/psd/sample_1920%C3%971280.psd",
+    "size": 14742979,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1280
+    },
+    "source": "filesamples"
+}

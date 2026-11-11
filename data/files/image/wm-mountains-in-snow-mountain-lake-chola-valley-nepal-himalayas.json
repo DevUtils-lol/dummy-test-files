@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-mountains-in-snow-mountain-lake-chola-valley-nepal-himalayas",
+    "name": "Mountains in snow, Mountain lake, Chola Valley, Nepal, Himalayas",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 7417279,
+    "meta": {
+        "width": 4032,
+        "height": 2688
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

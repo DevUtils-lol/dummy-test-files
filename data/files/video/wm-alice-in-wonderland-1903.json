@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-alice-in-wonderland-1903",
+    "name": "Alice in Wonderland (1903)",
+    "category": "video",
+    "format": "ogv",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Alice_in_Wonderland_%281903%29.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 32341111,
+    "meta": {
+        "width": 480,
+        "height": 360,
+        "duration": 501
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ]
+}

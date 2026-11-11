@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guide
+    url: https://github.com/DevUtils-lol/test-files/blob/main/CONTRIBUTING.md
+    about: How to add files with a pull request (takes a couple of minutes).

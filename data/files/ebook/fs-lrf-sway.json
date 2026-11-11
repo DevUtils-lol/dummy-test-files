@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-lrf-sway",
+    "name": "Sway",
+    "category": "ebook",
+    "format": "lrf",
+    "url": "https://filesamples.com/samples/ebook/lrf/Sway.lrf",
+    "size": 79104,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,698 @@
+{
+    "checkedAt": "2026-09-28T17:21:11.136Z",
+    "entries": {
+        "doc-w3c-dummy-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 13264,
+            "contentType": "application/pdf; qs=0.001",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "doc-pdfjs-tracemonkey": {
+            "state": "ok",
+            "http": 206,
+            "size": 1016315,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "doc-arxiv-attention": {
+            "state": "ok",
+            "http": 206,
+            "size": 2215244,
+            "contentType": "application/pdf",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "doc-filesamples-docx": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "doc-filesamples-pdf-1mb": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/pdf",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "doc-govinfo-budget-appendix": {
+            "state": "ok",
+            "http": 206,
+            "size": 15932155,
+            "contentType": "application/pdf",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "doc-progit-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 18804212,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "doc-filesamples-docx-large": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "wm-atlas-arch-ologique-de-la-tunisie-v1": {
+            "state": "ok",
+            "http": 206,
+            "size": 433638057,
+            "contentType": "application/pdf",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-001-trivial-minimal-document-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 16978,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-002-trivial-libre-office-writer-002-trivial-libre-office-writer-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 12609,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-003-pdflatex-image-pdflatex-image-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 74061,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-004-pdflatex-4-pages-pdflatex-4-pages-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 24607,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-005-libreoffice-writer-password-libreoffice-writer-password-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 12783,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-006-pdflatex-outline-pdflatex-outline-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 48722,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-007-imagemagick-images-imagemagick-ascii85decode-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 2848,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-007-imagemagick-images-imagemagick-images-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 16012,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-007-imagemagick-images-imagemagick-ccittfaxdecode-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 1880,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-007-imagemagick-images-imagemagick-lzw-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 2678,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-008-reportlab-inline-image-inline-image-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 1537,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-009-pdflatex-geotopo-geotopo-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 5321132,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-009-pdflatex-geotopo-geotopo-komprimiert-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 1793479,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-010-pdflatex-forms-pdflatex-forms-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 27712,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-011-google-doc-document-google-doc-document-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 80100,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-012-libreoffice-form-libreoffice-form-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 34186,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-013-reportlab-overlay-reportlab-overlay-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 13790,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-014-outlines-mistitled-outlines-example-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 82281,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-015-arabic-habibi-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 14957,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-015-arabic-habibi-rotated-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 15860,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-015-arabic-habibi-oneline-cmap-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 14957,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-016-libre-office-link-libre-office-link-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 9473,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-017-unreadable-meta-data-unreadablemetadata-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 2818798,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-018-base64-image-base64image-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 2267027,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-019-grayscale-image-grayscale-image-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 40115,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-020-xmp-output-with-metadata-pymupdf-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 2097,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-021-pdfa-crazyones-pdfa-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 16368,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-022-pdfkit-pdfkit-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 14404,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-023-cmyk-image-cmyk-image-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 443953,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-024-annotations-annotated-pdf-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 1833,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-025-attachment-with-attachment-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 24296,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-026-latex-multicolumn-multicolumn-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 78657,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-027-cropped-rotated-scaled-cropped-rotated-scaled-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 272039,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-028-image-references-deduplication-wrong-references-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 78772,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "pdf-pypdf-029-optional-content-groups-ocg-map-test-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 313834,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-key02-pptx": {
+            "state": "ok",
+            "http": 206,
+            "size": 2282394,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-ca-ubc-cs-people-emhill-presentations-howwerefactor-pptx": {
+            "state": "ok",
+            "http": 206,
+            "size": 2059644,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-customgeo-ppt": {
+            "state": "ok",
+            "http": 206,
+            "size": 3333632,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-23884-defense-final-ooimport-edit-ppt": {
+            "state": "ok",
+            "http": 206,
+            "size": 2579456,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-bug61268-doc": {
+            "state": "ok",
+            "http": 206,
+            "size": 6239232,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-saut-page-docx": {
+            "state": "ok",
+            "http": 206,
+            "size": 2959626,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-picture-doc": {
+            "state": "ok",
+            "http": 206,
+            "size": 1448448,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-issue-51265-3-docx": {
+            "state": "ok",
+            "http": 206,
+            "size": 529742,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "poi-bug65649-docx": {
+            "state": "ok",
+            "http": 206,
+            "size": 474844,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "small-pdf-pdf": {
+            "state": "ok",
+            "http": 206,
+            "size": 130,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-djvu-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-djvu-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-doc-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/msword",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-doc-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/msword",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-docx-sample3": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-docx-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-odp-sample3": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.oasis.opendocument.presentation",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-odp-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.oasis.opendocument.presentation",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-odp-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.oasis.opendocument.presentation",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-odt-sample3": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.oasis.opendocument.text",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-odt-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.oasis.opendocument.text",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-odt-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.oasis.opendocument.text",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ott-sample3": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ott-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ott-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pdf-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/pdf",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pdf-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/pdf",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ppt-sample3": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.ms-powerpoint",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ppt-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.ms-powerpoint",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ppt-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/vnd.ms-powerpoint",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-rtf-sample3": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/rtf",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-rtf-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": 1958,
+            "contentType": "application/rtf",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-rtf-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/rtf",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        }
+    }
+}

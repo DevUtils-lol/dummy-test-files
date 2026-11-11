@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ogv-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "ogv",
+    "url": "https://filesamples.com/samples/video/ogv/sample_640x360.ogv",
+    "size": 344965,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

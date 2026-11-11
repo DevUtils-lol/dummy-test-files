@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-dicom-dcm",
+    "name": "Smallest valid DCM (dicom)",
+    "category": "image",
+    "format": "dcm",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/dicom.dcm",
+    "size": 254,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-23884-defense-final-ooimport-edit-ppt",
+    "name": "Presentation 23884_defense_FINAL_OOimport_edit",
+    "category": "document",
+    "format": "ppt",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/23884_defense_FINAL_OOimport_edit.ppt",
+    "size": 2579456,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "presentation"
+    ]
+}

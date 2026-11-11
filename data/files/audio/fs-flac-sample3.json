@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-flac-sample3",
+    "name": "Sample 3",
+    "category": "audio",
+    "format": "flac",
+    "url": "https://filesamples.com/samples/audio/flac/sample3.flac",
+    "size": 12478054,
+    "approxSize": true,
+    "meta": {
+        "duration": 106
+    },
+    "source": "filesamples"
+}

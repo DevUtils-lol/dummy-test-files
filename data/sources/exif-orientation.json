@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "exif-orientation",
+    "name": "recurser/exif-orientation-examples",
+    "homepage": "https://github.com/recurser/exif-orientation-examples",
+    "license": "MIT"
+}

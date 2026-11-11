@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "gharchive",
+    "name": "GH Archive",
+    "homepage": "https://www.gharchive.org",
+    "license": "Public GitHub event data"
+}

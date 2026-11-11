@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "govinfo",
+    "name": "U.S. Government Publishing Office",
+    "homepage": "https://www.govinfo.gov",
+    "license": "Public domain (U.S. government)"
+}

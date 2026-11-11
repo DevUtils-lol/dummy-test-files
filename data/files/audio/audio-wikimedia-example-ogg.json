@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-wikimedia-example-ogg",
+    "name": "Example.ogg",
+    "category": "audio",
+    "format": "ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Example.ogg",
+    "size": null,
+    "meta": {
+        "codec": "Vorbis"
+    },
+    "source": "wikimedia",
+    "tags": [
+        "vorbis"
+    ]
+}

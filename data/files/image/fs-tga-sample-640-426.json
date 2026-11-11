@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-tga-sample-640-426",
+    "name": "Sample 640×426",
+    "category": "image",
+    "format": "tga",
+    "url": "https://filesamples.com/samples/image/tga/sample_640%C3%97426.tga",
+    "size": 817940,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 426
+    },
+    "source": "filesamples"
+}

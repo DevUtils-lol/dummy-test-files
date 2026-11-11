@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-filesamples-pdf-1mb",
+    "name": "Sample PDF with images",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://filesamples.com/samples/document/pdf/sample3.pdf",
+    "size": 1253607,
+    "source": "filesamples",
+    "tags": [
+        "images"
+    ]
+}

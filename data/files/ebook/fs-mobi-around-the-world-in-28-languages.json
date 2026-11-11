@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mobi-around-the-world-in-28-languages",
+    "name": "Around the World in 28 Languages",
+    "category": "ebook",
+    "format": "mobi",
+    "url": "https://filesamples.com/samples/ebook/mobi/Around%20the%20World%20in%2028%20Languages.mobi",
+    "size": 447078,
+    "approxSize": true,
+    "source": "filesamples"
+}

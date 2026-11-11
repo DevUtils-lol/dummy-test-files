@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-bowling-balls-beach-2",
+    "name": "Bowling Balls Beach 2",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bowling_Balls_Beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 2470662,
+    "meta": {
+        "width": 2142,
+        "height": 1386
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

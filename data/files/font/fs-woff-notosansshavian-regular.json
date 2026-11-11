@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-woff-notosansshavian-regular",
+    "name": "NotoSansShavian-Regular",
+    "category": "font",
+    "format": "woff",
+    "url": "https://filesamples.com/samples/font/woff/NotoSansShavian-Regular.woff",
+    "size": 5018,
+    "approxSize": true,
+    "source": "filesamples"
+}

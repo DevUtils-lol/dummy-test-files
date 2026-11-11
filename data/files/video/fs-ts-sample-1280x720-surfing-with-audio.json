@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ts-sample-1280x720-surfing-with-audio",
+    "name": "Sample 1280×720 surfing (with audio)",
+    "category": "video",
+    "format": "ts",
+    "url": "https://filesamples.com/samples/video/ts/sample_1280x720_surfing_with_audio.ts",
+    "size": 40705720,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 720,
+        "duration": 183
+    },
+    "source": "filesamples"
+}

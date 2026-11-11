@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-snb-alices-adventures-in-wonderland",
+    "name": "Alices Adventures in Wonderland",
+    "category": "ebook",
+    "format": "snb",
+    "url": "https://filesamples.com/samples/ebook/snb/Alices%20Adventures%20in%20Wonderland.snb",
+    "size": 3261071,
+    "approxSize": true,
+    "source": "filesamples"
+}

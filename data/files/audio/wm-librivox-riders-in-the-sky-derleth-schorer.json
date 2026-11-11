@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-librivox-riders-in-the-sky-derleth-schorer",
+    "name": "LibriVox - Riders in the Sky (Derleth & Schorer)",
+    "category": "audio",
+    "format": "mp3",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LibriVox_-_Riders_in_the_Sky_%28Derleth_%26_Schorer%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 16160514,
+    "meta": {
+        "duration": 1010
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

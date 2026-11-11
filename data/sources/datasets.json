@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "datasets",
+    "name": "datasets on GitHub",
+    "homepage": "https://github.com/datasets",
+    "license": "ODC-PDDL"
+}

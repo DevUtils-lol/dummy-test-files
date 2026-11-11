@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "json-iterator",
+    "name": "json-iterator/test-data",
+    "homepage": "https://github.com/json-iterator/test-data",
+    "license": "MIT"
+}

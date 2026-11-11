@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "geofabrik",
+    "name": "Geofabrik (OpenStreetMap extracts)",
+    "homepage": "https://download.geofabrik.de",
+    "license": "ODbL (© OpenStreetMap contributors)"
+}

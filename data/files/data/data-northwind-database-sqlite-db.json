@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-northwind-database-sqlite-db",
+    "name": "Northwind database (SQLite)",
+    "category": "data",
+    "format": "db",
+    "url": "https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/main/dist/northwind.db",
+    "size": 24702976,
+    "source": "northwind",
+    "tags": [
+        "sqlite",
+        "relational",
+        "large"
+    ]
+}

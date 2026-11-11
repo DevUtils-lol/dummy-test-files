@@ -1,0 +1,58 @@
+{
+    "$schema": "../../../schema/pattern.schema.json",
+    "id": "any-size-hetzner",
+    "category": "any-size",
+    "source": "hetzner",
+    "idTemplate": "any-hetzner-{dc.key}-{size.key}",
+    "name": "{size.label} binary (Hetzner {dc.label})",
+    "url": "https://{dc.key}-speed.hetzner.com/{size.key}.bin",
+    "format": "bin",
+    "size": "{size.bytes}",
+    "tags": [
+        "speed-test",
+        "{size.label}",
+        "{dc.region}"
+    ],
+    "preview": "none",
+    "vars": {
+        "dc": [
+            {
+                "key": "nbg1",
+                "label": "Nuremberg",
+                "region": "europe"
+            },
+            {
+                "key": "fsn1",
+                "label": "Falkenstein",
+                "region": "europe"
+            },
+            {
+                "key": "hel1",
+                "label": "Helsinki",
+                "region": "europe"
+            },
+            {
+                "key": "ash",
+                "label": "Ashburn",
+                "region": "us-east"
+            }
+        ],
+        "size": [
+            {
+                "key": "100MB",
+                "label": "100 MB",
+                "bytes": 104857600
+            },
+            {
+                "key": "1GB",
+                "label": "1 GB",
+                "bytes": 1073741824
+            },
+            {
+                "key": "10GB",
+                "label": "10 GB",
+                "bytes": 10737418240
+            }
+        ]
+    }
+}

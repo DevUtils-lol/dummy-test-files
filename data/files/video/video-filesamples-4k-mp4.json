@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-filesamples-4k-mp4",
+    "name": "Sample 4K UHD",
+    "category": "video",
+    "format": "mp4",
+    "url": "https://filesamples.com/samples/video/mp4/sample_3840x2160.mp4",
+    "size": 132619240,
+    "meta": {
+        "width": 3840,
+        "height": 2160
+    },
+    "source": "filesamples",
+    "tags": [
+        "4k",
+        "uhd",
+        "large"
+    ]
+}

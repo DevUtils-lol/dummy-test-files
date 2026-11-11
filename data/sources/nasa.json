@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "nasa",
+    "name": "NASA Visible Earth",
+    "homepage": "https://visibleearth.nasa.gov",
+    "license": "Public domain (NASA)"
+}

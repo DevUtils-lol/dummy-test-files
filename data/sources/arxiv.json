@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "arxiv",
+    "name": "arXiv",
+    "homepage": "https://arxiv.org",
+    "license": "Per-paper license"
+}

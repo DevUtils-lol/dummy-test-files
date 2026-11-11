@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-hevc-sample-2560x1440",
+    "name": "Sample 2560×1440",
+    "category": "video",
+    "format": "hevc",
+    "url": "https://filesamples.com/samples/video/hevc/sample_2560x1440.hevc",
+    "size": 35347497,
+    "approxSize": true,
+    "meta": {
+        "width": 2560,
+        "height": 1440
+    },
+    "source": "filesamples"
+}

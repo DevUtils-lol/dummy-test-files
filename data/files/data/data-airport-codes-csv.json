@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-airport-codes-csv",
+    "name": "Airport codes",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/datasets/airport-codes/main/data/airport-codes.csv",
+    "size": 8810002,
+    "source": "datasets",
+    "tags": [
+        "real-data"
+    ]
+}

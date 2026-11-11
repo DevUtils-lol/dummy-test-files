@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-004-pdflatex-4-pages-pdflatex-4-pages-pdf",
+    "name": "pdflatex 4 pages",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/004-pdflatex-4-pages/pdflatex-4-pages.pdf",
+    "size": null,
+    "meta": {
+        "pages": 4
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ]
+}

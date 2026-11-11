@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "code-petstore-openapi-3-0-yaml",
+    "name": "Petstore (OpenAPI 3.0)",
+    "category": "code",
+    "format": "yaml",
+    "url": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/_archive_/schemas/v3.0/pass/petstore.yaml",
+    "size": 2772,
+    "source": "openapi-spec",
+    "tags": [
+        "openapi",
+        "tiny"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "nyc-tlc",
+    "name": "NYC Taxi & Limousine Commission",
+    "homepage": "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page",
+    "license": "NYC Open Data"
+}

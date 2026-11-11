@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-cur-sample-1280-853",
+    "name": "Sample 1280×853",
+    "category": "image",
+    "format": "cur",
+    "url": "https://filesamples.com/samples/image/cur/sample_1280%C3%97853.cur",
+    "size": 180634,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 853
+    },
+    "source": "filesamples"
+}

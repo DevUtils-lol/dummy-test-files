@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-blender-tos-battle-mp3",
+    "name": "Tears of Steel OST — The battle",
+    "category": "audio",
+    "format": "mp3",
+    "url": "https://download.blender.org/demo/movies/ToS/Tears-Of-Steel-OST/03%20The%20battle.mp3",
+    "size": 4926611,
+    "source": "blender",
+    "tags": [
+        "music",
+        "soundtrack"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-meta-wiki-logo-3d",
+    "name": "Meta-wiki-logo-3D",
+    "category": "3d",
+    "format": "stl",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Meta-wiki-logo-3D.stl?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 5442630,
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ],
+    "preview": "none"
+}

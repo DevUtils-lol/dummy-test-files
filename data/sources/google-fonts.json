@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "google-fonts",
+    "name": "Google Fonts",
+    "homepage": "https://github.com/google/fonts",
+    "license": "SIL Open Font License"
+}

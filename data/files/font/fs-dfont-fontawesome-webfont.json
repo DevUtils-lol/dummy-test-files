@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dfont-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "dfont",
+    "url": "https://filesamples.com/samples/font/dfont/fontawesome-webfont.dfont",
+    "size": 166564,
+    "approxSize": true,
+    "source": "filesamples"
+}

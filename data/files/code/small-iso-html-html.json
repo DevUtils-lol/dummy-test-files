@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-iso-html-html",
+    "name": "Smallest valid HTML (iso html)",
+    "category": "code",
+    "format": "html",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/iso-html.html",
+    "size": 113,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

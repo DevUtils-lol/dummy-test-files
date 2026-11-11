@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mp3-sample4",
+    "name": "Sample 4",
+    "category": "audio",
+    "format": "mp3",
+    "url": "https://filesamples.com/samples/audio/mp3/sample4.mp3",
+    "size": 3911188,
+    "approxSize": true,
+    "meta": {
+        "duration": 245
+    },
+    "source": "filesamples"
+}

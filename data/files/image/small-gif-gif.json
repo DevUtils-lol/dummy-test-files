@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-gif-gif",
+    "name": "Smallest valid GIF",
+    "category": "image",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/gif.gif",
+    "size": 14,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

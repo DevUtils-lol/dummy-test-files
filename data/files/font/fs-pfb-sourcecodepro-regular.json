@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pfb-sourcecodepro-regular",
+    "name": "SourceCodePro-Regular",
+    "category": "font",
+    "format": "pfb",
+    "url": "https://filesamples.com/samples/font/pfb/SourceCodePro-Regular.pfb",
+    "size": 65260,
+    "approxSize": true,
+    "source": "filesamples"
+}

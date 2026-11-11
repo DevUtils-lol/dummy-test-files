@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-cpp-cpp",
+    "name": "Smallest valid CPP",
+    "category": "code",
+    "format": "cpp",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/cpp.cpp",
+    "size": 12,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

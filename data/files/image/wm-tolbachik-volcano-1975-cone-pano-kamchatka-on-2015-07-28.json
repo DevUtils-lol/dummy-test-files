@@ -1,0 +1,20 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-tolbachik-volcano-1975-cone-pano-kamchatka-on-2015-07-28",
+    "name": "Tolbachik volcano 1975 cone pano Kamchatka on 2015-07-28",
+    "category": "image",
+    "format": "png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Tolbachik_volcano_1975_cone_pano_Kamchatka_on_2015-07-28.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 136366064,
+    "meta": {
+        "width": 23040,
+        "height": 3840
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large",
+        "huge-dimensions"
+    ],
+    "preview": "none"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-m4r-sample3",
+    "name": "Sample 3",
+    "category": "audio",
+    "format": "m4r",
+    "url": "https://filesamples.com/samples/audio/m4r/sample3.m4r",
+    "size": 509788,
+    "approxSize": true,
+    "meta": {
+        "duration": 30
+    },
+    "source": "filesamples"
+}

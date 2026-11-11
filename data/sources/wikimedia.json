@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "wikimedia",
+    "name": "Wikimedia Commons",
+    "homepage": "https://commons.wikimedia.org",
+    "license": "Public domain / CC (see file page)"
+}

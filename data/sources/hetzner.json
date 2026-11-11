@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "hetzner",
+    "name": "Hetzner Speed Test",
+    "homepage": "https://www.hetzner.com",
+    "license": "Free to use for testing"
+}

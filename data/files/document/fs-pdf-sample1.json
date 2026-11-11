@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pdf-sample1",
+    "name": "Sample 1",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://filesamples.com/samples/document/pdf/sample1.pdf",
+    "size": 581407,
+    "approxSize": true,
+    "source": "filesamples"
+}

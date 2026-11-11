@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-samplelib-mp3-3s",
+    "name": "Sample 3 seconds",
+    "category": "audio",
+    "format": "mp3",
+    "url": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+    "size": 52079,
+    "meta": {
+        "duration": 3
+    },
+    "source": "samplelib",
+    "tags": [
+        "short"
+    ]
+}

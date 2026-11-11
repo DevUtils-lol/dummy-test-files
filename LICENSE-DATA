@@ -1,0 +1,7 @@
+The catalog data in this repository (everything under data/ and status/, and the
+files published to the `dist` branch) is dedicated to the public domain under
+Creative Commons CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+
+This covers the catalog entries (names, URLs, sizes, metadata), not the linked files.
+Each linked file remains the property of its publisher and is used under the terms
+stated in its source entry (data/sources/<id>.json).

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-csv-sample4",
+    "name": "Sample 4",
+    "category": "data",
+    "format": "csv",
+    "url": "https://filesamples.com/samples/document/csv/sample4.csv",
+    "size": 7916,
+    "approxSize": true,
+    "source": "filesamples"
+}

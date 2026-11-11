@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-0music-12-melomics",
+    "name": "0music 12 Melomics",
+    "category": "audio",
+    "format": "flac",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/0music_12_Melomics.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 35224559,
+    "meta": {
+        "duration": 410
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ]
+}

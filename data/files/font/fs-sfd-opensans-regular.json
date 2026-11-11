@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-sfd-opensans-regular",
+    "name": "OpenSans-Regular",
+    "category": "font",
+    "format": "sfd",
+    "url": "https://filesamples.com/samples/font/sfd/OpenSans-Regular.sfd",
+    "size": 100925,
+    "approxSize": true,
+    "source": "filesamples"
+}

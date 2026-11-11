@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "code-cldr-supplemental-data-xml",
+    "name": "CLDR supplemental data",
+    "category": "code",
+    "format": "xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/main/common/supplemental/supplementalData.xml",
+    "size": 394860,
+    "source": "cldr",
+    "tags": [
+        "xml",
+        "i18n"
+    ]
+}

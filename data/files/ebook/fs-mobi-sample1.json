@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mobi-sample1",
+    "name": "Sample 1",
+    "category": "ebook",
+    "format": "mobi",
+    "url": "https://filesamples.com/samples/ebook/mobi/sample1.mobi",
+    "size": 216781,
+    "approxSize": true,
+    "source": "filesamples"
+}

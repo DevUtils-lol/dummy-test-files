@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-chinook-music-store-database-sqlite",
+    "name": "Chinook music store database",
+    "category": "data",
+    "format": "sqlite",
+    "url": "https://github.com/lerocha/chinook-database/releases/download/v1.4.5/Chinook_Sqlite.sqlite",
+    "size": 1067008,
+    "source": "chinook",
+    "tags": [
+        "sqlite",
+        "relational"
+    ]
+}

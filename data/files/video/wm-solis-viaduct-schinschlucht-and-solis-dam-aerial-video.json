@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-solis-viaduct-schinschlucht-and-solis-dam-aerial-video",
+    "name": "Solis Viaduct, Schinschlucht and Solis dam, aerial video",
+    "category": "video",
+    "format": "webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Solis_Viaduct%2C_Schinschlucht_and_Solis_dam%2C_aerial_video.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 343011020,
+    "meta": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 183
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "very-large"
+    ]
+}

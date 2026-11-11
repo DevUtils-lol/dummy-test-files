@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-jfif-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "jfif",
+    "url": "https://filesamples.com/samples/image/jfif/sample1.jfif",
+    "size": 80998,
+    "approxSize": true,
+    "source": "filesamples"
+}

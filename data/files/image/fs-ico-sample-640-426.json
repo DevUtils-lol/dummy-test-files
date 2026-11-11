@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ico-sample-640-426",
+    "name": "Sample 640×426",
+    "category": "image",
+    "format": "ico",
+    "url": "https://filesamples.com/samples/image/ico/sample_640%C3%97426.ico",
+    "size": 179579,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 426
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-countries-geojson",
+    "name": "World countries (1:110m)",
+    "category": "data",
+    "format": "geojson",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "size": null,
+    "source": "natural-earth",
+    "tags": [
+        "geo",
+        "polygons"
+    ]
+}

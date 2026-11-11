@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bin-opensans-regular",
+    "name": "OpenSans-Regular",
+    "category": "font",
+    "format": "bin",
+    "url": "https://filesamples.com/samples/font/bin/OpenSans-Regular.bin",
+    "size": 102277,
+    "approxSize": true,
+    "source": "filesamples"
+}

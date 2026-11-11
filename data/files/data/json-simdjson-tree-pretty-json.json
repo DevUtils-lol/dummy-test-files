@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-simdjson-tree-pretty-json",
+    "name": "tree pretty",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/simdjson/simdjson-data/master/jsonexamples/tree-pretty.json",
+    "size": 34556,
+    "source": "simdjson",
+    "tags": [
+        "benchmark",
+        "real-world"
+    ]
+}

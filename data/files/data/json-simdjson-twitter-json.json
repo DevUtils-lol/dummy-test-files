@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-simdjson-twitter-json",
+    "name": "twitter",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/simdjson/simdjson-data/master/jsonexamples/twitter.json",
+    "size": 631515,
+    "source": "simdjson",
+    "tags": [
+        "benchmark",
+        "real-world"
+    ]
+}

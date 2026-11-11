@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-woff-opensans-regular",
+    "name": "OpenSans-Regular",
+    "category": "font",
+    "format": "woff",
+    "url": "https://filesamples.com/samples/font/woff/OpenSans-Regular.woff",
+    "size": 67533,
+    "approxSize": true,
+    "source": "filesamples"
+}

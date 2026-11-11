@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pef-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "pef",
+    "url": "https://filesamples.com/samples/image/pef/sample1.pef",
+    "size": 21055406,
+    "approxSize": true,
+    "source": "filesamples",
+    "tags": [
+        "camera-raw"
+    ]
+}

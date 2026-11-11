@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ogv-sample-1280x720-surfing-with-audio",
+    "name": "Sample 1280×720 surfing (with audio)",
+    "category": "video",
+    "format": "ogv",
+    "url": "https://filesamples.com/samples/video/ogv/sample_1280x720_surfing_with_audio.ogv",
+    "size": 7056916,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 720,
+        "duration": 183
+    },
+    "source": "filesamples"
+}

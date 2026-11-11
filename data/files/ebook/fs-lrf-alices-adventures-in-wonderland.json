@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-lrf-alices-adventures-in-wonderland",
+    "name": "Alices Adventures in Wonderland",
+    "category": "ebook",
+    "format": "lrf",
+    "url": "https://filesamples.com/samples/ebook/lrf/Alices%20Adventures%20in%20Wonderland.lrf",
+    "size": 1583350,
+    "approxSize": true,
+    "source": "filesamples"
+}

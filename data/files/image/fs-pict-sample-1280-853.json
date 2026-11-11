@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pict-sample-1280-853",
+    "name": "Sample 1280×853",
+    "category": "image",
+    "format": "pict",
+    "url": "https://filesamples.com/samples/image/pict/sample_1280%C3%97853.pict",
+    "size": 3261071,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 853
+    },
+    "source": "filesamples"
+}

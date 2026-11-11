@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-the-great-train-robbery-1903",
+    "name": "The Great Train Robbery (1903)",
+    "category": "video",
+    "format": "webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_Great_Train_Robbery_%281903%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 531640875,
+    "meta": {
+        "width": 1440,
+        "height": 1080,
+        "duration": 808
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "very-large"
+    ]
+}

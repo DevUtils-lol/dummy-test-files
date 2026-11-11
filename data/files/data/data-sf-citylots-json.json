@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-sf-citylots-json",
+    "name": "San Francisco city lots (190 MB)",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/zemirco/sf-city-lots-json/master/citylots.json",
+    "size": 189778220,
+    "source": "sf-citylots",
+    "tags": [
+        "geojson",
+        "very-large",
+        "streaming-parser"
+    ],
+    "preview": "none"
+}

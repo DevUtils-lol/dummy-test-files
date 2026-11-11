@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-json-sample4",
+    "name": "Sample 4",
+    "category": "code",
+    "format": "json",
+    "url": "https://filesamples.com/samples/code/json/sample4.json",
+    "size": 451,
+    "approxSize": true,
+    "source": "filesamples"
+}

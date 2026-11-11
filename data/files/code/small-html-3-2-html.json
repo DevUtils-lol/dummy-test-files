@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-html-3-2-html",
+    "name": "Smallest valid HTML (html 3.2)",
+    "category": "code",
+    "format": "html",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/html-3.2.html",
+    "size": 63,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

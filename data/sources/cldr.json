@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "cldr",
+    "name": "Unicode CLDR",
+    "homepage": "https://cldr.unicode.org",
+    "license": "Unicode License"
+}

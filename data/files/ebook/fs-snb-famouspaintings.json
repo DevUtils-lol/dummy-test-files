@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-snb-famouspaintings",
+    "name": "famouspaintings",
+    "category": "ebook",
+    "format": "snb",
+    "url": "https://filesamples.com/samples/ebook/snb/famouspaintings.snb",
+    "size": 1373635,
+    "approxSize": true,
+    "source": "filesamples"
+}

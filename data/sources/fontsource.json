@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "fontsource",
+    "name": "Fontsource",
+    "homepage": "https://fontsource.org",
+    "license": "SIL Open Font License"
+}

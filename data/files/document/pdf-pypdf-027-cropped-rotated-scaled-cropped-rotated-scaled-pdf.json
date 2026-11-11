@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-027-cropped-rotated-scaled-cropped-rotated-scaled-pdf",
+    "name": "cropped rotated scaled",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/027-cropped-rotated-scaled/cropped-rotated-scaled.pdf",
+    "size": null,
+    "meta": {
+        "pages": 4
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature",
+        "forms"
+    ],
+    "description": "Tests: form fields; annotations: Highlight ×32, FileAttachment ×32, Link ×64, Polygon ×64, Popup ×64, Text ×32, Widget ×96"
+}

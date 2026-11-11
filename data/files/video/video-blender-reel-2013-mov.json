@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-blender-reel-2013-mov",
+    "name": "Blender reel 2013",
+    "category": "video",
+    "format": "mov",
+    "url": "https://download.blender.org/demo/movies/Blender_reel_2013.mov",
+    "size": 2516125285,
+    "meta": {
+        "width": 1920,
+        "height": 1080
+    },
+    "source": "blender",
+    "tags": [
+        "quicktime",
+        "very-large",
+        "1080p"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-objective-c-m",
+    "name": "Smallest valid M (objective c)",
+    "category": "code",
+    "format": "m",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/objective-c.m",
+    "size": 12,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

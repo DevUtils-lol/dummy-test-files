@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ps-sourcecodepro-regular",
+    "name": "SourceCodePro-Regular",
+    "category": "font",
+    "format": "ps",
+    "url": "https://filesamples.com/samples/font/ps/SourceCodePro-Regular.ps",
+    "size": 161075,
+    "approxSize": true,
+    "source": "filesamples"
+}

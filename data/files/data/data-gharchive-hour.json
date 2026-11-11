@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-gharchive-hour",
+    "name": "GitHub events, one hour (gzipped JSON lines)",
+    "category": "data",
+    "format": "gz",
+    "url": "https://data.gharchive.org/2015-01-01-15.json.gz",
+    "size": 3844072,
+    "source": "gharchive",
+    "tags": [
+        "ndjson",
+        "gzip"
+    ]
+}

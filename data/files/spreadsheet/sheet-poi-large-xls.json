@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "sheet-poi-large-xls",
+    "name": "Legacy Excel 97 workbook (large)",
+    "category": "spreadsheet",
+    "format": "xls",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/spreadsheet/ex45698-22488.xls",
+    "size": 4746305,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "legacy",
+        "large"
+    ]
+}

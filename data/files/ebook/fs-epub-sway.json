@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-epub-sway",
+    "name": "Sway",
+    "category": "ebook",
+    "format": "epub",
+    "url": "https://filesamples.com/samples/ebook/epub/Sway.epub",
+    "size": 201277,
+    "approxSize": true,
+    "source": "filesamples"
+}

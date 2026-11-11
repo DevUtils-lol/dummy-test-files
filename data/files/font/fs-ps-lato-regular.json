@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ps-lato-regular",
+    "name": "Lato-Regular",
+    "category": "font",
+    "format": "ps",
+    "url": "https://filesamples.com/samples/font/ps/Lato-Regular.ps",
+    "size": 142848,
+    "approxSize": true,
+    "source": "filesamples"
+}

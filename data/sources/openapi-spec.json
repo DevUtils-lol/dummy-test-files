@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "openapi-spec",
+    "name": "OpenAPI Specification",
+    "homepage": "https://github.com/OAI/OpenAPI-Specification",
+    "license": "Apache-2.0"
+}

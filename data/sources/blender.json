@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "blender",
+    "name": "Blender Foundation",
+    "homepage": "https://download.blender.org",
+    "license": "CC-BY (Blender open movies)"
+}

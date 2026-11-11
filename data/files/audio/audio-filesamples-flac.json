@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-filesamples-flac",
+    "name": "Sample FLAC",
+    "category": "audio",
+    "format": "flac",
+    "url": "https://filesamples.com/samples/audio/flac/sample1.flac",
+    "size": null,
+    "source": "filesamples",
+    "tags": [
+        "lossless"
+    ]
+}

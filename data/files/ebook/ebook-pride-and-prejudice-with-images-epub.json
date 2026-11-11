@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "ebook-pride-and-prejudice-with-images-epub",
+    "name": "Pride and Prejudice (with images)",
+    "category": "ebook",
+    "format": "epub",
+    "url": "https://www.gutenberg.org/ebooks/1342.epub3.images",
+    "size": 24835578,
+    "source": "gutenberg",
+    "tags": [
+        "book",
+        "images",
+        "large"
+    ]
+}

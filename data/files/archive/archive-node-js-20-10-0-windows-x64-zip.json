@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-node-js-20-10-0-windows-x64-zip",
+    "name": "Node.js 20.10.0 Windows x64",
+    "category": "archive",
+    "format": "zip",
+    "url": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-win-x64.zip",
+    "size": 29655486,
+    "source": "nodejs",
+    "tags": [
+        "zip"
+    ]
+}

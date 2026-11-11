@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "font-inter-variable-ttf",
+    "name": "Inter variable font",
+    "category": "font",
+    "format": "ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz,wght%5D.ttf",
+    "size": null,
+    "source": "google-fonts",
+    "tags": [
+        "variable",
+        "sans"
+    ]
+}

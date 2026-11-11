@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-node-js-20-10-0-macos-installer-pkg",
+    "name": "Node.js 20.10.0 macOS installer",
+    "category": "archive",
+    "format": "pkg",
+    "url": "https://nodejs.org/dist/v20.10.0/node-v20.10.0.pkg",
+    "size": 73736878,
+    "source": "nodejs",
+    "tags": [
+        "installer",
+        "macos"
+    ]
+}

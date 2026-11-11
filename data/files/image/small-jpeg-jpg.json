@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-jpeg-jpg",
+    "name": "Smallest valid JPG (jpeg)",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/jpeg.jpg",
+    "size": 107,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

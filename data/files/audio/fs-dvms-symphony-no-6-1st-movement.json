@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dvms-symphony-no-6-1st-movement",
+    "name": "Symphony No.6 (1st movement)",
+    "category": "audio",
+    "format": "dvms",
+    "url": "https://filesamples.com/samples/audio/dvms/Symphony%20No.6%20%281st%20movement%29.dvms",
+    "size": 2915041,
+    "approxSize": true,
+    "source": "filesamples"
+}

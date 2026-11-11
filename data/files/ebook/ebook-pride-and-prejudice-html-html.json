@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "ebook-pride-and-prejudice-html-html",
+    "name": "Pride and Prejudice (HTML)",
+    "category": "ebook",
+    "format": "html",
+    "url": "https://www.gutenberg.org/ebooks/1342.html.images",
+    "size": 852584,
+    "source": "gutenberg",
+    "tags": [
+        "html"
+    ]
+}

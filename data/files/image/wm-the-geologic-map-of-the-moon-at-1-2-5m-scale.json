@@ -1,0 +1,20 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-the-geologic-map-of-the-moon-at-1-2-5m-scale",
+    "name": "The geologic map of the Moon at 1-2.5M scale",
+    "category": "image",
+    "format": "png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_geologic_map_of_the_Moon_at_1-2.5M_scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 107280103,
+    "meta": {
+        "width": 14999,
+        "height": 6982
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large",
+        "huge-dimensions"
+    ],
+    "preview": "none"
+}

@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "placehold",
+    "name": "Placehold.co",
+    "homepage": "https://placehold.co",
+    "license": "Free placeholder images"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-bmp-bmp",
+    "name": "Smallest valid BMP",
+    "category": "image",
+    "format": "bmp",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/bmp.bmp",
+    "size": 30,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

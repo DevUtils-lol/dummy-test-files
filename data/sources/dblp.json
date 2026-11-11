@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "dblp",
+    "name": "dblp computer science bibliography",
+    "homepage": "https://dblp.org",
+    "license": "CC0"
+}

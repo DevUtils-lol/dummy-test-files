@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-au-sample3",
+    "name": "Sample 3",
+    "category": "audio",
+    "format": "au",
+    "url": "https://filesamples.com/samples/audio/au/sample3.au",
+    "size": 18654167,
+    "approxSize": true,
+    "meta": {
+        "duration": 106
+    },
+    "source": "filesamples"
+}

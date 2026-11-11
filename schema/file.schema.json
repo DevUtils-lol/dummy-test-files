@@ -1,0 +1,145 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/DevUtils-lol/test-files/main/schema/file.schema.json",
+  "title": "Test file",
+  "description": "One downloadable test file. Lives at data/files/<category>/<id>.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "category",
+    "format",
+    "url",
+    "size",
+    "source"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "maxLength": 80,
+      "description": "Unique lowercase-kebab-case id. Must match the file name."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 90,
+      "description": "Short human name, e.g. \"Big Buck Bunny 1080p\"."
+    },
+    "category": {
+      "enum": [
+        "any-size",
+        "video",
+        "streaming",
+        "audio",
+        "image",
+        "document",
+        "spreadsheet",
+        "data",
+        "archive",
+        "code",
+        "ebook",
+        "3d",
+        "font",
+        "security"
+      ],
+      "description": "Must match the folder the file is in."
+    },
+    "source": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Id of a file in data/sources/."
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 300
+    },
+    "preview": {
+      "enum": [
+        "image",
+        "video",
+        "audio",
+        "pdf",
+        "text",
+        "none"
+      ],
+      "description": "Override how apps preview it (derived from the format when omitted)."
+    },
+    "approxSize": {
+      "type": "boolean",
+      "description": "The size is nominal (e.g. a \"10 MB\" file that is 10.4 MB)."
+    },
+    "format": {
+      "type": "string",
+      "pattern": "^[a-z0-9]{1,10}(\\.[a-z0-9]{1,5})?$",
+      "description": "Lowercase extension without the dot, e.g. \"mp4\" or \"tar.gz\"."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://",
+      "maxLength": 2048,
+      "description": "Direct, permanent, public download link (https)."
+    },
+    "size": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 1099511627776,
+      "description": "Size in bytes, or null if unknown (the checker measures it)."
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 12,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9.+_ -]*$",
+        "maxLength": 32
+      }
+    },
+    "meta": {
+      "type": "object",
+      "description": "Technical details shown next to the file.",
+      "additionalProperties": false,
+      "properties": {
+        "codec": {
+          "type": "string",
+          "maxLength": 40,
+          "description": "e.g. \"H.264\", \"AV1\", \"Opus\""
+        },
+        "width": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 1000000
+        },
+        "height": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 1000000
+        },
+        "duration": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1000000
+        },
+        "pages": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 10000000
+        },
+        "rows": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100000000000
+        }
+      }
+    }
+  }
+}

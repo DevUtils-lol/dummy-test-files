@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-caf-symphony-no-6-1st-movement",
+    "name": "Symphony No.6 (1st movement)",
+    "category": "audio",
+    "format": "caf",
+    "url": "https://filesamples.com/samples/audio/caf/Symphony%20No.6%20%281st%20movement%29.caf",
+    "size": 128440074,
+    "approxSize": true,
+    "meta": {
+        "duration": 728
+    },
+    "source": "filesamples"
+}

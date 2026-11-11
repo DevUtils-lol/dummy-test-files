@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "samplelib",
+    "name": "Samplelib",
+    "homepage": "https://samplelib.com",
+    "license": "Free sample files"
+}

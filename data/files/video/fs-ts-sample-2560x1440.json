@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ts-sample-2560x1440",
+    "name": "Sample 2560×1440",
+    "category": "video",
+    "format": "ts",
+    "url": "https://filesamples.com/samples/video/ts/sample_2560x1440.ts",
+    "size": 24777851,
+    "approxSize": true,
+    "meta": {
+        "width": 2560,
+        "height": 1440,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "airports",
+    "name": "mwgg/Airports",
+    "homepage": "https://github.com/mwgg/Airports",
+    "license": "MIT"
+}

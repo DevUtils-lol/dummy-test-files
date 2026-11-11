@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "northwind",
+    "name": "Northwind SQLite",
+    "homepage": "https://github.com/jpwhite3/northwind-SQLite3",
+    "license": "MIT"
+}

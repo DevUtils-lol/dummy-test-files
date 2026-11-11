@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pfb-opensans-regular",
+    "name": "OpenSans-Regular",
+    "category": "font",
+    "format": "pfb",
+    "url": "https://filesamples.com/samples/font/pfb/OpenSans-Regular.pfb",
+    "size": 100925,
+    "approxSize": true,
+    "source": "filesamples"
+}

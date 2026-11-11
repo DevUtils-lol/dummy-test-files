@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-m2v-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "m2v",
+    "url": "https://filesamples.com/samples/video/m2v/sample_640x360.m2v",
+    "size": 548751,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360
+    },
+    "source": "filesamples"
+}

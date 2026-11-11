@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-webm-sample-1920x1080",
+    "name": "Sample 1920×1080",
+    "category": "video",
+    "format": "webm",
+    "url": "https://filesamples.com/samples/video/webm/sample_1920x1080.webm",
+    "size": 1803551,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

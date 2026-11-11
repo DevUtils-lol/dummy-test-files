@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-blender-sintel-flac",
+    "name": "Sintel music & effects stem",
+    "category": "audio",
+    "format": "flac",
+    "url": "https://download.blender.org/durian/movies/sintel-m%2Be-st.flac",
+    "size": 74266467,
+    "source": "blender",
+    "tags": [
+        "lossless",
+        "very-large",
+        "soundtrack"
+    ]
+}

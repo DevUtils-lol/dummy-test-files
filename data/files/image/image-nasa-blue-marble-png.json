@@ -1,0 +1,21 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "image-nasa-blue-marble-png",
+    "name": "Blue Marble tile 21600×21600",
+    "category": "image",
+    "format": "png",
+    "url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73909/world.topo.bathy.200412.3x21600x21600.A1.png",
+    "size": 287623618,
+    "meta": {
+        "width": 21600,
+        "height": 21600
+    },
+    "source": "nasa",
+    "tags": [
+        "huge-dimensions",
+        "very-large",
+        "466-megapixel"
+    ],
+    "preview": "none",
+    "description": "466 megapixels in one PNG — most browsers can't open it; perfect for limit testing."
+}

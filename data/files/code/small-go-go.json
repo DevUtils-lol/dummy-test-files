@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-go-go",
+    "name": "Smallest valid GO",
+    "category": "code",
+    "format": "go",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/go.go",
+    "size": 26,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

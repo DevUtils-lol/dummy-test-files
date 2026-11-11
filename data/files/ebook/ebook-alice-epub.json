@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "ebook-alice-epub",
+    "name": "Alice's Adventures in Wonderland",
+    "category": "ebook",
+    "format": "epub",
+    "url": "https://filesamples.com/samples/ebook/epub/Alices%20Adventures%20in%20Wonderland.epub",
+    "size": null,
+    "source": "filesamples",
+    "tags": [
+        "book"
+    ]
+}

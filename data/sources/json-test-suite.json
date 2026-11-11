@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "json-test-suite",
+    "name": "JSONTestSuite",
+    "homepage": "https://github.com/nst/JSONTestSuite",
+    "license": "MIT"
+}

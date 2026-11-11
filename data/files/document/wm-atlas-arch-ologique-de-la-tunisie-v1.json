@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-atlas-arch-ologique-de-la-tunisie-v1",
+    "name": "Atlas archéologique de la Tunisie (v1)",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Atlas_arch%C3%A9ologique_de_la_Tunisie_%28v1%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 433638057,
+    "meta": {
+        "width": 2235,
+        "height": 3368
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "very-large"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-amb-sample4",
+    "name": "Sample 4",
+    "category": "audio",
+    "format": "amb",
+    "url": "https://filesamples.com/samples/audio/amb/sample4.amb",
+    "size": 43127931,
+    "approxSize": true,
+    "meta": {
+        "duration": 245
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-aiff-sample3",
+    "name": "Sample 3",
+    "category": "audio",
+    "format": "aiff",
+    "url": "https://filesamples.com/samples/audio/aiff/sample3.aiff",
+    "size": 18654167,
+    "approxSize": true,
+    "meta": {
+        "duration": 106
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-007-imagemagick-images-imagemagick-lzw-pdf",
+    "name": "imagemagick images: imagemagick lzw",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/007-imagemagick-images/imagemagick-lzw.pdf",
+    "size": null,
+    "meta": {
+        "pages": 1
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ]
+}

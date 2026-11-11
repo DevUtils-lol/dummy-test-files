@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-odp-sample3",
+    "name": "Sample 3",
+    "category": "document",
+    "format": "odp",
+    "url": "https://filesamples.com/samples/document/odp/sample3.odp",
+    "size": 72643,
+    "approxSize": true,
+    "source": "filesamples",
+    "tags": [
+        "presentation"
+    ]
+}

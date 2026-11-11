@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ttf-slick",
+    "name": "slick",
+    "category": "font",
+    "format": "ttf",
+    "url": "https://filesamples.com/samples/font/ttf/slick.ttf",
+    "size": 1894,
+    "approxSize": true,
+    "source": "filesamples"
+}

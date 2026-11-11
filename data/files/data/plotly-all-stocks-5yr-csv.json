@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-all-stocks-5yr-csv",
+    "name": "all stocks 5yr",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/all_stocks_5yr.csv",
+    "size": 29580549,
+    "source": "plotly",
+    "tags": [
+        "real-data",
+        "large"
+    ]
+}

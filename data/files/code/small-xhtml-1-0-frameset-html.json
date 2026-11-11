@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-xhtml-1-0-frameset-html",
+    "name": "Smallest valid HTML (xhtml 1.0 frameset)",
+    "category": "code",
+    "format": "html",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/xhtml-1.0-frameset.html",
+    "size": 82,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

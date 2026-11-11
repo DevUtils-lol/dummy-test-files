@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "stream-akamai-dash",
+    "name": "Big Buck Bunny DASH 30fps",
+    "category": "streaming",
+    "format": "mpd",
+    "url": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+    "size": 3060,
+    "source": "akamai",
+    "tags": [
+        "dash",
+        "adaptive"
+    ],
+    "description": "MPEG-DASH manifest — use it with dash.js or Shaka Player."
+}

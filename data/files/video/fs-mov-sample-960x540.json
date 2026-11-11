@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mov-sample-960x540",
+    "name": "Sample 960×540",
+    "category": "video",
+    "format": "mov",
+    "url": "https://filesamples.com/samples/video/mov/sample_960x540.mov",
+    "size": 1321206,
+    "approxSize": true,
+    "meta": {
+        "width": 960,
+        "height": 540,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

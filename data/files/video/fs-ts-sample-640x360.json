@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ts-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "ts",
+    "url": "https://filesamples.com/samples/video/ts/sample_640x360.ts",
+    "size": 646717,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

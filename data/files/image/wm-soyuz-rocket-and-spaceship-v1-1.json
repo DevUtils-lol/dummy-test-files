@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-soyuz-rocket-and-spaceship-v1-1",
+    "name": "Soyuz rocket and spaceship V1-1",
+    "category": "image",
+    "format": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Soyuz_rocket_and_spaceship_V1-1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 12819915,
+    "meta": {
+        "width": 3600,
+        "height": 7300
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

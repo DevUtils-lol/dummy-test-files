@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "khronos",
+    "name": "Khronos glTF Sample Assets",
+    "homepage": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+    "license": "CC-BY / CC0 (per model)"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-blender-tos-ost-zip",
+    "name": "Tears of Steel soundtrack (MP3s)",
+    "category": "archive",
+    "format": "zip",
+    "url": "https://download.blender.org/demo/movies/ToS/Tears-Of-Steel-OST/Tears-Of-Steel-OST-mp3.zip",
+    "size": 20891745,
+    "source": "blender",
+    "tags": [
+        "mp3",
+        "multiple-files"
+    ]
+}

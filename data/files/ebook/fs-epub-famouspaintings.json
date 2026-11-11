@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-epub-famouspaintings",
+    "name": "famouspaintings",
+    "category": "ebook",
+    "format": "epub",
+    "url": "https://filesamples.com/samples/ebook/epub/famouspaintings.epub",
+    "size": 6731858,
+    "approxSize": true,
+    "source": "filesamples"
+}

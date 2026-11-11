@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pfb-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "pfb",
+    "url": "https://filesamples.com/samples/font/pfb/fontawesome-webfont.pfb",
+    "size": 249836,
+    "approxSize": true,
+    "source": "filesamples"
+}

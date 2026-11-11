@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-jp2-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "jp2",
+    "url": "https://filesamples.com/samples/image/jp2/sample1.jp2",
+    "size": 670269,
+    "approxSize": true,
+    "source": "filesamples"
+}

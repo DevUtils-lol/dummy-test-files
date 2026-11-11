@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-029-optional-content-groups-ocg-map-test-pdf",
+    "name": "optional content groups: ocg map test",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/029-optional-content-groups/ocg_map_test.pdf",
+    "size": null,
+    "meta": {
+        "pages": 1
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ]
+}

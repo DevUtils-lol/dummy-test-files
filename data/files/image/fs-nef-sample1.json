@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-nef-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "nef",
+    "url": "https://filesamples.com/samples/image/nef/sample1.nef",
+    "size": 19304284,
+    "approxSize": true,
+    "source": "filesamples",
+    "tags": [
+        "camera-raw"
+    ]
+}

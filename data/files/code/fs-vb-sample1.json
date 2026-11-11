@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-vb-sample1",
+    "name": "Sample 1",
+    "category": "code",
+    "format": "vb",
+    "url": "https://filesamples.com/samples/code/vb/sample1.vb",
+    "size": 384,
+    "approxSize": true,
+    "source": "filesamples"
+}

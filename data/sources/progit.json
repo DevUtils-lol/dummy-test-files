@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "progit",
+    "name": "Pro Git (Scott Chacon & Ben Straub)",
+    "homepage": "https://git-scm.com/book",
+    "license": "CC BY-NC-SA 3.0"
+}

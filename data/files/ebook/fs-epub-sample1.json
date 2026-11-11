@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-epub-sample1",
+    "name": "Sample 1",
+    "category": "ebook",
+    "format": "epub",
+    "url": "https://filesamples.com/samples/ebook/epub/sample1.epub",
+    "size": 191468,
+    "approxSize": true,
+    "source": "filesamples"
+}

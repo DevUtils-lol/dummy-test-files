@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "code-xml-namespace-schema-xml-xsd-xsd",
+    "name": "XML namespace schema (xml.xsd)",
+    "category": "code",
+    "format": "xsd",
+    "url": "https://www.w3.org/2001/xml.xsd",
+    "size": 2426,
+    "source": "w3c",
+    "tags": [
+        "xml-schema"
+    ]
+}

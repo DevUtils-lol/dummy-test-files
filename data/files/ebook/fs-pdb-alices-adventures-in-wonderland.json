@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pdb-alices-adventures-in-wonderland",
+    "name": "Alices Adventures in Wonderland",
+    "category": "ebook",
+    "format": "pdb",
+    "url": "https://filesamples.com/samples/ebook/pdb/Alices%20Adventures%20in%20Wonderland.pdb",
+    "size": 79104,
+    "approxSize": true,
+    "source": "filesamples"
+}

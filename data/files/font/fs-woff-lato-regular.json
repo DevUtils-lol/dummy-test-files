@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-woff-lato-regular",
+    "name": "Lato-Regular",
+    "category": "font",
+    "format": "woff",
+    "url": "https://filesamples.com/samples/font/woff/Lato-Regular.woff",
+    "size": 31703,
+    "approxSize": true,
+    "source": "filesamples"
+}

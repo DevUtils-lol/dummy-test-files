@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-blender-bbb-4k-zip",
+    "name": "Big Buck Bunny 4K 60fps (zipped MP4)",
+    "category": "archive",
+    "format": "zip",
+    "url": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_2160p_60fps_normal.mp4.zip",
+    "size": 671868845,
+    "source": "blender",
+    "tags": [
+        "video-inside",
+        "very-large",
+        "4k"
+    ]
+}

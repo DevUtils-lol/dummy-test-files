@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "test-videos",
+    "name": "Test Videos (test-videos.co.uk)",
+    "homepage": "https://test-videos.co.uk",
+    "license": "CC-BY 3.0 — Big Buck Bunny © Blender Foundation"
+}

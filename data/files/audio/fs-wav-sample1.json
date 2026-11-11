@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-wav-sample1",
+    "name": "Sample 1",
+    "category": "audio",
+    "format": "wav",
+    "url": "https://filesamples.com/samples/audio/wav/sample1.wav",
+    "size": 21537751,
+    "approxSize": true,
+    "meta": {
+        "duration": 122
+    },
+    "source": "filesamples"
+}

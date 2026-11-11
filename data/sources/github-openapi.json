@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "github-openapi",
+    "name": "GitHub REST API description",
+    "homepage": "https://github.com/github/rest-api-description",
+    "license": "MIT"
+}

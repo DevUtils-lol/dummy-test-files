@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-node-js-20-10-0-source-targz",
+    "name": "Node.js 20.10.0 source",
+    "category": "archive",
+    "format": "tar.gz",
+    "url": "https://nodejs.org/dist/v20.10.0/node-v20.10.0.tar.gz",
+    "size": 88359142,
+    "source": "nodejs",
+    "tags": [
+        "tarball",
+        "source"
+    ]
+}

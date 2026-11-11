@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ogg-sample3",
+    "name": "Sample 3",
+    "category": "audio",
+    "format": "ogg",
+    "url": "https://filesamples.com/samples/audio/ogg/sample3.ogg",
+    "size": 1488978,
+    "approxSize": true,
+    "meta": {
+        "duration": 106
+    },
+    "source": "filesamples"
+}

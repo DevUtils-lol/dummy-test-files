@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-osm-monaco-pbf",
+    "name": "OpenStreetMap: Monaco",
+    "category": "data",
+    "format": "pbf",
+    "url": "https://download.geofabrik.de/europe/monaco-latest.osm.pbf",
+    "size": null,
+    "approxSize": true,
+    "source": "geofabrik",
+    "tags": [
+        "geo",
+        "osm",
+        "protobuf"
+    ]
+}

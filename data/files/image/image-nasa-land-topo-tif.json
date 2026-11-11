@@ -1,0 +1,20 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "image-nasa-land-topo-tif",
+    "name": "Land & shallow topography 21600×10800",
+    "category": "image",
+    "format": "tif",
+    "url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57752/land_shallow_topo_21600.tif",
+    "size": 181981194,
+    "meta": {
+        "width": 21600,
+        "height": 10800
+    },
+    "source": "nasa",
+    "tags": [
+        "tiff",
+        "huge-dimensions",
+        "very-large"
+    ],
+    "preview": "none"
+}

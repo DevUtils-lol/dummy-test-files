@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-yaml-invoice",
+    "name": "invoice",
+    "category": "code",
+    "format": "yaml",
+    "url": "https://filesamples.com/samples/code/yaml/invoice.yaml",
+    "size": 649,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-lrf-famouspaintings",
+    "name": "famouspaintings",
+    "category": "ebook",
+    "format": "lrf",
+    "url": "https://filesamples.com/samples/ebook/lrf/famouspaintings.lrf",
+    "size": 513219,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "cloudflare",
+    "name": "Cloudflare Speed Test",
+    "homepage": "https://speed.cloudflare.com",
+    "license": "Free to use for testing"
+}

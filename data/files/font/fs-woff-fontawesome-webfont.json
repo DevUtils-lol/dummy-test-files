@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-woff-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "woff",
+    "url": "https://filesamples.com/samples/font/woff/fontawesome-webfont.woff",
+    "size": 98161,
+    "approxSize": true,
+    "source": "filesamples"
+}

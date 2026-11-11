@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-khronos-duck-glb",
+    "name": "Duck (glTF binary)",
+    "category": "3d",
+    "format": "glb",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Duck/glTF-Binary/Duck.glb",
+    "size": null,
+    "source": "khronos",
+    "tags": [
+        "gltf",
+        "textured"
+    ]
+}

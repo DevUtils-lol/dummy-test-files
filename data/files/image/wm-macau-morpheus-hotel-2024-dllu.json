@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-macau-morpheus-hotel-2024-dllu",
+    "name": "Macau Morpheus Hotel 2024 dllu",
+    "category": "image",
+    "format": "webp",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Macau_Morpheus_Hotel_2024_dllu.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 40131260,
+    "meta": {
+        "width": 10886,
+        "height": 16383
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large",
+        "huge-dimensions"
+    ]
+}

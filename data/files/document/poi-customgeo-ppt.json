@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-customgeo-ppt",
+    "name": "Presentation customGeo",
+    "category": "document",
+    "format": "ppt",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/customGeo.ppt",
+    "size": 3333632,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "presentation"
+    ]
+}

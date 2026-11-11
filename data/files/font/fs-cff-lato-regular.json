@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-cff-lato-regular",
+    "name": "Lato-Regular",
+    "category": "font",
+    "format": "cff",
+    "url": "https://filesamples.com/samples/font/cff/Lato-Regular.cff",
+    "size": 34918,
+    "approxSize": true,
+    "source": "filesamples"
+}

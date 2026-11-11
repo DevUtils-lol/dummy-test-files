@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dng-sample1",
+    "name": "Sample 1",
+    "category": "image",
+    "format": "dng",
+    "url": "https://filesamples.com/samples/image/dng/sample1.dng",
+    "size": 6375342,
+    "approxSize": true,
+    "source": "filesamples",
+    "tags": [
+        "camera-raw"
+    ]
+}

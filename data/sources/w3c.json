@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "w3c",
+    "name": "W3C",
+    "homepage": "https://www.w3.org",
+    "license": "W3C test material"
+}

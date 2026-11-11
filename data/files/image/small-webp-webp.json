@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-webp-webp",
+    "name": "Smallest valid WEBP",
+    "category": "image",
+    "format": "webp",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/webp.webp",
+    "size": 26,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

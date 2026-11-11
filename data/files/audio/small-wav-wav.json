@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-wav-wav",
+    "name": "Smallest valid WAV",
+    "category": "audio",
+    "format": "wav",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/wav.wav",
+    "size": 44,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

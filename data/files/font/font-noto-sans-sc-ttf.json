@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "font-noto-sans-sc-ttf",
+    "name": "Noto Sans SC variable (Chinese)",
+    "category": "font",
+    "format": "ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+    "size": 17772300,
+    "source": "google-fonts",
+    "tags": [
+        "cjk",
+        "variable",
+        "large"
+    ]
+}

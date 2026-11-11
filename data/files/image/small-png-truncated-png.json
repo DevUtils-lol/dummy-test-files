@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-png-truncated-png",
+    "name": "Truncated PNG (broken file)",
+    "category": "image",
+    "format": "png",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/png-truncated.png",
+    "size": 51,
+    "source": "small",
+    "tags": [
+        "corrupt",
+        "edge-case"
+    ]
+}

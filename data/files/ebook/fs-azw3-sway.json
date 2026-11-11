@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-azw3-sway",
+    "name": "Sway",
+    "category": "ebook",
+    "format": "azw3",
+    "url": "https://filesamples.com/samples/ebook/azw3/Sway.azw3",
+    "size": 231772,
+    "approxSize": true,
+    "source": "filesamples"
+}

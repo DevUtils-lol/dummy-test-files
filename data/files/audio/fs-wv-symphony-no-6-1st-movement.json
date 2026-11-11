@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-wv-symphony-no-6-1st-movement",
+    "name": "Symphony No.6 (1st movement)",
+    "category": "audio",
+    "format": "wv",
+    "url": "https://filesamples.com/samples/audio/wv/Symphony%20No.6%20%281st%20movement%29.wv",
+    "size": 55385784,
+    "approxSize": true,
+    "meta": {
+        "duration": 728
+    },
+    "source": "filesamples"
+}

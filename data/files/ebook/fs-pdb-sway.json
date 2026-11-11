@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pdb-sway",
+    "name": "Sway",
+    "category": "ebook",
+    "format": "pdb",
+    "url": "https://filesamples.com/samples/ebook/pdb/Sway.pdb",
+    "size": 19302,
+    "approxSize": true,
+    "source": "filesamples"
+}

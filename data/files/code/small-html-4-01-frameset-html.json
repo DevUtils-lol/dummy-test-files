@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-html-4-01-frameset-html",
+    "name": "Smallest valid HTML (html 4.01 frameset)",
+    "category": "code",
+    "format": "html",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/html-4.01-frameset.html",
+    "size": 84,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

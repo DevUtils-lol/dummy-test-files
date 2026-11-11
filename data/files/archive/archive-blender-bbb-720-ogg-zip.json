@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-blender-bbb-720-ogg-zip",
+    "name": "Big Buck Bunny 720p OGG (zipped)",
+    "category": "archive",
+    "format": "zip",
+    "url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_stereo.ogg.zip",
+    "size": 196898884,
+    "source": "blender",
+    "tags": [
+        "video-inside",
+        "large"
+    ]
+}

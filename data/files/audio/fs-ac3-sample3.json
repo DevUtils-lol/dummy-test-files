@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ac3-sample3",
+    "name": "Sample 3",
+    "category": "audio",
+    "format": "ac3",
+    "url": "https://filesamples.com/samples/audio/ac3/sample3.ac3",
+    "size": 2537554,
+    "approxSize": true,
+    "meta": {
+        "duration": 106
+    },
+    "source": "filesamples"
+}

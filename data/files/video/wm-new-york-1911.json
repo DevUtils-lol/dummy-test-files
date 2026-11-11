@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-new-york-1911",
+    "name": "New York 1911",
+    "category": "video",
+    "format": "webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/New_York_1911.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 403197197,
+    "meta": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 535
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "very-large"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-stanford-bunny-obj",
+    "name": "Stanford bunny",
+    "category": "3d",
+    "format": "obj",
+    "url": "https://raw.githubusercontent.com/alecjacobson/common-3d-test-models/master/data/stanford-bunny.obj",
+    "size": 2408417,
+    "source": "3d-test-models",
+    "tags": [
+        "mesh",
+        "classic-test-model"
+    ]
+}

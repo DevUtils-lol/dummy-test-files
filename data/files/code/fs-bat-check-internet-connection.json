@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bat-check-internet-connection",
+    "name": "check internet connection",
+    "category": "code",
+    "format": "bat",
+    "url": "https://filesamples.com/samples/code/bat/check_internet_connection.bat",
+    "size": 241,
+    "approxSize": true,
+    "source": "filesamples"
+}

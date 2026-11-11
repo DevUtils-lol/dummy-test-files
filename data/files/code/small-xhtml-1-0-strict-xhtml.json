@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-xhtml-1-0-strict-xhtml",
+    "name": "Smallest valid XHTML (xhtml 1.0 strict)",
+    "category": "code",
+    "format": "xhtml",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/xhtml-1.0-strict.xhtml",
+    "size": 78,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

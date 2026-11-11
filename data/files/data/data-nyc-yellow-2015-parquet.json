@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-nyc-yellow-2015-parquet",
+    "name": "NYC yellow taxi trips, Jan 2015",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2015-01.parquet",
+    "size": 175325767,
+    "source": "nyc-tlc",
+    "tags": [
+        "large",
+        "real-data",
+        "columnar"
+    ]
+}

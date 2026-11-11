@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-jpg-sample-1920-1280",
+    "name": "Sample 1920×1280",
+    "category": "image",
+    "format": "jpg",
+    "url": "https://filesamples.com/samples/image/jpg/sample_1920%C3%971280.jpg",
+    "size": 768553,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1280
+    },
+    "source": "filesamples"
+}

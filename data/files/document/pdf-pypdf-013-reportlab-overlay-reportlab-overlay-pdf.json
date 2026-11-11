@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-013-reportlab-overlay-reportlab-overlay-pdf",
+    "name": "reportlab overlay",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/013-reportlab-overlay/reportlab-overlay.pdf",
+    "size": null,
+    "meta": {
+        "pages": 1
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature",
+        "forms"
+    ],
+    "description": "Tests: form fields"
+}

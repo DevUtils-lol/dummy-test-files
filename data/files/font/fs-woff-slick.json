@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-woff-slick",
+    "name": "slick",
+    "category": "font",
+    "format": "woff",
+    "url": "https://filesamples.com/samples/font/woff/slick.woff",
+    "size": 1260,
+    "approxSize": true,
+    "source": "filesamples"
+}

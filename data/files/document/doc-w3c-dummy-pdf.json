@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-w3c-dummy-pdf",
+    "name": "Dummy PDF (1 page)",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "size": 13264,
+    "meta": {
+        "pages": 1
+    },
+    "source": "w3c",
+    "tags": [
+        "tiny"
+    ]
+}

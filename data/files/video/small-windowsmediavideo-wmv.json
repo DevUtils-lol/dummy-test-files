@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-windowsmediavideo-wmv",
+    "name": "Smallest valid WMV (WindowsMediaVideo)",
+    "category": "video",
+    "format": "wmv",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/WindowsMediaVideo.wmv",
+    "size": 535,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

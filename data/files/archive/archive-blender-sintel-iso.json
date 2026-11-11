@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-blender-sintel-iso",
+    "name": "Sintel Blu-ray disc image",
+    "category": "archive",
+    "format": "iso",
+    "url": "https://download.blender.org/durian/movies/Sintel-Bluray.iso",
+    "size": 1593180160,
+    "source": "blender",
+    "tags": [
+        "disk-image",
+        "very-large",
+        "blu-ray"
+    ]
+}

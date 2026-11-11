@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-solar-system-diagram-english",
+    "name": "Solar System diagram (English)",
+    "category": "image",
+    "format": "png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Solar_System_diagram_%28English%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 422199,
+    "meta": {
+        "width": 1920,
+        "height": 1080
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-airports-of-the-world-json",
+    "name": "Airports of the world",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/mwgg/Airports/master/airports.json",
+    "size": 9031842,
+    "source": "airports",
+    "tags": [
+        "real-data"
+    ]
+}

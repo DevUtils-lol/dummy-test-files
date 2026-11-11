@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-gif-sample-1920-1280",
+    "name": "Sample 1920×1280",
+    "category": "image",
+    "format": "gif",
+    "url": "https://filesamples.com/samples/image/gif/sample_1920%C3%971280.gif",
+    "size": 1730150,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1280
+    },
+    "source": "filesamples"
+}

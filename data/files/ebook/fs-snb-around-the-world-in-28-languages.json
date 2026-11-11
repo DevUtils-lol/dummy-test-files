@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-snb-around-the-world-in-28-languages",
+    "name": "Around the World in 28 Languages",
+    "category": "ebook",
+    "format": "snb",
+    "url": "https://filesamples.com/samples/ebook/snb/Around%20the%20World%20in%2028%20Languages.snb",
+    "size": 379054,
+    "approxSize": true,
+    "source": "filesamples"
+}

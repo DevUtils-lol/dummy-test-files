@@ -1,0 +1,8 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "filesamples",
+    "name": "FileSamples",
+    "homepage": "https://filesamples.com",
+    "license": "Free sample files",
+    "check": "head"
+}

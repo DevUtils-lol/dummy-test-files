@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-audionautix-com-ccby-triumphantreturn",
+    "name": "Audionautix-com-ccby-triumphantreturn",
+    "category": "audio",
+    "format": "mp3",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Audionautix-com-ccby-triumphantreturn.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 11441477,
+    "meta": {
+        "duration": 286
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-htaccess-enable-gzip",
+    "name": "enable gzip",
+    "category": "code",
+    "format": "htaccess",
+    "url": "https://filesamples.com/samples/code/htaccess/enable_gzip.htaccess",
+    "size": 1075,
+    "approxSize": true,
+    "source": "filesamples"
+}

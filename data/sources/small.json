@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "small",
+    "name": "mathiasbynens/small",
+    "homepage": "https://github.com/mathiasbynens/small",
+    "license": "Public domain"
+}

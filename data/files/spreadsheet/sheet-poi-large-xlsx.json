@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "sheet-poi-large-xlsx",
+    "name": "LibreOffice bug workbook (large)",
+    "category": "spreadsheet",
+    "format": "xlsx",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/spreadsheet/LIBRE_OFFICE-116306-0.xlsx",
+    "size": 2859963,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "large",
+        "test-corpus"
+    ]
+}

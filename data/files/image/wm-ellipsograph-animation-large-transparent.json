@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-ellipsograph-animation-large-transparent",
+    "name": "Ellipsograph Animation - Large, Transparent",
+    "category": "image",
+    "format": "gif",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ellipsograph_Animation_-_Large%2C_Transparent.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 6922427,
+    "meta": {
+        "width": 1920,
+        "height": 1080
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

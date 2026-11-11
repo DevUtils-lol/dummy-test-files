@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-ico-ico",
+    "name": "Smallest valid ICO",
+    "category": "image",
+    "format": "ico",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/ico.ico",
+    "size": 70,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

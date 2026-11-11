@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-yaml-verify-apache",
+    "name": "verify apache",
+    "category": "code",
+    "format": "yaml",
+    "url": "https://filesamples.com/samples/code/yaml/verify_apache.yaml",
+    "size": 526,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-birds-perungalathur-reserved-forest",
+    "name": "Birds Perungalathur Reserved Forest",
+    "category": "audio",
+    "format": "wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Birds_Perungalathur_Reserved_Forest.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 23909516,
+    "meta": {
+        "duration": 125
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "large"
+    ]
+}

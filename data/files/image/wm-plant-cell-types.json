@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-plant-cell-types",
+    "name": "Plant cell types",
+    "category": "image",
+    "format": "svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Plant_cell_types.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 7508411,
+    "meta": {
+        "width": 1900,
+        "height": 1340
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world"
+    ]
+}

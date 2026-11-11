@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "json-suite-i-number-huge-exp-json",
+    "name": "JSONTestSuite i_number_huge_exp.json",
+    "category": "data",
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/nst/JSONTestSuite/master/test_parsing/i_number_huge_exp.json",
+    "size": null,
+    "source": "json-test-suite",
+    "tags": [
+        "edge-case",
+        "parser-test"
+    ],
+    "description": "Implementation-defined: a huge exponent."
+}

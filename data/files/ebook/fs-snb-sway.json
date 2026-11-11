@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-snb-sway",
+    "name": "Sway",
+    "category": "ebook",
+    "format": "snb",
+    "url": "https://filesamples.com/samples/ebook/snb/Sway.snb",
+    "size": 99922,
+    "approxSize": true,
+    "source": "filesamples"
+}

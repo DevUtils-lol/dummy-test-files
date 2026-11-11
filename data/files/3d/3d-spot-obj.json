@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-spot-obj",
+    "name": "Spot the cow",
+    "category": "3d",
+    "format": "obj",
+    "url": "https://raw.githubusercontent.com/alecjacobson/common-3d-test-models/master/data/spot.obj",
+    "size": 330624,
+    "source": "3d-test-models",
+    "tags": [
+        "mesh",
+        "classic-test-model"
+    ]
+}

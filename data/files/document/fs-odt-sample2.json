@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-odt-sample2",
+    "name": "Sample 2",
+    "category": "document",
+    "format": "odt",
+    "url": "https://filesamples.com/samples/document/odt/sample2.odt",
+    "size": 6738,
+    "approxSize": true,
+    "source": "filesamples"
+}

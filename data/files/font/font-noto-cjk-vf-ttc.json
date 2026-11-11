@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "font-noto-cjk-vf-ttc",
+    "name": "Noto Sans CJK variable collection",
+    "category": "font",
+    "format": "ttc",
+    "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Variable/OTC/NotoSansCJK-VF.otf.ttc",
+    "size": 32682580,
+    "source": "noto",
+    "tags": [
+        "cjk",
+        "collection",
+        "very-large"
+    ]
+}

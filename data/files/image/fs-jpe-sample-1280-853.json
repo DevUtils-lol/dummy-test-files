@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-jpe-sample-1280-853",
+    "name": "Sample 1280×853",
+    "category": "image",
+    "format": "jpe",
+    "url": "https://filesamples.com/samples/image/jpe/sample_1280%C3%97853.jpe",
+    "size": 334141,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 853
+    },
+    "source": "filesamples"
+}

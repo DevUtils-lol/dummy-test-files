@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-java-java",
+    "name": "Smallest valid JAVA",
+    "category": "code",
+    "format": "java",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/java.java",
+    "size": 33,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "sf-citylots",
+    "name": "zemirco/sf-city-lots-json",
+    "homepage": "https://github.com/zemirco/sf-city-lots-json",
+    "license": "Public data (City of San Francisco)"
+}

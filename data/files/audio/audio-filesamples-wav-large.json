@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-filesamples-wav-large",
+    "name": "Long WAV sample",
+    "category": "audio",
+    "format": "wav",
+    "url": "https://filesamples.com/samples/audio/wav/sample4.wav",
+    "size": 18759430,
+    "source": "filesamples",
+    "tags": [
+        "pcm",
+        "large"
+    ]
+}

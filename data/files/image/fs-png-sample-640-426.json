@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-png-sample-640-426",
+    "name": "Sample 640×426",
+    "category": "image",
+    "format": "png",
+    "url": "https://filesamples.com/samples/image/png/sample_640%C3%97426.png",
+    "size": 534282,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 426
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "image-heic-sample",
+    "name": "Sample HEIC (iPhone format)",
+    "category": "image",
+    "format": "heic",
+    "url": "https://filesamples.com/samples/image/heic/sample1.heic",
+    "size": null,
+    "source": "filesamples",
+    "tags": [
+        "heic",
+        "apple"
+    ],
+    "preview": "none"
+}

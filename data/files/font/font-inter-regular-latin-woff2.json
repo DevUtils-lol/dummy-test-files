@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "font-inter-regular-latin-woff2",
+    "name": "Inter Regular (Latin)",
+    "category": "font",
+    "format": "woff2",
+    "url": "https://cdn.jsdelivr.net/npm/@fontsource/inter@5.3.0/files/inter-latin-400-normal.woff2",
+    "size": 23664,
+    "source": "fontsource",
+    "tags": [
+        "web-font"
+    ]
+}

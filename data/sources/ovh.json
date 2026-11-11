@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "ovh",
+    "name": "OVHcloud Proof",
+    "homepage": "https://proof.ovh.net",
+    "license": "Free to use for testing"
+}

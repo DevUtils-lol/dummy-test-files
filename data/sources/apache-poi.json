@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "apache-poi",
+    "name": "Apache POI test data",
+    "homepage": "https://github.com/apache/poi",
+    "license": "Apache-2.0"
+}

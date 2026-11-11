@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "pdf-pypdf-024-annotations-annotated-pdf-pdf",
+    "name": "annotations: annotated pdf",
+    "category": "document",
+    "format": "pdf",
+    "url": "https://raw.githubusercontent.com/py-pdf/sample-files/main/024-annotations/annotated_pdf.pdf",
+    "size": null,
+    "meta": {
+        "pages": 1
+    },
+    "source": "py-pdf",
+    "tags": [
+        "pdf-feature"
+    ],
+    "description": "Tests: annotations: Text ×1, Highlight ×1, Ink ×1"
+}

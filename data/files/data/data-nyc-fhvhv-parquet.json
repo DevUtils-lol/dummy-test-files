@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-nyc-fhvhv-parquet",
+    "name": "NYC rideshare trips, Jan 2024",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2024-01.parquet",
+    "size": 472757547,
+    "meta": {
+        "rows": 19663930
+    },
+    "source": "nyc-tlc",
+    "tags": [
+        "very-large",
+        "real-data",
+        "columnar"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-fb2-famouspaintings",
+    "name": "famouspaintings",
+    "category": "ebook",
+    "format": "fb2",
+    "url": "https://filesamples.com/samples/ebook/fb2/famouspaintings.fb2",
+    "size": 11492393,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-djvu-sample2",
+    "name": "Sample 2",
+    "category": "document",
+    "format": "djvu",
+    "url": "https://filesamples.com/samples/document/djvu/sample2.djvu",
+    "size": 903793,
+    "approxSize": true,
+    "source": "filesamples"
+}

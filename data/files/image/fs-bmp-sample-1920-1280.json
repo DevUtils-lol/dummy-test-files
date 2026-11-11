@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bmp-sample-1920-1280",
+    "name": "Sample 1920×1280",
+    "category": "image",
+    "format": "bmp",
+    "url": "https://filesamples.com/samples/image/bmp/sample_1920%C3%971280.bmp",
+    "size": 7371489,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1280
+    },
+    "source": "filesamples"
+}

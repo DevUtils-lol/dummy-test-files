@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-khronos-abeautifulgame-glb",
+    "name": "A Beautiful Game (chess set)",
+    "category": "3d",
+    "format": "glb",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/ABeautifulGame/glTF-Binary/ABeautifulGame.glb",
+    "size": 42977928,
+    "source": "khronos",
+    "tags": [
+        "gltf",
+        "pbr",
+        "large"
+    ]
+}

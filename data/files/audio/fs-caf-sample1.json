@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-caf-sample1",
+    "name": "Sample 1",
+    "category": "audio",
+    "format": "caf",
+    "url": "https://filesamples.com/samples/audio/caf/sample1.caf",
+    "size": 21548237,
+    "approxSize": true,
+    "meta": {
+        "duration": 122
+    },
+    "source": "filesamples"
+}

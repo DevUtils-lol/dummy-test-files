@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "natural-earth",
+    "name": "Natural Earth",
+    "homepage": "https://www.naturalearthdata.com",
+    "license": "Public domain"
+}

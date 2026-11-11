@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "chinook",
+    "name": "Chinook database",
+    "homepage": "https://github.com/lerocha/chinook-database",
+    "license": "MIT"
+}

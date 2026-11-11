@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-eicar-zip",
+    "name": "EICAR inside a ZIP",
+    "category": "security",
+    "format": "zip",
+    "url": "https://secure.eicar.org/eicar_com.zip",
+    "size": 184,
+    "source": "eicar",
+    "tags": [
+        "antivirus",
+        "archive-scanning"
+    ],
+    "preview": "none",
+    "description": "Tests whether your scanner looks inside archives."
+}

@@ -1,0 +1,75 @@
+name: Publish
+
+# Builds the catalog and publishes it to the `dist` branch, which apps read through
+# jsDelivr:  https://cdn.jsdelivr.net/gh/DevUtils-lol/test-files@dist/v1/index.json
+#
+# Runs after every merge to main, and is called by the daily link check. Shards are
+# content-addressed and old ones are kept for 14 days, so clients holding a cached
+# index.json never hit a 404. Only index.json / all.json change in place; their CDN
+# cache is purged after each publish so updates show up within minutes.
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "status/**", "scripts/**"]
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Validate
+        run: node scripts/validate.mjs
+
+      - name: Check out the dist branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin dist >/dev/null; then
+            git fetch --depth=1 origin dist
+            git worktree add -B dist out origin/dist
+          else
+            git worktree add --orphan -b dist out
+          fi
+
+      - name: Build
+        run: |
+          node scripts/build.mjs --out out
+          cp dist-README.md out/README.md
+
+      - name: Commit & push
+        id: push
+        working-directory: out
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -q -m "build ${GITHUB_SHA::7}"
+          git push origin dist
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Purge the CDN cache of mutable files
+        if: steps.push.outputs.changed == 'true'
+        run: |
+          for f in v1/index.json v1/all.json; do
+            curl -fsS --retry 3 "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@dist/$f" >/dev/null && echo "purged $f" || echo "::warning::purge failed for $f (it will refresh within 12 h)"
+          done

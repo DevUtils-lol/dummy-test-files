@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-sgi-sample-1280-853",
+    "name": "Sample 1280×853",
+    "category": "image",
+    "format": "sgi",
+    "url": "https://filesamples.com/samples/image/sgi/sample_1280%C3%97853.sgi",
+    "size": 3282043,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 853
+    },
+    "source": "filesamples"
+}

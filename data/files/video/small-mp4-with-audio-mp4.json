@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-mp4-with-audio-mp4",
+    "name": "Smallest valid MP4 (mp4 with audio)",
+    "category": "video",
+    "format": "mp4",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/mp4-with-audio.mp4",
+    "size": 1493,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

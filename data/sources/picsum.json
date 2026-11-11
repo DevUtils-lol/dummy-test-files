@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "picsum",
+    "name": "Lorem Picsum",
+    "homepage": "https://picsum.photos",
+    "license": "Unsplash License"
+}

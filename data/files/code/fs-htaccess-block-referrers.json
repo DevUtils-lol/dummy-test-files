@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-htaccess-block-referrers",
+    "name": "block referrers",
+    "category": "code",
+    "format": "htaccess",
+    "url": "https://filesamples.com/samples/code/htaccess/block_referrers.htaccess",
+    "size": 125,
+    "approxSize": true,
+    "source": "filesamples"
+}

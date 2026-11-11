@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dds-sample-640-426",
+    "name": "Sample 640×426",
+    "category": "image",
+    "format": "dds",
+    "url": "https://filesamples.com/samples/image/dds/sample_640%C3%97426.dds",
+    "size": 137093,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 426
+    },
+    "source": "filesamples"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "archive-blender-bbb-1080-zip",
+    "name": "Big Buck Bunny 1080p 30fps (zipped MP4)",
+    "category": "archive",
+    "format": "zip",
+    "url": "https://download.blender.org/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4.zip",
+    "size": 275524128,
+    "source": "blender",
+    "tags": [
+        "video-inside",
+        "large"
+    ]
+}

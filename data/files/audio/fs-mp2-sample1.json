@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mp2-sample1",
+    "name": "Sample 1",
+    "category": "audio",
+    "format": "mp2",
+    "url": "https://filesamples.com/samples/audio/mp2/sample1.mp2",
+    "size": 5861540,
+    "approxSize": true,
+    "meta": {
+        "duration": 122
+    },
+    "source": "filesamples"
+}

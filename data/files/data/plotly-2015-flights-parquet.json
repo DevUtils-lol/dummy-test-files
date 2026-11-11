@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-2015-flights-parquet",
+    "name": "2015 flights",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/2015_flights.parquet",
+    "size": 25238218,
+    "source": "plotly",
+    "tags": [
+        "real-data",
+        "large"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-gzip-gz",
+    "name": "Smallest valid GZ (gzip)",
+    "category": "archive",
+    "format": "gz",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/gzip.gz",
+    "size": 20,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

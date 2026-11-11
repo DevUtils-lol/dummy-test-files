@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-filesamples-flac-large",
+    "name": "Long FLAC sample",
+    "category": "audio",
+    "format": "flac",
+    "url": "https://filesamples.com/samples/audio/flac/sample4.flac",
+    "size": 21782030,
+    "source": "filesamples",
+    "tags": [
+        "lossless",
+        "large"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-picture-doc",
+    "name": "Document picture",
+    "category": "document",
+    "format": "doc",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/document/picture.doc",
+    "size": 1448448,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "word"
+    ]
+}

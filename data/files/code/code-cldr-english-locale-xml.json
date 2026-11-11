@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "code-cldr-english-locale-xml",
+    "name": "CLDR English locale",
+    "category": "code",
+    "format": "xml",
+    "url": "https://raw.githubusercontent.com/unicode-org/cldr/main/common/main/en.xml",
+    "size": 486056,
+    "source": "cldr",
+    "tags": [
+        "xml",
+        "i18n"
+    ]
+}

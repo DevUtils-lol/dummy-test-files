@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mkv-sample-1920x1080",
+    "name": "Sample 1920×1080",
+    "category": "video",
+    "format": "mkv",
+    "url": "https://filesamples.com/samples/video/mkv/sample_1920x1080.mkv",
+    "size": 38241567,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

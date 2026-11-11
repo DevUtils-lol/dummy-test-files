@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-sfd-fontawesome-webfont",
+    "name": "fontawesome-webfont",
+    "category": "font",
+    "format": "sfd",
+    "url": "https://filesamples.com/samples/font/sfd/fontawesome-webfont.sfd",
+    "size": 249836,
+    "approxSize": true,
+    "source": "filesamples"
+}

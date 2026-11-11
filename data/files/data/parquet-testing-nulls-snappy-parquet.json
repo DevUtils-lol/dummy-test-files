@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "parquet-testing-nulls-snappy-parquet",
+    "name": "Null values, Snappy",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/apache/parquet-testing/master/data/nulls.snappy.parquet",
+    "size": 461,
+    "source": "parquet-testing",
+    "tags": [
+        "parquet-feature"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-fb2-sway",
+    "name": "Sway",
+    "category": "ebook",
+    "format": "fb2",
+    "url": "https://filesamples.com/samples/ebook/fb2/Sway.fb2",
+    "size": 286208,
+    "approxSize": true,
+    "source": "filesamples"
+}

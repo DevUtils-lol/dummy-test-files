@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "3d-khronos-fox",
+    "name": "Fox",
+    "category": "3d",
+    "format": "glb",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Fox/glTF-Binary/Fox.glb",
+    "size": 162852,
+    "source": "khronos",
+    "tags": [
+        "gltf",
+        "pbr",
+        "animated"
+    ]
+}

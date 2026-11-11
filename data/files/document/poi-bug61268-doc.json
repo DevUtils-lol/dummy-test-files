@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-bug61268-doc",
+    "name": "Document Bug61268",
+    "category": "document",
+    "format": "doc",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/document/Bug61268.doc",
+    "size": 6239232,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "word"
+    ]
+}

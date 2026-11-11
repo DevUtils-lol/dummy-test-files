@@ -1,0 +1,653 @@
+{
+    "checkedAt": "2026-09-28T17:21:11.136Z",
+    "entries": {
+        "data-large-json-25mb": {
+            "state": "ok",
+            "http": 206,
+            "size": 26141343,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-jsonplaceholder-photos": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/json; charset=utf-8",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-gdp-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 562767,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-nyc-taxi-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 49961641,
+            "contentType": "binary/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-countries-geojson": {
+            "state": "ok",
+            "http": 206,
+            "size": 838726,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-covid-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 8578215,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-sf-citylots-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 189778220,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-gharchive-hour": {
+            "state": "ok",
+            "http": 206,
+            "size": 3844072,
+            "contentType": "application/gzip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-nyc-yellow-2015-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 175325767,
+            "contentType": "application/x-www-form-urlencoded; charset=utf-8",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-imdb-title-basics": {
+            "state": "ok",
+            "http": 206,
+            "size": 227695173,
+            "contentType": "binary/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-nyc-fhvhv-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 472757547,
+            "contentType": "binary/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-osm-monaco-pbf": {
+            "state": "ok",
+            "http": 206,
+            "size": 691393,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-osm-germany-pbf": {
+            "state": "ok",
+            "http": 206,
+            "size": 4848937785,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-amazon-cellphones-ndjson": {
+            "state": "ok",
+            "http": 206,
+            "size": 277673,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-apache-builds-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 127275,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-canada-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 2251051,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-citm-catalog-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 1727204,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-github-events-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 65132,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-google-maps-api-compact-response-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 11812,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-google-maps-api-response-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 26102,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-gsoc-2018-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 3327831,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-instruments-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 220346,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-marine-ik-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 2983466,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-mesh-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 723597,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-mesh-pretty-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 1577353,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-numbers-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 150124,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-random-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 510476,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-repeat-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 11356,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-semanticscholar-corpus-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 8593351,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-tree-pretty-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 34556,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-twitter-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 631515,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-twitter-api-compact-response-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 10075,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-twitter-api-response-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 15253,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-twitter-timeline-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 42233,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-twitterescaped-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 562408,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-simdjson-update-center-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 533178,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-suite-n-structure-100000-opening-arrays-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 100000,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-suite-y-string-utf8-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 11,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-suite-n-string-unescaped-tab-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 5,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "json-suite-i-number-huge-exp-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 137,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "parquet-testing-alltypes-plain-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 1851,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "parquet-testing-alltypes-tiny-pages-plain-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 811756,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "parquet-testing-nested-structs-rust-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 53040,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "parquet-testing-lz4-raw-compressed-larger-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 380836,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "parquet-testing-delta-binary-packed-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 72971,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "parquet-testing-nulls-snappy-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 461,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "parquet-testing-datapage-v1-corrupt-checksum-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 41421,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-processed-data-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 90470092,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-uber-rides-data1-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 58604196,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-flightdata-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 29970641,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-all-stocks-5yr-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 29580549,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-liquor-iowa-2021-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 11905069,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-26k-consumer-complaints-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 4762432,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-medicare-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 2145177,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-2015-flights-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 25238218,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-oil-and-gas-parquet": {
+            "state": "ok",
+            "http": 206,
+            "size": 2807664,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "plotly-geojson-counties-fips-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 3216816,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-chinook-music-store-database-sqlite": {
+            "state": "ok",
+            "http": 206,
+            "size": 1067008,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-northwind-database-sqlite-db": {
+            "state": "ok",
+            "http": 206,
+            "size": 24702976,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-github-rest-api-openapi-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 13005587,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-stripe-api-openapi-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 8316935,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-dblp-bibliography-xml-gzipped-gz": {
+            "state": "ok",
+            "http": 206,
+            "size": 1106722851,
+            "contentType": "application/x-gzip",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-airport-codes-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 8810002,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-world-cities-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 1333326,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-country-list-csv": {
+            "state": "ok",
+            "http": 206,
+            "size": 4048,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-country-borders-high-detail-geojson": {
+            "state": "ok",
+            "http": 206,
+            "size": 14643643,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-airports-of-the-world-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 9031842,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "data-countries-states-cities-json": {
+            "state": "ok",
+            "http": 206,
+            "size": 46625186,
+            "contentType": "text/plain; charset=utf-8",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-csv-sample4": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-csv-sample3": {
+            "state": "ok",
+            "http": 200,
+            "size": 723,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-csv-sample2": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-csv-sample1": {
+            "state": "ok",
+            "http": 200,
+            "size": 502,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        }
+    }
+}

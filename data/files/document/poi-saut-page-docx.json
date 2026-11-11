@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-saut-page-docx",
+    "name": "Document saut_page",
+    "category": "document",
+    "format": "docx",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/document/saut_page.docx",
+    "size": 2959626,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "word"
+    ]
+}

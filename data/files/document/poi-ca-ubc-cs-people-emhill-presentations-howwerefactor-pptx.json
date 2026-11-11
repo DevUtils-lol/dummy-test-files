@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "poi-ca-ubc-cs-people-emhill-presentations-howwerefactor-pptx",
+    "name": "Presentation ca.ubc.cs.people_~emhill_presentations_H",
+    "category": "document",
+    "format": "pptx",
+    "url": "https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/ca.ubc.cs.people_%7Eemhill_presentations_HowWeRefactor.pptx",
+    "size": 2059644,
+    "source": "apache-poi",
+    "tags": [
+        "office",
+        "test-corpus",
+        "presentation"
+    ]
+}

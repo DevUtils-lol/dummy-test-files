@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "audio-mdn-trex-mp3",
+    "name": "T-Rex roar (CC0)",
+    "category": "audio",
+    "format": "mp3",
+    "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3",
+    "size": null,
+    "source": "mdn",
+    "tags": [
+        "cc0",
+        "short"
+    ]
+}

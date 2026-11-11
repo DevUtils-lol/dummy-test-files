@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-tiff-tif",
+    "name": "Smallest valid TIF (tiff)",
+    "category": "image",
+    "format": "tif",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/tiff.tif",
+    "size": 46,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

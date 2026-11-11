@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-m4v-sample-1920x1080",
+    "name": "Sample 1920×1080",
+    "category": "video",
+    "format": "m4v",
+    "url": "https://filesamples.com/samples/video/m4v/sample_1920x1080.m4v",
+    "size": 38252052,
+    "approxSize": true,
+    "meta": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

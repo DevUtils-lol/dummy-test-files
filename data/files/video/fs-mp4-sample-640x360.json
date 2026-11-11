@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mp4-sample-640x360",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "mp4",
+    "url": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4",
+    "size": 574822,
+    "approxSize": true,
+    "meta": {
+        "width": 640,
+        "height": 360,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

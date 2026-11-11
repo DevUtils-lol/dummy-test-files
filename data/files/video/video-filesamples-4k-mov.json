@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-filesamples-4k-mov",
+    "name": "Sample 4K QuickTime",
+    "category": "video",
+    "format": "mov",
+    "url": "https://filesamples.com/samples/video/mov/sample_3840x2160.mov",
+    "size": 16006926,
+    "meta": {
+        "width": 3840,
+        "height": 2160
+    },
+    "source": "filesamples",
+    "tags": [
+        "4k",
+        "quicktime"
+    ]
+}

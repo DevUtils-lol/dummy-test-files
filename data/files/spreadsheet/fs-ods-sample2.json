@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ods-sample2",
+    "name": "Sample 2",
+    "category": "spreadsheet",
+    "format": "ods",
+    "url": "https://filesamples.com/samples/document/ods/sample2.ods",
+    "size": 6257,
+    "approxSize": true,
+    "source": "filesamples"
+}

@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-webm-sample-960x540",
+    "name": "Sample 960×540",
+    "category": "video",
+    "format": "webm",
+    "url": "https://filesamples.com/samples/video/webm/sample_960x540.webm",
+    "size": 384983,
+    "approxSize": true,
+    "meta": {
+        "width": 960,
+        "height": 540,
+        "duration": 13
+    },
+    "source": "filesamples"
+}

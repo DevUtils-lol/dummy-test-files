@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-bzip2-bz2",
+    "name": "Smallest valid BZ2 (bzip2)",
+    "category": "archive",
+    "format": "bz2",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/bzip2.bz2",
+    "size": 14,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

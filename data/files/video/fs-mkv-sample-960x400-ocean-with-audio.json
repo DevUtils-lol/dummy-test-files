@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mkv-sample-960x400-ocean-with-audio",
+    "name": "Sample 960×400 ocean (with audio)",
+    "category": "video",
+    "format": "mkv",
+    "url": "https://filesamples.com/samples/video/mkv/sample_960x400_ocean_with_audio.mkv",
+    "size": 17343447,
+    "approxSize": true,
+    "meta": {
+        "width": 960,
+        "height": 400,
+        "duration": 47
+    },
+    "source": "filesamples"
+}

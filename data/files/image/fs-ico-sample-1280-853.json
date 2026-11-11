@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ico-sample-1280-853",
+    "name": "Sample 1280×853",
+    "category": "image",
+    "format": "ico",
+    "url": "https://filesamples.com/samples/image/ico/sample_1280%C3%97853.ico",
+    "size": 180634,
+    "approxSize": true,
+    "meta": {
+        "width": 1280,
+        "height": 853
+    },
+    "source": "filesamples"
+}

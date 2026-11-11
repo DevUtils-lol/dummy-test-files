@@ -1,0 +1,554 @@
+{
+    "checkedAt": "2026-09-28T17:21:11.136Z",
+    "entries": {
+        "font-inter-variable-ttf": {
+            "state": "ok",
+            "http": 206,
+            "size": 876576,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "font-noto-sans-sc-ttf": {
+            "state": "ok",
+            "http": 206,
+            "size": 17772300,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "font-noto-cjk-jp-otf": {
+            "state": "ok",
+            "http": 206,
+            "size": 16467736,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "font-noto-cjk-vf-ttc": {
+            "state": "ok",
+            "http": 206,
+            "size": 32682580,
+            "contentType": "application/octet-stream",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "font-inter-regular-latin-woff2": {
+            "state": "ok",
+            "http": 206,
+            "size": 23664,
+            "contentType": "font/woff2",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "font-inter-regular-latin-woff": {
+            "state": "ok",
+            "http": 206,
+            "size": 30696,
+            "contentType": "font/woff",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "font-roboto-bold-latin-woff2": {
+            "state": "ok",
+            "http": 206,
+            "size": 22240,
+            "contentType": "font/woff2",
+            "cors": true,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-bin-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-bin-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-bin-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-bin-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-bin-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-bin-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-cff-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-cff-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-cff-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-cff-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-cff-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": 1024,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-cff-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-dfont-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-dfont-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-dfont-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-dfont-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-dfont-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-dfont-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-otf-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-otf-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-otf-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-otf-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-otf-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-otf-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pfb-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pfb-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pfb-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pfb-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pfb-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-pfb-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ps-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/postscript",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ps-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/postscript",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ps-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/postscript",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ps-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/postscript",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ps-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/postscript",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ps-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/postscript",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-sfd-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-sfd-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-sfd-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-sfd-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-sfd-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-sfd-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ttf-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ttf-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ttf-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ttf-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ttf-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-ttf-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "application/octet-stream",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-woff-fontawesome-webfont": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "font/woff",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-woff-lato-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "font/woff",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-woff-notosansshavian-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "font/woff",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-woff-sourcecodepro-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "font/woff",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-woff-slick": {
+            "state": "ok",
+            "http": 200,
+            "size": 1256,
+            "contentType": "font/woff",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        },
+        "fs-woff-opensans-regular": {
+            "state": "ok",
+            "http": 200,
+            "size": null,
+            "contentType": "font/woff",
+            "cors": false,
+            "lastOk": "2026-09-28",
+            "failCount": 0
+        }
+    }
+}

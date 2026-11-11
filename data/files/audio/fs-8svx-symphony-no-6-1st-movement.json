@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-8svx-symphony-no-6-1st-movement",
+    "name": "Symphony No.6 (1st movement)",
+    "category": "audio",
+    "format": "8svx",
+    "url": "https://filesamples.com/samples/audio/8svx/Symphony%20No.6%20%281st%20movement%29.8svx",
+    "size": 64214794,
+    "approxSize": true,
+    "meta": {
+        "duration": 728
+    },
+    "source": "filesamples"
+}

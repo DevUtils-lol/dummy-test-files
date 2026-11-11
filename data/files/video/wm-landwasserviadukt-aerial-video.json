@@ -1,0 +1,19 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "wm-landwasserviadukt-aerial-video",
+    "name": "Landwasserviadukt, aerial video",
+    "category": "video",
+    "format": "webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Landwasserviadukt%2C_aerial_video.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size": 310529873,
+    "meta": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 170
+    },
+    "source": "wikimedia",
+    "tags": [
+        "real-world",
+        "very-large"
+    ]
+}

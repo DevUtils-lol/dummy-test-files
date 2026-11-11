@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "plotly-liquor-iowa-2021-csv",
+    "name": "liquor iowa 2021",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/plotly/datasets/master/liquor_iowa_2021.csv",
+    "size": 11905069,
+    "source": "plotly",
+    "tags": [
+        "real-data"
+    ]
+}

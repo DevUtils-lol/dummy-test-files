@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "py-pdf",
+    "name": "py-pdf/sample-files",
+    "homepage": "https://github.com/py-pdf/sample-files",
+    "license": "Mixed permissive (see repo)"
+}

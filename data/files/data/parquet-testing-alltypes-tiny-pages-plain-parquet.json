@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "parquet-testing-alltypes-tiny-pages-plain-parquet",
+    "name": "Many tiny data pages",
+    "category": "data",
+    "format": "parquet",
+    "url": "https://raw.githubusercontent.com/apache/parquet-testing/master/data/alltypes_tiny_pages_plain.parquet",
+    "size": 811756,
+    "source": "parquet-testing",
+    "tags": [
+        "parquet-feature"
+    ]
+}

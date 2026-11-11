@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-tar-tar",
+    "name": "Smallest valid TAR",
+    "category": "archive",
+    "format": "tar",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/tar.tar",
+    "size": 512,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

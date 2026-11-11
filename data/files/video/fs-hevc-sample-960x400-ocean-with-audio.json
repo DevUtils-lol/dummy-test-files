@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-hevc-sample-960x400-ocean-with-audio",
+    "name": "Sample 960×400 ocean (with audio)",
+    "category": "video",
+    "format": "hevc",
+    "url": "https://filesamples.com/samples/video/hevc/sample_960x400_ocean_with_audio.hevc",
+    "size": 8503951,
+    "approxSize": true,
+    "meta": {
+        "width": 960,
+        "height": 400
+    },
+    "source": "filesamples"
+}

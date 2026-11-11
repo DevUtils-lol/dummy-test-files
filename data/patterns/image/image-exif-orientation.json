@@ -1,0 +1,65 @@
+{
+    "$schema": "../../../schema/pattern.schema.json",
+    "id": "image-exif-orientation",
+    "category": "image",
+    "source": "exif-orientation",
+    "idTemplate": "image-exif-{shape.key}-{o.key}",
+    "name": "EXIF orientation {o.key} ({shape.label})",
+    "url": "https://cdn.jsdelivr.net/gh/recurser/exif-orientation-examples@master/{shape.file}_{o.key}.jpg",
+    "format": "jpg",
+    "size": null,
+    "tags": [
+        "exif",
+        "orientation-{o.key}",
+        "edge-case"
+    ],
+    "description": "Rendered upright only if your code honours the EXIF Orientation tag ({o.label}).",
+    "vars": {
+        "shape": [
+            {
+                "key": "landscape",
+                "file": "Landscape",
+                "label": "landscape"
+            },
+            {
+                "key": "portrait",
+                "file": "Portrait",
+                "label": "portrait"
+            }
+        ],
+        "o": [
+            {
+                "key": "1",
+                "label": "normal"
+            },
+            {
+                "key": "2",
+                "label": "mirrored"
+            },
+            {
+                "key": "3",
+                "label": "rotated 180°"
+            },
+            {
+                "key": "4",
+                "label": "mirrored vertically"
+            },
+            {
+                "key": "5",
+                "label": "mirrored + 90° CCW"
+            },
+            {
+                "key": "6",
+                "label": "rotated 90° CW"
+            },
+            {
+                "key": "7",
+                "label": "mirrored + 90° CW"
+            },
+            {
+                "key": "8",
+                "label": "rotated 90° CCW"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-bpg-bpg",
+    "name": "Smallest valid BPG",
+    "category": "image",
+    "format": "bpg",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/bpg.bpg",
+    "size": 132,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

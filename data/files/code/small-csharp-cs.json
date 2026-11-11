@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "small-csharp-cs",
+    "name": "Smallest valid CS (csharp)",
+    "category": "code",
+    "format": "cs",
+    "url": "https://raw.githubusercontent.com/mathiasbynens/small/master/csharp.cs",
+    "size": 30,
+    "source": "small",
+    "tags": [
+        "smallest-valid",
+        "edge-case"
+    ]
+}

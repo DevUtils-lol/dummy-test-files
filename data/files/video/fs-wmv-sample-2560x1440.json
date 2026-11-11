@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-wmv-sample-2560x1440",
+    "name": "Sample 2560×1440",
+    "category": "video",
+    "format": "wmv",
+    "url": "https://filesamples.com/samples/video/wmv/sample_2560x1440.wmv",
+    "size": 15791555,
+    "approxSize": true,
+    "meta": {
+        "width": 2560,
+        "height": 1440,
+        "duration": 28
+    },
+    "source": "filesamples"
+}

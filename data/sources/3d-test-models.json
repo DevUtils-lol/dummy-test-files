@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "3d-test-models",
+    "name": "alecjacobson/common-3d-test-models",
+    "homepage": "https://github.com/alecjacobson/common-3d-test-models",
+    "license": "Various (Stanford, etc.)"
+}

@@ -1,0 +1,18 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "image-filesamples-tiff",
+    "name": "Sample TIFF 1920×1280",
+    "category": "image",
+    "format": "tif",
+    "url": "https://filesamples.com/samples/image/tiff/sample_1920%C3%971280.tiff",
+    "size": 7373064,
+    "meta": {
+        "width": 1920,
+        "height": 1280
+    },
+    "source": "filesamples",
+    "tags": [
+        "tiff"
+    ],
+    "preview": "none"
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "doc-filesamples-docx-large",
+    "name": "Large Word document",
+    "category": "document",
+    "format": "docx",
+    "url": "https://filesamples.com/samples/document/docx/sample4.docx",
+    "size": 14169117,
+    "source": "filesamples",
+    "tags": [
+        "office",
+        "large"
+    ]
+}

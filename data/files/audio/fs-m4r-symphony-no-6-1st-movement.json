@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-m4r-symphony-no-6-1st-movement",
+    "name": "Symphony No.6 (1st movement)",
+    "category": "audio",
+    "format": "m4r",
+    "url": "https://filesamples.com/samples/audio/m4r/Symphony%20No.6%20%281st%20movement%29.m4r",
+    "size": 481761,
+    "approxSize": true,
+    "meta": {
+        "duration": 30
+    },
+    "source": "filesamples"
+}

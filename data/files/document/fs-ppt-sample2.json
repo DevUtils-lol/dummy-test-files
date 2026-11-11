@@ -1,0 +1,14 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ppt-sample2",
+    "name": "Sample 2",
+    "category": "document",
+    "format": "ppt",
+    "url": "https://filesamples.com/samples/document/ppt/sample2.ppt",
+    "size": 530432,
+    "approxSize": true,
+    "source": "filesamples",
+    "tags": [
+        "presentation"
+    ]
+}

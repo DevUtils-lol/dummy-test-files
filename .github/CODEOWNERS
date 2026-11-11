@@ -1,0 +1,5 @@
+# Every PR needs a maintainer's approval (enable "Require review from Code Owners" in branch protection).
+*                  @DevUtils-lol/maintainers
+# Automation and rules: maintainers only, extra care.
+/.github/          @DevUtils-lol/maintainers
+/scripts/          @DevUtils-lol/maintainers

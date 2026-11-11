@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-filesamples-mkv",
+    "name": "Sample 640×360",
+    "category": "video",
+    "format": "mkv",
+    "url": "https://filesamples.com/samples/video/mkv/sample_640x360.mkv",
+    "size": null,
+    "meta": {
+        "width": 640,
+        "height": 360
+    },
+    "source": "filesamples",
+    "tags": [
+        "matroska"
+    ]
+}

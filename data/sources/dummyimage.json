@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schema/source.schema.json",
+    "id": "dummyimage",
+    "name": "DummyImage",
+    "homepage": "https://dummyimage.com",
+    "license": "Free placeholder images"
+}

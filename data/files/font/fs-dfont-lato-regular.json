@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-dfont-lato-regular",
+    "name": "Lato-Regular",
+    "category": "font",
+    "format": "dfont",
+    "url": "https://filesamples.com/samples/font/dfont/Lato-Regular.dfont",
+    "size": 65505,
+    "approxSize": true,
+    "source": "filesamples"
+}

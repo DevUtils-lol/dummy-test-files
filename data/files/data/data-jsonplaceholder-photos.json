@@ -1,0 +1,17 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-jsonplaceholder-photos",
+    "name": "5,000 photo records",
+    "category": "data",
+    "format": "json",
+    "url": "https://jsonplaceholder.typicode.com/photos",
+    "size": null,
+    "meta": {
+        "rows": 5000
+    },
+    "source": "jsonplaceholder",
+    "tags": [
+        "api",
+        "array"
+    ]
+}

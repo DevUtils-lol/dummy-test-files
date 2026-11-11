@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mobi-alices-adventures-in-wonderland",
+    "name": "Alices Adventures in Wonderland",
+    "category": "ebook",
+    "format": "mobi",
+    "url": "https://filesamples.com/samples/ebook/mobi/Alices%20Adventures%20in%20Wonderland.mobi",
+    "size": 3250586,
+    "approxSize": true,
+    "source": "filesamples"
+}

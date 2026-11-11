@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-mobi-sway",
+    "name": "Sway",
+    "category": "ebook",
+    "format": "mobi",
+    "url": "https://filesamples.com/samples/ebook/mobi/Sway.mobi",
+    "size": 225188,
+    "approxSize": true,
+    "source": "filesamples"
+}

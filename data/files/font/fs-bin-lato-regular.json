@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-bin-lato-regular",
+    "name": "Lato-Regular",
+    "category": "font",
+    "format": "bin",
+    "url": "https://filesamples.com/samples/font/bin/Lato-Regular.bin",
+    "size": 56453,
+    "approxSize": true,
+    "source": "filesamples"
+}

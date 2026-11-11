@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-xlsx-sample3",
+    "name": "Sample 3",
+    "category": "spreadsheet",
+    "format": "xlsx",
+    "url": "https://filesamples.com/samples/document/xlsx/sample3.xlsx",
+    "size": 13251,
+    "approxSize": true,
+    "source": "filesamples"
+}

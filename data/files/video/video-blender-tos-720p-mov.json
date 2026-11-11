@@ -1,0 +1,20 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "video-blender-tos-720p-mov",
+    "name": "Tears of Steel 720p",
+    "category": "video",
+    "format": "mov",
+    "url": "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov",
+    "size": 372178639,
+    "meta": {
+        "width": 1280,
+        "height": 720,
+        "duration": 734
+    },
+    "source": "blender",
+    "tags": [
+        "quicktime",
+        "large",
+        "short-film"
+    ]
+}

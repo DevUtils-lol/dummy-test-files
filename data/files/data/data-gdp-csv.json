@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "data-gdp-csv",
+    "name": "World GDP by country",
+    "category": "data",
+    "format": "csv",
+    "url": "https://raw.githubusercontent.com/datasets/gdp/master/data/gdp.csv",
+    "size": null,
+    "source": "datasets",
+    "tags": [
+        "real-data"
+    ]
+}

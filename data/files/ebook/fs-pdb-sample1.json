@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-pdb-sample1",
+    "name": "Sample 1",
+    "category": "ebook",
+    "format": "pdb",
+    "url": "https://filesamples.com/samples/ebook/pdb/sample1.pdb",
+    "size": 30331,
+    "approxSize": true,
+    "source": "filesamples"
+}

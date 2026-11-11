@@ -1,0 +1,45 @@
+{
+    "$schema": "../../../schema/pattern.schema.json",
+    "id": "any-size-ovh",
+    "category": "any-size",
+    "source": "ovh",
+    "idTemplate": "any-ovh-{size.key}",
+    "name": "{size.label} binary (OVH)",
+    "url": "https://proof.ovh.net/files/{size.key}.dat",
+    "format": "dat",
+    "size": "{size.bytes}",
+    "tags": [
+        "speed-test",
+        "{size.label}"
+    ],
+    "preview": "none",
+    "vars": {
+        "size": [
+            {
+                "key": "1Mb",
+                "label": "1 MB",
+                "bytes": 1048576
+            },
+            {
+                "key": "10Mb",
+                "label": "10 MB",
+                "bytes": 10485760
+            },
+            {
+                "key": "100Mb",
+                "label": "100 MB",
+                "bytes": 104857600
+            },
+            {
+                "key": "1Gb",
+                "label": "1 GB",
+                "bytes": 1073741824
+            },
+            {
+                "key": "10Gb",
+                "label": "10 GB",
+                "bytes": 10737418240
+            }
+        ]
+    }
+}

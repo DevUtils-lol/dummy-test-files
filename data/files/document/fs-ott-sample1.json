@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-ott-sample1",
+    "name": "Sample 1",
+    "category": "document",
+    "format": "ott",
+    "url": "https://filesamples.com/samples/document/ott/sample1.ott",
+    "size": 107622,
+    "approxSize": true,
+    "source": "filesamples"
+}

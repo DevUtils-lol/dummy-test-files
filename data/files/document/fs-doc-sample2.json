@@ -1,0 +1,11 @@
+{
+    "$schema": "../../../schema/file.schema.json",
+    "id": "fs-doc-sample2",
+    "name": "Sample 2",
+    "category": "document",
+    "format": "doc",
+    "url": "https://filesamples.com/samples/document/doc/sample2.doc",
+    "size": 32768,
+    "approxSize": true,
+    "source": "filesamples"
+}
