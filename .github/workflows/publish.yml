@@ -1,12 +1,13 @@
 name: Publish
 
-# Builds the catalog and publishes it to the `dist` branch, which apps read through
-# jsDelivr:  https://cdn.jsdelivr.net/gh/DevUtils-lol/dummy-test-files@dist/v1/index.json
+# Builds the catalog and publishes it to the `dist` branch.
 #
-# Runs after every merge to main, and is called by the daily link check. Shards are
-# content-addressed and old ones are kept for 14 days, so clients holding a cached
-# index.json never hit a 404. Only index.json / all.json change in place; their CDN
-# cache is purged after each publish so updates show up within minutes.
+# Apps read:  https://raw.githubusercontent.com/DevUtils-lol/dummy-test-files/dist/v1/index.json
+#   (tiny, 5-minute cache) whose "commit" field pins the shards to an exact dist commit:
+#             https://cdn.jsdelivr.net/gh/DevUtils-lol/dummy-test-files@<commit>/v1/shards/…
+#   (immutable, cached forever). Updates are live within ~5 minutes of a merge.
+#
+# Runs after every merge to main, and is called by the daily link check.
 on:
   push:
     branches: [main]
@@ -65,37 +66,19 @@ jobs:
           node scripts/build.mjs --out out
           cp dist-README.md out/README.md
 
-      - name: Commit & push
+      - name: Commit (index pinned to the exact dist commit) & push
         id: push
-        working-directory: out
         run: |
-          git add -A
-          if git diff --cached --quiet; then
-            echo "Nothing changed."
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          git commit -q -m "build ${GITHUB_SHA::7}"
-          git push origin dist
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+          node scripts/publish-dist.mjs out --message "build ${GITHUB_SHA::7}" | tee -a /dev/stderr | grep '^changed=' >> "$GITHUB_OUTPUT"
+          git -C out push origin dist
 
-      # jsDelivr also caches which commit `@dist` points to, so a purge sent right after the
-      # push can re-cache the OLD build. Purge, then confirm the CDN serves the new build id,
-      # and retry with growing waits until it does.
-      - name: Purge the CDN cache and confirm the new build is live
+      # Apps read index.json from raw.githubusercontent.com (5-minute cache) and shards from
+      # jsDelivr pinned to the commit in index.json, so no purge is needed for freshness.
+      # The jsDelivr @dist copy is only a last-resort fallback; refresh it best-effort.
+      - name: Refresh the jsDelivr fallback (best effort)
         if: steps.push.outputs.changed == 'true'
+        continue-on-error: true
         run: |
-          want=$(node -p "require('./out/v1/index.json').build")
-          cdn="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@dist/v1/index.json"
-          for wait in 10 20 40 60 90 120; do
-            sleep "$wait"
-            for f in v1/index.json v1/all.json; do
-              curl -fsS --retry 3 "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@dist/$f" >/dev/null || true
-            done
-            sleep 5
-            # Same URL apps use (no cache-busting query), so we see what they see.
-            got=$(curl -fsS "$cdn" | node -e "let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{try{console.log(JSON.parse(s).build)}catch{console.log('?')}})")
-            echo "CDN serves build $got (want $want)"
-            if [ "$got" = "$want" ]; then exit 0; fi
+          for f in v1/index.json v1/all.json; do
+            curl -fsS --retry 2 "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@dist/$f" >/dev/null && echo "purged $f" || echo "purge failed for $f (fallback only)"
           done
-          echo "::warning::jsDelivr still serves an older build; it will refresh on its own within 12 h."

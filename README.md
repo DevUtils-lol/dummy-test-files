@@ -11,15 +11,15 @@ You can browse it at **[devutils.lol/tools/test-files](https://devutils.lol/tool
 
 ## Using the catalog
 
-Built files are published to the `dist` branch and served by jsDelivr:
+Built files are published to the `dist` branch:
 
 | URL | What it is |
 |---|---|
-| `https://cdn.jsdelivr.net/gh/DevUtils-lol/dummy-test-files@dist/v1/index.json` | A small index: build id, last check time, sources, and per-category counts with shard paths |
-| `…@dist/v1/shards/<category>-<n>.<hash>.json` | The entries for one category. The file name includes a hash of its contents, so it never changes and can be cached forever |
-| `…@dist/v1/all.json` | Everything in one file, for scripts and offline snapshots |
+| `https://raw.githubusercontent.com/DevUtils-lol/dummy-test-files/dist/v1/index.json` | A small index: build id, last check time, sources, per-category counts with shard paths, and **`commit`**, the exact `dist` commit the shards are in |
+| `https://cdn.jsdelivr.net/gh/DevUtils-lol/dummy-test-files@<commit>/v1/shards/<category>-<n>.<hash>.json` | The entries for one category, pinned to that commit, so the CDN caches them forever and they're never stale |
+| `…@<commit>/v1/all.json` | Everything in one file, for scripts and offline snapshots |
 
-To stay fast at any size, load `index.json` first, then fetch only the shards you need, resolved relative to the index URL. Cache them by name: an update only adds new shard names, so returning visitors download only what changed. Old shards stay published for 14 days, so an index cached by a browser or CDN never points at a missing file.
+**Read `index.json` from raw GitHub, not from `cdn.jsdelivr.net/…@dist`.** Raw GitHub caches for 5 minutes and is the same everywhere. CDN copies of a branch can be hours old and differ between edge locations. Then load only the shards you need, from jsDelivr at `@<commit>`, with raw GitHub at the same commit as the fallback. Cache shards by name: an update only adds new names, so returning visitors download only what changed. Old shards stay published for 14 days. `publishedAt` tells you which of two indexes is newer, so you can ignore a stale copy.
 
 Each entry looks like this:
 
