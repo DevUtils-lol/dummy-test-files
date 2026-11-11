@@ -79,9 +79,23 @@ jobs:
           git push origin dist
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
-      - name: Purge the CDN cache of mutable files
+      # jsDelivr also caches which commit `@dist` points to, so a purge sent right after the
+      # push can re-cache the OLD build. Purge, then confirm the CDN serves the new build id,
+      # and retry with growing waits until it does.
+      - name: Purge the CDN cache and confirm the new build is live
         if: steps.push.outputs.changed == 'true'
         run: |
-          for f in v1/index.json v1/all.json; do
-            curl -fsS --retry 3 "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@dist/$f" >/dev/null && echo "purged $f" || echo "::warning::purge failed for $f (it will refresh within 12 h)"
+          want=$(node -p "require('./out/v1/index.json').build")
+          cdn="https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@dist/v1/index.json"
+          for wait in 10 20 40 60 90 120; do
+            sleep "$wait"
+            for f in v1/index.json v1/all.json; do
+              curl -fsS --retry 3 "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@dist/$f" >/dev/null || true
+            done
+            sleep 5
+            # Same URL apps use (no cache-busting query), so we see what they see.
+            got=$(curl -fsS "$cdn" | node -e "let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{try{console.log(JSON.parse(s).build)}catch{console.log('?')}})")
+            echo "CDN serves build $got (want $want)"
+            if [ "$got" = "$want" ]; then exit 0; fi
           done
+          echo "::warning::jsDelivr still serves an older build; it will refresh on its own within 12 h."
