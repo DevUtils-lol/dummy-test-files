@@ -1,0 +1,1844 @@
+{
+  "checkedAt": "2026-11-11T10:36:06.337Z",
+  "entries": {
+    "fs-bmp-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-ms-bmp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-bmp-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-ms-bmp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-bmp-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-ms-bmp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-bmp-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-ms-bmp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-cr2-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-cur-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-dds-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-dds-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-dds-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-dds-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-dng-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-erf-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-exr-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-exr-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-exr-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-exr-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-fts-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-gif-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-gif-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-gif-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-gif-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-hdr-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-hdr-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-hdr-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-hdr-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-heif-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ico-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-icon",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ico-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-icon",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ico-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-icon",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ico-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/x-icon",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jfif-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jp2-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpe-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpeg-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpeg-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpeg-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpeg-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpg-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpg-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpg-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jpg-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-jps-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-mng-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "video/x-mng",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-nef-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-nrw-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-orf-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pam-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pbm-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pcd-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pcx-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pef-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pes-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pfm-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pgm-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-picon-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pict-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-png-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-png-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-png-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-png-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-pnm-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ppm-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-psd-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-psd-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-psd-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-psd-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-raf-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ras-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-rw2-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-sgi-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-svg-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-svg-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-svg-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-svg-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-tga-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-tga-sample-1920-1280": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-tga-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-tga-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-tiff-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/tiff",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-tiff-sample-5184-3456": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/tiff",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-tiff-sample-640-426": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/tiff",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-wbmp-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/vnd.wap.wbmp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-webp-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xbm-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xpm-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xwd-sample-1280-853": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-dummyimage-600": {
+      "state": "ok",
+      "http": 206,
+      "size": 1785,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-1": {
+      "state": "ok",
+      "http": 206,
+      "size": 347327,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-2": {
+      "state": "ok",
+      "http": 206,
+      "size": 349209,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-3": {
+      "state": "ok",
+      "http": 206,
+      "size": 348796,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-4": {
+      "state": "ok",
+      "http": 206,
+      "size": 348052,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-5": {
+      "state": "ok",
+      "http": 206,
+      "size": 351275,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-6": {
+      "state": "ok",
+      "http": 206,
+      "size": 352727,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-7": {
+      "state": "ok",
+      "http": 206,
+      "size": 351856,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-landscape-8": {
+      "state": "ok",
+      "http": 206,
+      "size": 352067,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-1": {
+      "state": "ok",
+      "http": 206,
+      "size": 245684,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-2": {
+      "state": "ok",
+      "http": 206,
+      "size": 246915,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-3": {
+      "state": "ok",
+      "http": 206,
+      "size": 247276,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-4": {
+      "state": "ok",
+      "http": 206,
+      "size": 246554,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-5": {
+      "state": "ok",
+      "http": 206,
+      "size": 251487,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-6": {
+      "state": "ok",
+      "http": 206,
+      "size": 251800,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-7": {
+      "state": "ok",
+      "http": 206,
+      "size": 250892,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-exif-portrait-8": {
+      "state": "ok",
+      "http": 206,
+      "size": 251978,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-filesamples-tiff": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "image/tiff",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-heic-sample": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-01": {
+      "state": "ok",
+      "http": 206,
+      "size": 736501,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-02": {
+      "state": "ok",
+      "http": 206,
+      "size": 617995,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-03": {
+      "state": "ok",
+      "http": 206,
+      "size": 502888,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-04": {
+      "state": "ok",
+      "http": 206,
+      "size": 637432,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-05": {
+      "state": "ok",
+      "http": 206,
+      "size": 785610,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-06": {
+      "state": "ok",
+      "http": 206,
+      "size": 618959,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-07": {
+      "state": "ok",
+      "http": 206,
+      "size": 566322,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-08": {
+      "state": "ok",
+      "http": 206,
+      "size": 788470,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-09": {
+      "state": "ok",
+      "http": 206,
+      "size": 582899,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-10": {
+      "state": "ok",
+      "http": 206,
+      "size": 593463,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-11": {
+      "state": "ok",
+      "http": 206,
+      "size": 621023,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-12": {
+      "state": "ok",
+      "http": 206,
+      "size": 531024,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-13": {
+      "state": "ok",
+      "http": 206,
+      "size": 822712,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-14": {
+      "state": "ok",
+      "http": 206,
+      "size": 692201,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-15": {
+      "state": "ok",
+      "http": 206,
+      "size": 612582,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-16": {
+      "state": "ok",
+      "http": 206,
+      "size": 534247,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-17": {
+      "state": "ok",
+      "http": 206,
+      "size": 602078,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-18": {
+      "state": "ok",
+      "http": 206,
+      "size": 780947,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-19": {
+      "state": "ok",
+      "http": 206,
+      "size": 671476,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-20": {
+      "state": "ok",
+      "http": 206,
+      "size": 492462,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-21": {
+      "state": "ok",
+      "http": 206,
+      "size": 637051,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-22": {
+      "state": "ok",
+      "http": 206,
+      "size": 701970,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-23": {
+      "state": "ok",
+      "http": 206,
+      "size": 557596,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-kodak-24": {
+      "state": "ok",
+      "http": 206,
+      "size": 706397,
+      "contentType": "image/png",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-nasa-blue-marble-jpg": {
+      "state": "failing",
+      "http": 0,
+      "size": 29868040,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "image-nasa-blue-marble-png": {
+      "state": "failing",
+      "http": 0,
+      "size": 287623618,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "image-nasa-land-topo-tif": {
+      "state": "failing",
+      "http": 0,
+      "size": 181981194,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "image-picsum-1920": {
+      "state": "ok",
+      "http": 206,
+      "size": 265191,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1280x720-avif": {
+      "state": "ok",
+      "http": 206,
+      "size": 1976,
+      "contentType": "image/avif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1280x720-gif": {
+      "state": "ok",
+      "http": 206,
+      "size": 10437,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1280x720-jpeg": {
+      "state": "ok",
+      "http": 206,
+      "size": 13574,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1280x720-png": {
+      "state": "ok",
+      "http": 206,
+      "size": 16997,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1280x720-svg": {
+      "state": "ok",
+      "http": 206,
+      "size": 4162,
+      "contentType": "image/svg+xml; charset=utf-8",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1280x720-webp": {
+      "state": "ok",
+      "http": 206,
+      "size": 4690,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-150x150-avif": {
+      "state": "ok",
+      "http": 206,
+      "size": 735,
+      "contentType": "image/avif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-150x150-gif": {
+      "state": "ok",
+      "http": 206,
+      "size": 1312,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-150x150-jpeg": {
+      "state": "ok",
+      "http": 206,
+      "size": 1058,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-150x150-png": {
+      "state": "ok",
+      "http": 206,
+      "size": 1652,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-150x150-svg": {
+      "state": "ok",
+      "http": 206,
+      "size": 2353,
+      "contentType": "image/svg+xml; charset=utf-8",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-150x150-webp": {
+      "state": "ok",
+      "http": 206,
+      "size": 454,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1920x1080-avif": {
+      "state": "ok",
+      "http": 206,
+      "size": 2570,
+      "contentType": "image/avif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1920x1080-gif": {
+      "state": "ok",
+      "http": 206,
+      "size": 16575,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1920x1080-jpeg": {
+      "state": "ok",
+      "http": 206,
+      "size": 24584,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1920x1080-png": {
+      "state": "ok",
+      "http": 206,
+      "size": 29688,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1920x1080-svg": {
+      "state": "ok",
+      "http": 206,
+      "size": 4782,
+      "contentType": "image/svg+xml; charset=utf-8",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-1920x1080-webp": {
+      "state": "ok",
+      "http": 206,
+      "size": 8360,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-3840x2160-avif": {
+      "state": "ok",
+      "http": 206,
+      "size": 4344,
+      "contentType": "image/avif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-3840x2160-gif": {
+      "state": "ok",
+      "http": 206,
+      "size": 36839,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-3840x2160-jpeg": {
+      "state": "ok",
+      "http": 206,
+      "size": 73981,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-3840x2160-png": {
+      "state": "ok",
+      "http": 206,
+      "size": 82982,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-3840x2160-svg": {
+      "state": "ok",
+      "http": 206,
+      "size": 5406,
+      "contentType": "image/svg+xml; charset=utf-8",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-3840x2160-webp": {
+      "state": "ok",
+      "http": 206,
+      "size": 24132,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-640x480-avif": {
+      "state": "ok",
+      "http": 206,
+      "size": 1393,
+      "contentType": "image/avif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-640x480-gif": {
+      "state": "ok",
+      "http": 206,
+      "size": 5172,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-640x480-jpeg": {
+      "state": "ok",
+      "http": 206,
+      "size": 5987,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-640x480-png": {
+      "state": "ok",
+      "http": 206,
+      "size": 8235,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-640x480-svg": {
+      "state": "ok",
+      "http": 206,
+      "size": 3167,
+      "contentType": "image/svg+xml; charset=utf-8",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "image-placehold-640x480-webp": {
+      "state": "ok",
+      "http": 206,
+      "size": 2176,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-bmp-bmp": {
+      "state": "ok",
+      "http": 206,
+      "size": 30,
+      "contentType": "image/bmp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-bpg-bpg": {
+      "state": "ok",
+      "http": 206,
+      "size": 132,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-dicom-dcm": {
+      "state": "ok",
+      "http": 206,
+      "size": 254,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-gif-gif": {
+      "state": "ok",
+      "http": 206,
+      "size": 14,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-gif-transparent-gif": {
+      "state": "ok",
+      "http": 206,
+      "size": 42,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-heif-heif": {
+      "state": "ok",
+      "http": 206,
+      "size": 386,
+      "contentType": "image/heif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-ico-ico": {
+      "state": "ok",
+      "http": 206,
+      "size": 70,
+      "contentType": "image/vnd.microsoft.icon",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-jpeg-jpg": {
+      "state": "ok",
+      "http": 206,
+      "size": 107,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-jpeg2-jp2": {
+      "state": "ok",
+      "http": 206,
+      "size": 212,
+      "contentType": "image/jp2",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-jxl-jxl": {
+      "state": "ok",
+      "http": 206,
+      "size": 16,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-mng-mng": {
+      "state": "ok",
+      "http": 206,
+      "size": 148,
+      "contentType": "video/mng",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-png-transparent-png": {
+      "state": "ok",
+      "http": 206,
+      "size": 67,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-png-truncated-png": {
+      "state": "ok",
+      "http": 206,
+      "size": 51,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-ppm-ppm": {
+      "state": "ok",
+      "http": 206,
+      "size": 14,
+      "contentType": "text/plain; charset=utf-8",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-ppmb-ppm": {
+      "state": "ok",
+      "http": 206,
+      "size": 12,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-svg-svg": {
+      "state": "ok",
+      "http": 206,
+      "size": 41,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-targa-tga": {
+      "state": "ok",
+      "http": 206,
+      "size": 47,
+      "contentType": "image/targa",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-tiff-tif": {
+      "state": "ok",
+      "http": 206,
+      "size": 46,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-webp-webp": {
+      "state": "ok",
+      "http": 206,
+      "size": 26,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-windowsmetafile-wmf": {
+      "state": "ok",
+      "http": 206,
+      "size": 224,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "small-x-bitmap-xbm": {
+      "state": "ok",
+      "http": 206,
+      "size": 104,
+      "contentType": "text/plain; charset=utf-8",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-animation-of-buchli-drive": {
+      "state": "ok",
+      "http": 206,
+      "size": 10213491,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-bowling-balls-beach-2": {
+      "state": "ok",
+      "http": 206,
+      "size": 2470662,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-crissy-field-beach-and-golden-gate-bridge": {
+      "state": "ok",
+      "http": 206,
+      "size": 4341399,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-d-lmen-merfeld-felder-2024-0102": {
+      "state": "ok",
+      "http": 206,
+      "size": 62780952,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-ellipsograph-animation-large-transparent": {
+      "state": "ok",
+      "http": 206,
+      "size": 6922427,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-everest-himalayas": {
+      "state": "ok",
+      "http": 206,
+      "size": 8357266,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-honeybee-landing-on-milkthistle02": {
+      "state": "ok",
+      "http": 206,
+      "size": 330529,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-lagrangianpoints": {
+      "state": "ok",
+      "http": 206,
+      "size": 8815208,
+      "contentType": "image/gif",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-macau-morpheus-hotel-2024-dllu": {
+      "state": "ok",
+      "http": 206,
+      "size": 40131260,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-magnolia-soulangeana-blossom": {
+      "state": "ok",
+      "http": 206,
+      "size": 198160,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-mountains-in-snow-mountain-lake-chola-valley-nepal-himalayas": {
+      "state": "ok",
+      "http": 206,
+      "size": 7417279,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-physical-map-of-ancient-greece-ru": {
+      "state": "ok",
+      "http": 206,
+      "size": 13615725,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-plant-cell-types": {
+      "state": "ok",
+      "http": 206,
+      "size": 7508411,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-solar-system-diagram-english": {
+      "state": "ok",
+      "http": 206,
+      "size": 422199,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-soyuz-rocket-and-spaceship-v1-1": {
+      "state": "ok",
+      "http": 206,
+      "size": 12819915,
+      "contentType": "image/svg+xml",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-switzerland-esa370220": {
+      "state": "ok",
+      "http": 206,
+      "size": 557408592,
+      "contentType": "image/tiff",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-sylvania-toledo-lynx-s-led-lamp-full-alpha-pnr-1232b": {
+      "state": "ok",
+      "http": 206,
+      "size": 4125794,
+      "contentType": "image/webp",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-the-geologic-map-of-the-moon-at-1-2-5m-scale": {
+      "state": "ok",
+      "http": 206,
+      "size": 107280103,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-tolbachik-volcano-1975-cone-pano-kamchatka-on-2015-07-28": {
+      "state": "ok",
+      "http": 206,
+      "size": 136366064,
+      "contentType": "image/png",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "wm-vignes-pr-s-du-pic-de-vissou-october-2020": {
+      "state": "ok",
+      "http": 206,
+      "size": 42796377,
+      "contentType": "image/jpeg",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    }
+  }
+}

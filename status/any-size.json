@@ -1,0 +1,248 @@
+{
+  "checkedAt": "2026-11-11T10:36:06.337Z",
+  "entries": {
+    "any-hetzner-ash-100mb": {
+      "state": "ok",
+      "http": 206,
+      "size": 104857600,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-ash-10gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 10737418240,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-ash-1gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 1073741824,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-fsn1-100mb": {
+      "state": "ok",
+      "http": 206,
+      "size": 104857600,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-fsn1-10gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 10737418240,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-fsn1-1gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 1073741824,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-hel1-100mb": {
+      "state": "ok",
+      "http": 206,
+      "size": 104857600,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-hel1-10gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 10737418240,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-hel1-1gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 1073741824,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-nbg1-100mb": {
+      "state": "ok",
+      "http": 206,
+      "size": 104857600,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-nbg1-10gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 10737418240,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-hetzner-nbg1-1gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 1073741824,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-ovh-100mb": {
+      "state": "ok",
+      "http": 206,
+      "size": 104857600,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-ovh-10gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 10737418240,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-ovh-10mb": {
+      "state": "ok",
+      "http": 206,
+      "size": 10485760,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-ovh-1gb": {
+      "state": "ok",
+      "http": 206,
+      "size": 1073741824,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-ovh-1mb": {
+      "state": "ok",
+      "http": 206,
+      "size": 1048576,
+      "contentType": "application/octet-stream",
+      "cors": false,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "any-tele2-100gb": {
+      "state": "failing",
+      "http": 0,
+      "size": 107374182400,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-100kb": {
+      "state": "failing",
+      "http": 0,
+      "size": 102400,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-100mb": {
+      "state": "failing",
+      "http": 0,
+      "size": 104857600,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-10gb": {
+      "state": "failing",
+      "http": 0,
+      "size": 10737418240,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-10mb": {
+      "state": "failing",
+      "http": 0,
+      "size": 10485760,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-1gb": {
+      "state": "failing",
+      "http": 0,
+      "size": 1073741824,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-1kb": {
+      "state": "failing",
+      "http": 0,
+      "size": 1024,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-1mb": {
+      "state": "failing",
+      "http": 0,
+      "size": 1048576,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    "any-tele2-50gb": {
+      "state": "failing",
+      "http": 0,
+      "size": 53687091200,
+      "contentType": null,
+      "cors": false,
+      "lastOk": "2026-09-28",
+      "failCount": 1,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    }
+  }
+}

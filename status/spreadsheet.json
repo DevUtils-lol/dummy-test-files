@@ -1,0 +1,113 @@
+{
+  "checkedAt": "2026-11-11T10:36:06.337Z",
+  "entries": {
+    "fs-ods-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ods-sample2": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-ods-sample3": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.oasis.opendocument.spreadsheet",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xls-sample1": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.ms-excel",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xls-sample2": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.ms-excel",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xls-sample3": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.ms-excel",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xlsx-sample2": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "fs-xlsx-sample3": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "sheet-filesamples-xlsx": {
+      "state": "ok",
+      "http": 200,
+      "size": null,
+      "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "sheet-poi-large-xls": {
+      "state": "ok",
+      "http": 206,
+      "size": 4746305,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "sheet-poi-large-xlsx": {
+      "state": "ok",
+      "http": 206,
+      "size": 2859963,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    },
+    "sheet-poi-samplexlsx": {
+      "state": "ok",
+      "http": 206,
+      "size": 9112,
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
+    }
+  }
+}
