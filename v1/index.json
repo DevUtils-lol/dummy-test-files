@@ -1,0 +1,454 @@
+{
+ "format": 1,
+ "build": "2b60b4c7d5",
+ "checkedAt": "2026-09-28T17:21:11.136Z",
+ "total": 1059,
+ "sources": {
+  "3d-test-models": {
+   "name": "alecjacobson/common-3d-test-models",
+   "homepage": "https://github.com/alecjacobson/common-3d-test-models",
+   "license": "Various (Stanford, etc.)"
+  },
+  "airports": {
+   "name": "mwgg/Airports",
+   "homepage": "https://github.com/mwgg/Airports",
+   "license": "MIT"
+  },
+  "akamai": {
+   "name": "Akamai DASH samples",
+   "homepage": "https://dash.akamaized.net",
+   "license": "Free test streams"
+  },
+  "apache-poi": {
+   "name": "Apache POI test data",
+   "homepage": "https://github.com/apache/poi",
+   "license": "Apache-2.0"
+  },
+  "apple": {
+   "name": "Apple HLS examples",
+   "homepage": "https://developer.apple.com/streaming/examples/",
+   "license": "Apple sample content"
+  },
+  "arxiv": {
+   "name": "arXiv",
+   "homepage": "https://arxiv.org",
+   "license": "Per-paper license"
+  },
+  "blender": {
+   "name": "Blender Foundation",
+   "homepage": "https://download.blender.org",
+   "license": "CC-BY (Blender open movies)"
+  },
+  "chinook": {
+   "name": "Chinook database",
+   "homepage": "https://github.com/lerocha/chinook-database",
+   "license": "MIT"
+  },
+  "cldr": {
+   "name": "Unicode CLDR",
+   "homepage": "https://cldr.unicode.org",
+   "license": "Unicode License"
+  },
+  "datasets": {
+   "name": "datasets on GitHub",
+   "homepage": "https://github.com/datasets",
+   "license": "ODC-PDDL"
+  },
+  "dblp": {
+   "name": "dblp computer science bibliography",
+   "homepage": "https://dblp.org",
+   "license": "CC0"
+  },
+  "dr5hn": {
+   "name": "countries-states-cities-database",
+   "homepage": "https://github.com/dr5hn/countries-states-cities-database",
+   "license": "ODbL"
+  },
+  "dummyimage": {
+   "name": "DummyImage",
+   "homepage": "https://dummyimage.com",
+   "license": "Free placeholder images"
+  },
+  "eicar": {
+   "name": "EICAR",
+   "homepage": "https://www.eicar.org",
+   "license": "Industry-standard anti-malware test file"
+  },
+  "exif-orientation": {
+   "name": "recurser/exif-orientation-examples",
+   "homepage": "https://github.com/recurser/exif-orientation-examples",
+   "license": "MIT"
+  },
+  "filesamples": {
+   "name": "FileSamples",
+   "homepage": "https://filesamples.com",
+   "license": "Free sample files"
+  },
+  "fontsource": {
+   "name": "Fontsource",
+   "homepage": "https://fontsource.org",
+   "license": "SIL Open Font License"
+  },
+  "geofabrik": {
+   "name": "Geofabrik (OpenStreetMap extracts)",
+   "homepage": "https://download.geofabrik.de",
+   "license": "ODbL (© OpenStreetMap contributors)"
+  },
+  "gharchive": {
+   "name": "GH Archive",
+   "homepage": "https://www.gharchive.org",
+   "license": "Public GitHub event data"
+  },
+  "github-openapi": {
+   "name": "GitHub REST API description",
+   "homepage": "https://github.com/github/rest-api-description",
+   "license": "MIT"
+  },
+  "google-fonts": {
+   "name": "Google Fonts",
+   "homepage": "https://github.com/google/fonts",
+   "license": "SIL Open Font License"
+  },
+  "govinfo": {
+   "name": "U.S. Government Publishing Office",
+   "homepage": "https://www.govinfo.gov",
+   "license": "Public domain (U.S. government)"
+  },
+  "gutenberg": {
+   "name": "Project Gutenberg",
+   "homepage": "https://www.gutenberg.org",
+   "license": "Public domain in the USA"
+  },
+  "hetzner": {
+   "name": "Hetzner Speed Test",
+   "homepage": "https://www.hetzner.com",
+   "license": "Free to use for testing"
+  },
+  "imdb": {
+   "name": "IMDb non-commercial datasets",
+   "homepage": "https://developer.imdb.com/non-commercial-datasets/",
+   "license": "Personal & non-commercial use"
+  },
+  "json-iterator": {
+   "name": "json-iterator/test-data",
+   "homepage": "https://github.com/json-iterator/test-data",
+   "license": "MIT"
+  },
+  "json-test-suite": {
+   "name": "JSONTestSuite",
+   "homepage": "https://github.com/nst/JSONTestSuite",
+   "license": "MIT"
+  },
+  "jsonplaceholder": {
+   "name": "JSONPlaceholder",
+   "homepage": "https://jsonplaceholder.typicode.com",
+   "license": "Free fake API"
+  },
+  "khronos": {
+   "name": "Khronos glTF Sample Assets",
+   "homepage": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+   "license": "CC-BY / CC0 (per model)"
+  },
+  "kodak": {
+   "name": "Kodak Lossless True Color Image Suite",
+   "homepage": "https://r0k.us/graphics/kodak/",
+   "license": "Released by Kodak for unrestricted use"
+  },
+  "mdn": {
+   "name": "MDN Web Docs",
+   "homepage": "https://developer.mozilla.org",
+   "license": "CC0"
+  },
+  "mux": {
+   "name": "Mux Test Streams",
+   "homepage": "https://test-streams.mux.dev",
+   "license": "Free test streams"
+  },
+  "nasa": {
+   "name": "NASA Visible Earth",
+   "homepage": "https://visibleearth.nasa.gov",
+   "license": "Public domain (NASA)"
+  },
+  "natural-earth": {
+   "name": "Natural Earth",
+   "homepage": "https://www.naturalearthdata.com",
+   "license": "Public domain"
+  },
+  "nodejs": {
+   "name": "Node.js releases",
+   "homepage": "https://nodejs.org/dist/",
+   "license": "MIT"
+  },
+  "northwind": {
+   "name": "Northwind SQLite",
+   "homepage": "https://github.com/jpwhite3/northwind-SQLite3",
+   "license": "MIT"
+  },
+  "noto": {
+   "name": "Noto fonts (Google)",
+   "homepage": "https://github.com/notofonts",
+   "license": "SIL Open Font License"
+  },
+  "nyc-tlc": {
+   "name": "NYC Taxi & Limousine Commission",
+   "homepage": "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page",
+   "license": "NYC Open Data"
+  },
+  "openapi-spec": {
+   "name": "OpenAPI Specification",
+   "homepage": "https://github.com/OAI/OpenAPI-Specification",
+   "license": "Apache-2.0"
+  },
+  "ovh": {
+   "name": "OVHcloud Proof",
+   "homepage": "https://proof.ovh.net",
+   "license": "Free to use for testing"
+  },
+  "parquet-testing": {
+   "name": "Apache parquet-testing",
+   "homepage": "https://github.com/apache/parquet-testing",
+   "license": "Apache-2.0"
+  },
+  "pdfjs": {
+   "name": "Mozilla pdf.js test suite",
+   "homepage": "https://github.com/mozilla/pdf.js",
+   "license": "Apache-2.0 (test corpus)"
+  },
+  "picsum": {
+   "name": "Lorem Picsum",
+   "homepage": "https://picsum.photos",
+   "license": "Unsplash License"
+  },
+  "placehold": {
+   "name": "Placehold.co",
+   "homepage": "https://placehold.co",
+   "license": "Free placeholder images"
+  },
+  "plotly": {
+   "name": "plotly/datasets",
+   "homepage": "https://github.com/plotly/datasets",
+   "license": "Various open data (see repo)"
+  },
+  "progit": {
+   "name": "Pro Git (Scott Chacon & Ben Straub)",
+   "homepage": "https://git-scm.com/book",
+   "license": "CC BY-NC-SA 3.0"
+  },
+  "py-pdf": {
+   "name": "py-pdf/sample-files",
+   "homepage": "https://github.com/py-pdf/sample-files",
+   "license": "Mixed permissive (see repo)"
+  },
+  "python": {
+   "name": "Python releases",
+   "homepage": "https://www.python.org/downloads/",
+   "license": "PSF License"
+  },
+  "samplelib": {
+   "name": "Samplelib",
+   "homepage": "https://samplelib.com",
+   "license": "Free sample files"
+  },
+  "sf-citylots": {
+   "name": "zemirco/sf-city-lots-json",
+   "homepage": "https://github.com/zemirco/sf-city-lots-json",
+   "license": "Public data (City of San Francisco)"
+  },
+  "simdjson": {
+   "name": "simdjson benchmark data",
+   "homepage": "https://github.com/simdjson/simdjson-data",
+   "license": "Various open data (see repo)"
+  },
+  "small": {
+   "name": "mathiasbynens/small",
+   "homepage": "https://github.com/mathiasbynens/small",
+   "license": "Public domain"
+  },
+  "soundhelix": {
+   "name": "SoundHelix",
+   "homepage": "https://www.soundhelix.com",
+   "license": "Free for any use"
+  },
+  "stripe-openapi": {
+   "name": "Stripe OpenAPI",
+   "homepage": "https://github.com/stripe/openapi",
+   "license": "MIT"
+  },
+  "tele2": {
+   "name": "Tele2 Speedtest",
+   "homepage": "http://speedtest.tele2.net",
+   "license": "Free to use for testing"
+  },
+  "test-videos": {
+   "name": "Test Videos (test-videos.co.uk)",
+   "homepage": "https://test-videos.co.uk",
+   "license": "CC-BY 3.0 — Big Buck Bunny © Blender Foundation"
+  },
+  "w3c": {
+   "name": "W3C",
+   "homepage": "https://www.w3.org",
+   "license": "W3C test material"
+  },
+  "wikimedia": {
+   "name": "Wikimedia Commons",
+   "homepage": "https://commons.wikimedia.org",
+   "license": "Public domain / CC (see file page)"
+  }
+ },
+ "categories": [
+  {
+   "id": "any-size",
+   "count": 26,
+   "shards": [
+    {
+     "path": "shards/any-size-0.6e6ec21c55.json",
+     "count": 26,
+     "bytes": 6899
+    }
+   ]
+  },
+  {
+   "id": "video",
+   "count": 269,
+   "shards": [
+    {
+     "path": "shards/video-0.73da02196b.json",
+     "count": 269,
+     "bytes": 98770
+    }
+   ]
+  },
+  {
+   "id": "streaming",
+   "count": 3,
+   "shards": [
+    {
+     "path": "shards/streaming-0.454ea020db.json",
+     "count": 3,
+     "bytes": 1041
+    }
+   ]
+  },
+  {
+   "id": "audio",
+   "count": 149,
+   "shards": [
+    {
+     "path": "shards/audio-0.24cca76711.json",
+     "count": 149,
+     "bytes": 44055
+    }
+   ]
+  },
+  {
+   "id": "image",
+   "count": 204,
+   "shards": [
+    {
+     "path": "shards/image-0.0a7a563aca.json",
+     "count": 204,
+     "bytes": 64774
+    }
+   ]
+  },
+  {
+   "id": "document",
+   "count": 77,
+   "shards": [
+    {
+     "path": "shards/document-0.ebc34a8dec.json",
+     "count": 77,
+     "bytes": 24960
+    }
+   ]
+  },
+  {
+   "id": "spreadsheet",
+   "count": 12,
+   "shards": [
+    {
+     "path": "shards/spreadsheet-0.10620fb329.json",
+     "count": 12,
+     "bytes": 3256
+    }
+   ]
+  },
+  {
+   "id": "data",
+   "count": 72,
+   "shards": [
+    {
+     "path": "shards/data-0.d94454d4dc.json",
+     "count": 72,
+     "bytes": 22371
+    }
+   ]
+  },
+  {
+   "id": "archive",
+   "count": 25,
+   "shards": [
+    {
+     "path": "shards/archive-0.7104ff40ed.json",
+     "count": 25,
+     "bytes": 7470
+    }
+   ]
+  },
+  {
+   "id": "code",
+   "count": 99,
+   "shards": [
+    {
+     "path": "shards/code-0.df006df828.json",
+     "count": 99,
+     "bytes": 24450
+    }
+   ]
+  },
+  {
+   "id": "ebook",
+   "count": 40,
+   "shards": [
+    {
+     "path": "shards/ebook-0.044b9ed1d2.json",
+     "count": 40,
+     "bytes": 11022
+    }
+   ]
+  },
+  {
+   "id": "3d",
+   "count": 20,
+   "shards": [
+    {
+     "path": "shards/3d-0.c4eb966890.json",
+     "count": 20,
+     "bytes": 6367
+    }
+   ]
+  },
+  {
+   "id": "font",
+   "count": 61,
+   "shards": [
+    {
+     "path": "shards/font-0.c606079489.json",
+     "count": 61,
+     "bytes": 16245
+    }
+   ]
+  },
+  {
+   "id": "security",
+   "count": 2,
+   "shards": [
+    {
+     "path": "shards/security-0.072bc043a1.json",
+     "count": 2,
+     "bytes": 778
+    }
+   ]
+  }
+ ]
+}
