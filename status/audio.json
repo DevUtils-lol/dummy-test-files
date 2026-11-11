@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T10:36:06.337Z",
+  "checkedAt": "2026-11-11T12:33:39.345Z",
   "entries": {
     "audio-blender-sintel-flac": {
       "state": "ok",
@@ -38,13 +38,14 @@
       "failCount": 0
     },
     "audio-filesamples-flac-large": {
-      "state": "ok",
-      "http": 200,
+      "state": "failing",
+      "http": 403,
       "size": null,
-      "contentType": "application/octet-stream",
-      "cors": true,
+      "contentType": "text/html; charset=UTF-8",
+      "cors": false,
       "lastOk": "2026-11-11",
-      "failCount": 0
+      "failCount": 1,
+      "error": "HTTP 403"
     },
     "audio-filesamples-wav-large": {
       "state": "ok",
@@ -542,14 +543,13 @@
       "failCount": 0
     },
     "fs-fssd-symphony-no-6-1st-movement": {
-      "state": "failing",
-      "http": 0,
+      "state": "ok",
+      "http": 200,
       "size": null,
-      "contentType": null,
-      "cors": false,
-      "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "Timed out after 40000 ms"
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
     },
     "fs-gsrt-symphony-no-6-1st-movement": {
       "state": "ok",
@@ -561,14 +561,13 @@
       "failCount": 0
     },
     "fs-hcom-symphony-no-6-1st-movement": {
-      "state": "failing",
-      "http": 0,
+      "state": "ok",
+      "http": 200,
       "size": null,
-      "contentType": null,
-      "cors": false,
-      "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "Timed out after 40000 ms"
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-11",
+      "failCount": 0
     },
     "fs-htk-symphony-no-6-1st-movement": {
       "state": "ok",

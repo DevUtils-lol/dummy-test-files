@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T10:36:06.337Z",
+  "checkedAt": "2026-11-11T12:33:39.345Z",
   "entries": {
     "any-hetzner-ash-100mb": {
       "state": "ok",
@@ -161,8 +161,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-100kb": {
       "state": "failing",
@@ -171,8 +171,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-100mb": {
       "state": "failing",
@@ -181,8 +181,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-10gb": {
       "state": "failing",
@@ -191,8 +191,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-10mb": {
       "state": "failing",
@@ -201,8 +201,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-1gb": {
       "state": "failing",
@@ -211,8 +211,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-1kb": {
       "state": "failing",
@@ -221,8 +221,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-1mb": {
       "state": "failing",
@@ -231,8 +231,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "any-tele2-50gb": {
       "state": "failing",
@@ -241,8 +241,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     }
   }
 }

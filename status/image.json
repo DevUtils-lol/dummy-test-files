@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T10:36:06.337Z",
+  "checkedAt": "2026-11-11T12:33:39.345Z",
   "entries": {
     "fs-bmp-sample-1280-853": {
       "state": "ok",
@@ -1169,8 +1169,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "image-nasa-blue-marble-png": {
       "state": "failing",
@@ -1179,8 +1179,8 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "image-nasa-land-topo-tif": {
       "state": "failing",
@@ -1189,13 +1189,13 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 1,
-      "error": "UND_ERR_CONNECT_TIMEOUT"
+      "failCount": 2,
+      "error": "ETIMEDOUT"
     },
     "image-picsum-1920": {
       "state": "ok",
       "http": 206,
-      "size": 265191,
+      "size": 101735,
       "contentType": "image/jpeg",
       "cors": true,
       "lastOk": "2026-11-11",
