@@ -9,6 +9,7 @@
  *   npm run check -- --changed origin/main     # only entries changed vs a git ref (PRs)
  *   npm run check -- --strict                  # exit 1 if any checked link is not ok
  *   npm run check -- --dry                     # print results, write nothing
+ *   npm run check -- --verbose                 # list every link (always on in GitHub Actions)
  *
  * Options: --concurrency N (default 12; at most 2 per host), --timeout MS (default 20000),
  *          --dead-after N (default 3 consecutive failures before a link is hidden)
@@ -76,30 +77,64 @@ for (const cat of new Set(all.map((f) => f.category))) {
     }
 }
 
-console.log(`Checking ${all.length} links (concurrency ${opts.concurrency})…`);
+// ---- probe ------------------------------------------------------------------------------
+const gha = !!process.env.GITHUB_ACTIONS;
+const tty = !!process.stdout.isTTY;
+const hostOf = (f) => new URL(f.url).host;
+const hosts = new Set(all.map(hostOf));
+const fmtTime = (ms) => {
+    const s = Math.round(ms / 1000);
+    return s < 60 ? `${s}s` : `${Math.floor(s / 60)}m${String(s % 60).padStart(2, "0")}s`;
+};
+const fmtSize = (n) => (n == null ? "?" : n >= 1 << 30 ? `${(n / 2 ** 30).toFixed(1)} GB` : n >= 1 << 20 ? `${(n / 2 ** 20).toFixed(1)} MB` : n >= 1024 ? `${(n / 1024).toFixed(1)} KB` : `${n} B`);
+
+console.log(`Checking ${all.length} links on ${hosts.size} hosts (concurrency ${opts.concurrency}, at most 2 per host, timeout ${opts.timeout / 1000}s)…`);
+const started = Date.now();
+const live = { ok: 0, bad: 0 };
 let done = 0;
+let lastReport = started;
+const progress = () => {
+    const elapsed = Date.now() - started;
+    const left = done ? (elapsed / done) * (all.length - done) : 0;
+    const pct = String(Math.floor((done / all.length) * 100)).padStart(3);
+    return `[${String(done).padStart(String(all.length).length)}/${all.length}] ${pct}% · ok ${live.ok} · problems ${live.bad} · ${fmtTime(elapsed)} elapsed${done < all.length ? ` · ~${fmtTime(left)} left` : ""}`;
+};
 const results = await politePool(
     all,
     opts.concurrency,
     async (f) => {
+        const t0 = Date.now();
         const r = await probe(f, { method: data.sources[f.source]?.check ?? "range", timeout: opts.timeout });
+        const ms = Date.now() - t0;
         done++;
-        if (process.stdout.isTTY) process.stdout.write(`\r${done}/${all.length}`);
-        return { f, r };
+        live[r.ok ? "ok" : "bad"]++;
+        if (tty) process.stdout.write(`\r${progress()}   `);
+        // In CI logs: a progress line every 10 s or every 100 links, plus every problem as it happens.
+        else if (Date.now() - lastReport >= 10_000 || done % 100 === 0 || done === all.length) {
+            lastReport = Date.now();
+            console.log(progress());
+        }
+        if (!r.ok && !tty) console.log(`  ! ${f.id}: ${r.error}`);
+        return { f, r, ms };
     },
-    (f) => new URL(f.url).host,
+    hostOf,
 );
-if (process.stdout.isTTY) process.stdout.write("\n");
+if (tty) process.stdout.write("\n");
+const duration = Date.now() - started;
 
+// ---- results ------------------------------------------------------------------------------
 const today = new Date().toISOString().slice(0, 10);
 const now = new Date().toISOString();
 const counts = { ok: 0, failing: 0, dead: 0, rateLimited: 0 };
 const problems = [];
 /** @type {Record<string, Record<string, any>>} */
 const next = {};
-for (const { f, r } of results) {
+/** Per-category rows for the detailed log. */
+const rows = {};
+for (const { f, r, ms } of results) {
     const prev = previous[f.category]?.[f.id];
     const bucket = (next[f.category] ??= partial ? { ...previous[f.category] } : {});
+    (rows[f.category] ??= []).push({ f, r, ms });
     if (r.rateLimited) {
         counts.rateLimited++;
         if (prev) bucket[f.id] = prev;
@@ -119,23 +154,56 @@ for (const { f, r } of results) {
         failCount,
         ...(r.error ? { error: r.error } : {}),
     };
-    if (!r.ok) {
-        problems.push({ f, state, error: r.error });
-        console.log(`  ${state === "dead" ? "✗ DEAD" : "! fail"}  ${f.id}  ${r.error}  (${f._path})`);
+    if (!r.ok) problems.push({ f, state, error: r.error, failCount });
+}
+
+// Every link, grouped by category. Collapsed groups in GitHub Actions; locally only with --verbose.
+const verbose = gha || process.argv.includes("--verbose");
+if (verbose) {
+    console.log("");
+    for (const [cat, list] of Object.entries(rows)) {
+        const bad = list.filter((x) => !x.r.ok).length;
+        const title = `${cat} — ${list.length} links · ${list.length - bad} ok${bad ? ` · ${bad} problem(s)` : ""}`;
+        console.log(gha ? `::group::${title}` : `\n${title}`);
+        for (const { f, r, ms } of list.sort((a, b) => a.f.id.localeCompare(b.f.id))) {
+            const mark = r.ok ? "✓" : r.rateLimited ? "⏳" : "✗";
+            const detail = r.ok ? `${r.http} · ${fmtSize(r.size)} · ${r.cors ? "CORS" : "no CORS"}${r.signature ? " · signature ok" : ""}` : r.error;
+            console.log(`  ${mark} ${f.id.padEnd(48)} ${String(ms).padStart(6)} ms  ${detail}`);
+        }
+        if (gha) console.log("::endgroup::");
     }
 }
 
-console.log(`\nok ${counts.ok} · failing ${counts.failing} · dead ${counts.dead} · rate-limited (unchanged) ${counts.rateLimited}`);
+// Hosts with problems, and the slowest hosts — useful when a whole server is down.
+const byHost = new Map();
+for (const { f, r, ms } of results) {
+    const h = byHost.get(hostOf(f)) ?? { links: 0, bad: 0, ms: 0 };
+    h.links++;
+    h.ms += ms;
+    if (!r.ok) h.bad++;
+    byHost.set(hostOf(f), h);
+}
+const badHosts = [...byHost].filter(([, h]) => h.bad).sort((a, b) => b[1].bad - a[1].bad);
+if (badHosts.length) {
+    console.log(`\nHosts with problems:`);
+    for (const [host, h] of badHosts) console.log(`  ${host.padEnd(40)} ${h.bad}/${h.links} failed`);
+}
+if (problems.length) {
+    console.log(`\nProblems (${problems.length}):`);
+    for (const p of problems) console.log(`  ${p.state === "dead" ? "✗ DEAD   " : p.state === "rate-limited" ? "⏳ limited" : `! fail ${p.failCount}/${opts.deadAfter}`}  ${p.f.id}  ${p.error}  (${p.f._path})`);
+}
+
+console.log(`\nChecked ${all.length} links on ${hosts.size} hosts in ${fmtTime(duration)}: ok ${counts.ok} · failing ${counts.failing} · dead ${counts.dead} · rate-limited (unchanged) ${counts.rateLimited}`);
 
 if (process.env.GITHUB_STEP_SUMMARY) {
-    const lines = [`### Link check`, ``, `✅ ok **${counts.ok}** · ⚠️ failing **${counts.failing}** · ❌ dead **${counts.dead}** · ⏳ rate-limited **${counts.rateLimited}**`, ``];
+    const lines = [`### Link check`, ``, `**${all.length}** links on **${hosts.size}** hosts checked in **${fmtTime(duration)}**`, ``, `✅ ok **${counts.ok}** · ⚠️ failing **${counts.failing}** · ❌ dead **${counts.dead}** · ⏳ rate-limited **${counts.rateLimited}**`, ``];
     if (problems.length) {
         lines.push(`| Entry | State | Problem | File |`, `|---|---|---|---|`);
         for (const p of problems.slice(0, 200)) lines.push(`| \`${p.f.id}\` | ${p.state} | ${String(p.error).replace(/\|/g, "\\|")} | \`${p.f._path}\` |`);
     }
     await appendFile(process.env.GITHUB_STEP_SUMMARY, lines.join("\n") + "\n");
 }
-if (process.env.GITHUB_ACTIONS) for (const p of problems) if (p.state !== "rate-limited") console.log(`::${opts.strict ? "error" : "warning"} file=${p.f._path}::${p.f.id}: ${p.error}`);
+if (gha) for (const p of problems) if (p.state !== "rate-limited") console.log(`::${opts.strict ? "error" : "warning"} file=${p.f._path}::${p.f.id}: ${p.error}`);
 
 if (!opts.dry) {
     await mkdir(STATUS_DIR, { recursive: true });
