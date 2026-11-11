@@ -59,12 +59,6 @@
                 "path": "webm/vp9",
                 "ext": "webm",
                 "label": "VP9"
-            },
-            {
-                "key": "mkv",
-                "path": "mkv",
-                "ext": "mkv",
-                "label": "H.264 (MKV)"
             }
         ],
         "res": [

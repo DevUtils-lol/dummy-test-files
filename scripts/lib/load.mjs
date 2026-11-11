@@ -5,7 +5,11 @@
  *   data/sources/<source-id>.json
  *   data/files/<category>/<file-id>.json
  *   data/patterns/<category>/<pattern-id>.json
- *   status/<category>.json            (written only by the link checker)
+ *
+ * Link health (status/<category>.json) is written only by the link checker. In CI it lives
+ * on its own `link-status` branch, checked out into a folder passed as TEST_FILES_STATUS_DIR,
+ * so `main` stays fully protected and contributors never touch it. Locally it defaults to
+ * ./status (git-ignored).
  */
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
@@ -13,7 +17,7 @@ import { fileURLToPath } from "node:url";
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 export const DATA = path.join(ROOT, "data");
-export const STATUS_DIR = path.join(ROOT, "status");
+export const STATUS_DIR = process.env.TEST_FILES_STATUS_DIR ? path.resolve(process.env.TEST_FILES_STATUS_DIR) : path.join(ROOT, "status");
 
 /** Repo-relative POSIX path, for messages and git comparisons. */
 export const rel = (abs) => path.relative(ROOT, abs).split(path.sep).join("/");

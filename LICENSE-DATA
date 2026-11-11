@@ -1,5 +1,5 @@
-The catalog data in this repository (everything under data/ and status/, and the
-files published to the `dist` branch) is dedicated to the public domain under
+The catalog data in this repository (everything under data/, the link health on the
+`link-status` branch, and the files published to the `dist` branch) is dedicated to the public domain under
 Creative Commons CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
 
 This covers the catalog entries (names, URLs, sizes, metadata), not the linked files.

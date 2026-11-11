@@ -12,7 +12,7 @@ const FORMAT_RE = new RegExp(LIMITS.formatPattern);
 const PLACEHOLDER_ID_RE = /^[a-z0-9{}.\-_]+$/;
 
 const SOURCE_KEYS = new Set(["$schema", "_path", "id", "name", "homepage", "license", "check", "allowHttp", "notes"]);
-const COMMON_KEYS = ["$schema", "_path", "id", "name", "category", "format", "url", "size", "approxSize", "meta", "source", "tags", "description", "preview"];
+const COMMON_KEYS = ["$schema", "_path", "id", "name", "category", "format", "url", "size", "approxSize", "meta", "source", "tags", "description", "preview", "signature"];
 const FILE_KEYS = new Set(COMMON_KEYS);
 const PATTERN_KEYS = new Set([...COMMON_KEYS, "idTemplate", "vars", "exclude"]);
 
@@ -79,6 +79,7 @@ export function validate(data) {
         if (e.description !== undefined && !isStr(e.description, LIMITS.descriptionMax)) err(p, `"description" must be ≤ ${LIMITS.descriptionMax} chars`);
         if (e.preview !== undefined && !PREVIEW_KINDS.includes(e.preview)) err(p, `"preview" must be one of: ${PREVIEW_KINDS.join(", ")}`);
         if (e.approxSize !== undefined && typeof e.approxSize !== "boolean") err(p, `"approxSize" must be true or false`);
+        if (e.signature !== undefined && e.signature !== false) err(p, `"signature" can only be false (skip the magic-byte check for intentionally unusual files)`);
         if (e.tags !== undefined) {
             if (!Array.isArray(e.tags) || e.tags.length > LIMITS.tagsMax) err(p, `"tags" must be a list of at most ${LIMITS.tagsMax}`);
             else if (kind === "file") {

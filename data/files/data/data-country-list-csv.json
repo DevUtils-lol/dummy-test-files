@@ -5,9 +5,10 @@
     "category": "data",
     "format": "csv",
     "url": "https://raw.githubusercontent.com/datasets/country-list/main/data.csv",
-    "size": 4048,
+    "size": 3835,
     "source": "datasets",
     "tags": [
         "tiny"
-    ]
+    ],
+    "approxSize": true
 }

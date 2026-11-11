@@ -1,7 +1,7 @@
 name: Publish
 
 # Builds the catalog and publishes it to the `dist` branch, which apps read through
-# jsDelivr:  https://cdn.jsdelivr.net/gh/DevUtils-lol/test-files@dist/v1/index.json
+# jsDelivr:  https://cdn.jsdelivr.net/gh/DevUtils-lol/dummy-test-files@dist/v1/index.json
 #
 # Runs after every merge to main, and is called by the daily link check. Shards are
 # content-addressed and old ones are kept for 14 days, so clients holding a cached
@@ -10,7 +10,7 @@ name: Publish
 on:
   push:
     branches: [main]
-    paths: ["data/**", "status/**", "scripts/**"]
+    paths: ["data/**", "scripts/**"]
   workflow_call:
   workflow_dispatch:
 
@@ -37,6 +37,16 @@ jobs:
       - name: Validate
         run: node scripts/validate.mjs
 
+      - name: Fetch link health
+        run: |
+          if git ls-remote --exit-code --heads origin link-status >/dev/null; then
+            git fetch --depth=1 origin link-status
+            git worktree add .link-status origin/link-status
+          else
+            echo "::warning::No link-status branch yet — publishing with every entry marked unchecked."
+            mkdir -p .link-status/status
+          fi
+
       - name: Check out the dist branch
         run: |
           git config user.name "github-actions[bot]"
@@ -49,6 +59,8 @@ jobs:
           fi
 
       - name: Build
+        env:
+          TEST_FILES_STATUS_DIR: .link-status/status
         run: |
           node scripts/build.mjs --out out
           cp dist-README.md out/README.md

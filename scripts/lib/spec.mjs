@@ -114,7 +114,7 @@ export const SIGNATURES = {
     bz2: [[[0, "BZh"]]],
     xz: [[[0, "\xFD7zXZ\x00"]]],
     "7z": [[[0, "7z\xBC\xAF\x27\x1C"]]],
-    rar: [[[0, "Rar!\x1A\x07"]]],
+    rar: [[[0, "Rar!\x1A\x07"]], [[0, "RE~^"]]], // RAR 5/4, and RAR 1.4
     zst: [[[0, "\x28\xB5\x2F\xFD"]]],
     exe: [[[0, "MZ"]]],
     parquet: [[[0, "PAR1"]]],

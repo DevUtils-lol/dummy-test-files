@@ -1,3 +1,2 @@
 * text=auto eol=lf
-status/*.json linguist-generated=true
 schema/*.json linguist-generated=true

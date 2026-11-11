@@ -51,7 +51,8 @@ const r = await probe({ url, format, size: null }, { method: data.sources[source
 if (!r.ok) fail(`The link doesn't work: ${r.error}`);
 if (r.finalUrl && r.finalUrl !== url) console.warn(`! It redirects to ${r.finalUrl} — prefer the final URL if it is permanent.`);
 
-const name = flag("name") ?? last.replace(/\.[a-z0-9]+$/i, "").replace(/[-_]+/g, " ").trim().slice(0, LIMITS.nameMax) || id;
+const guessed = last.replace(/\.[a-z0-9]+$/i, "").replace(/[-_]+/g, " ").trim().slice(0, LIMITS.nameMax);
+const name = flag("name") ?? (guessed || id);
 const tags = flag("tags")?.split(",").map((t) => t.trim()).filter(Boolean);
 const entry = {
     $schema: "../../../schema/file.schema.json",

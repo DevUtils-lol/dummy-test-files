@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Link checker. Probes every link (patterns expanded) and writes health to
- * status/<category>.json. Runs daily in GitHub Actions; contributors' PRs run it on
+ * status/<category>.json (or $TEST_FILES_STATUS_DIR — the `link-status` branch in CI). Runs daily in GitHub Actions; contributors' PRs run it on
  * just the entries they touched.
  *
  *   npm run check                              # everything, writes status/

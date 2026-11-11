@@ -5,10 +5,11 @@
     "category": "data",
     "format": "json",
     "url": "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/json/countries+states+cities.json",
-    "size": 46625186,
+    "size": 54155577,
     "source": "dr5hn",
     "tags": [
         "nested",
         "large"
-    ]
+    ],
+    "approxSize": true
 }

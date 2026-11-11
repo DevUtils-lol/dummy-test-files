@@ -11,5 +11,6 @@
         "mesh",
         "classic-test-model",
         "large"
-    ]
+    ],
+    "signature": false
 }

@@ -14,7 +14,7 @@
     "build": "node scripts/build.mjs",
     "add": "node scripts/add.mjs",
     "schema": "node scripts/schema.mjs",
-    "test": "node --test test/",
-    "ci": "node scripts/schema.mjs --check && node scripts/validate.mjs && node --test test/ && node scripts/build.mjs --out .ci-dist"
+    "test": "node --test",
+    "ci": "node scripts/schema.mjs --check && node scripts/validate.mjs && node --test && node scripts/build.mjs --out .ci-dist"
   }
 }

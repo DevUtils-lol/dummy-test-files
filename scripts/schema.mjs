@@ -11,7 +11,7 @@ import path from "node:path";
 import { ROOT } from "./lib/load.mjs";
 import { CATEGORIES, LIMITS, META_FIELDS, PREVIEW_KINDS } from "./lib/spec.mjs";
 
-const BASE = "https://raw.githubusercontent.com/DevUtils-lol/test-files/main/schema";
+const BASE = "https://raw.githubusercontent.com/DevUtils-lol/dummy-test-files/main/schema";
 
 const meta = (patternValues) => ({
     type: "object",
@@ -31,7 +31,8 @@ const common = {
     source: { type: "string", pattern: LIMITS.idPattern, description: "Id of a file in data/sources/." },
     description: { type: "string", maxLength: LIMITS.descriptionMax },
     preview: { enum: PREVIEW_KINDS, description: "Override how apps preview it (derived from the format when omitted)." },
-    approxSize: { type: "boolean", description: "The size is nominal (e.g. a \"10 MB\" file that is 10.4 MB)." },
+    approxSize: { type: "boolean", description: "The size is nominal or changes upstream (e.g. a living dataset); skips the size-drift check." },
+    signature: { const: false, description: "Skip the magic-byte check — only for files that are intentionally unusual (malformed samples, legacy variants, data before the header)." },
 };
 
 const fileSchema = {

@@ -5,10 +5,11 @@
     "category": "code",
     "format": "yaml",
     "url": "https://raw.githubusercontent.com/github/rest-api-description/main/descriptions/api.github.com/api.github.com.yaml",
-    "size": 9894046,
+    "size": 11014371,
     "source": "github-openapi",
     "tags": [
         "openapi",
         "large"
-    ]
+    ],
+    "approxSize": true
 }

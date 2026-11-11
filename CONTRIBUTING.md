@@ -68,9 +68,9 @@ CI runs the same checks. When they pass, a maintainer reviews and merges, and yo
 
 For files that only differ by size or resolution, use a pattern in `data/patterns/<category>/<id>.json`. A pattern is the cartesian product of `vars`, and `{var.field}` placeholders are filled in for each combination. See `data/patterns/any-size/` for real examples. A pattern may expand to at most 500 files.
 
-## Don't edit `status/`
+## Link health
 
-It's written by the daily link check. If a link is wrong, fix the entry in `data/` instead.
+The daily check writes link health to the `link-status` branch. You never need to touch it. If a link is wrong, fix the entry in `data/`. Locally, `npm run check` writes to a git-ignored `status/` folder.
 
 ## Running things locally
 

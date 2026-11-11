@@ -1,5 +1,12 @@
-# Every PR needs a maintainer's approval (enable "Require review from Code Owners" in branch protection).
-*                  @DevUtils-lol/maintainers
-# Automation and rules: maintainers only, extra care.
-/.github/          @DevUtils-lol/maintainers
-/scripts/          @DevUtils-lol/maintainers
+# Who must approve PRs. With branch protection's "Require review from Code Owners" on,
+# every PR needs a yes from someone listed here before it can be merged.
+#
+# When more people help maintain the catalog, create a team (github.com/orgs/DevUtils-lol/teams
+# → New team → "maintainers", add members, give it Write access to this repo) and replace
+# @sunanda35 below with @DevUtils-lol/maintainers.
+
+*              @sunanda35
+
+# Automation and rules — changes here affect every contributor.
+/.github/      @sunanda35
+/scripts/      @sunanda35

@@ -8,7 +8,7 @@
  */
 import { HTML_FORMATS, LIMITS, SIGNATURE_BYTES, matchesSignature } from "./spec.mjs";
 
-export const USER_AGENT = "test-files link checker (+https://github.com/DevUtils-lol/test-files)";
+export const USER_AGENT = "test-files link checker (+https://github.com/DevUtils-lol/dummy-test-files)";
 const RATE_LIMITED = new Set([429, 503, 509]);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -39,7 +39,7 @@ async function firstBytes(res, n) {
 
 /**
  * One request. Never throws.
- * @param {{ url: string, format: string, size: number | null, approxSize?: boolean }} file
+ * @param {{ url: string, format: string, size: number | null, approxSize?: boolean, signature?: false }} file
  * @param {"GET" | "HEAD"} method
  * @param {number} timeout
  * @returns {Promise<ProbeResult>}
@@ -69,7 +69,7 @@ export async function request(file, method, timeout) {
         const size = range ? Number(range[1]) : res.status === 200 && length ? Number(length) : null;
         const cors = res.headers.has("access-control-allow-origin");
         const retryAfter = Number(res.headers.get("retry-after")) || undefined;
-        const signature = res.ok ? matchesSignature(file.format, bytes) : null;
+        const signature = res.ok && file.signature !== false ? matchesSignature(file.format, bytes) : null;
         const base = { http: res.status, size, contentType, cors, signature, retryAfter, finalUrl: res.url };
 
         if (!(res.status === 200 || res.status === 206)) return { ok: false, ...base, error: `HTTP ${res.status}` };

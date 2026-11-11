@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/DevUtils-lol/test-files/main/schema/file.schema.json",
+  "$id": "https://raw.githubusercontent.com/DevUtils-lol/dummy-test-files/main/schema/file.schema.json",
   "title": "Test file",
   "description": "One downloadable test file. Lives at data/files/<category>/<id>.json.",
   "type": "object",
@@ -71,7 +71,11 @@
     },
     "approxSize": {
       "type": "boolean",
-      "description": "The size is nominal (e.g. a \"10 MB\" file that is 10.4 MB)."
+      "description": "The size is nominal or changes upstream (e.g. a living dataset); skips the size-drift check."
+    },
+    "signature": {
+      "const": false,
+      "description": "Skip the magic-byte check — only for files that are intentionally unusual (malformed samples, legacy variants, data before the header)."
     },
     "format": {
       "type": "string",

@@ -15,7 +15,7 @@ Built files are published to the `dist` branch and served by jsDelivr:
 
 | URL | What it is |
 |---|---|
-| `https://cdn.jsdelivr.net/gh/DevUtils-lol/test-files@dist/v1/index.json` | A small index: build id, last check time, sources, and per-category counts with shard paths |
+| `https://cdn.jsdelivr.net/gh/DevUtils-lol/dummy-test-files@dist/v1/index.json` | A small index: build id, last check time, sources, and per-category counts with shard paths |
 | `…@dist/v1/shards/<category>-<n>.<hash>.json` | The entries for one category. The file name includes a hash of its contents, so it never changes and can be cached forever |
 | `…@dist/v1/all.json` | Everything in one file, for scripts and offline snapshots |
 
@@ -61,7 +61,7 @@ Then open a PR. CI checks the format and probes your links, and a maintainer rev
 data/sources/<id>.json               who hosts the files, under which license
 data/files/<category>/<id>.json      one file per entry
 data/patterns/<category>/<id>.json   one definition → many files (e.g. every size of a speed-test file)
-status/<category>.json               link health, written only by the daily check
+(branch link-status) status/*.json   link health, written only by the daily check
 schema/*.json                        JSON Schemas (generated from scripts/lib/spec.mjs)
 scripts/                             validate · check-links · build · add (plain Node, no dependencies)
 ```
@@ -70,17 +70,34 @@ scripts/                             validate · check-links · build · add (pl
 |---|---|---|
 | `validate.yml` | every PR | schema + rules + tests + build. Probes only the links the PR adds or changes. Read-only and fork-safe. |
 | `publish.yml` | merge to main | builds and pushes to the `dist` branch, then clears the CDN cache for `index.json` / `all.json` |
-| `check-links.yml` | daily 03:17 UTC | probes every link, commits `status/`, republishes |
+| `check-links.yml` | daily 03:17 UTC | probes every link, saves results to the `link-status` branch, republishes |
 
 The scripts need Node 20.10 or newer. There's no `npm install`: they have zero dependencies, which keeps the supply chain empty.
 
 ## Maintainer setup (one time)
 
-1. Create the `DevUtils-lol/maintainers` team (or change `.github/CODEOWNERS` to list your usernames).
-2. Protect `main`: require a PR, 1 approval from Code Owners, and the **Validate** checks. Let `github-actions[bot]` bypass the PR rule, or the daily check can't commit `status/`.
-3. Settings → Actions → General: "Read and write permissions" for `GITHUB_TOKEN`. Require approval to run workflows for first-time contributors.
-4. Run **Publish** once by hand (Actions → Publish → Run workflow) to create the `dist` branch.
+Three branches, three jobs:
+
+| Branch | Holds | Who writes |
+|---|---|---|
+| `main` | the catalog (`data/`), scripts, workflows | people, through reviewed PRs only |
+| `link-status` | link health from the daily check | only the Actions bot |
+| `dist` | the built catalog apps download | only the Actions bot |
+
+In repo **Settings**:
+
+1. **Actions → General**
+   - Workflow permissions: **Read and write permissions** (the bot pushes `link-status` and `dist`).
+   - "Approval for running fork pull request workflows": **Require approval for first-time contributors**.
+2. **Rules → Rulesets → New branch ruleset**, named "main", enforcement Active, target: default branch.
+   - ✅ Restrict deletions · ✅ Block force pushes
+   - ✅ Require a pull request before merging → 1 approval, ✅ Require review from Code Owners, ✅ Dismiss stale approvals when new commits are pushed
+   - ✅ Require status checks to pass → add **Schema, rules & tests** and **New & changed links work** (they appear after the first PR run)
+   - Bypass list: **Repository admin**, so you can still push hotfixes yourself. Leave it empty to hold yourself to the same rule.
+3. Add a second ruleset for `link-status` and `dist`: only ✅ Restrict deletions. Don't require PRs there, or the bot can't write.
+4. **Code owners:** `.github/CODEOWNERS` lists who must approve. To share the work, create a team (Organization → Teams → New team "maintainers", add people, give it **Write** on this repo) and replace `@sunanda35` there with `@DevUtils-lol/maintainers`.
+5. Run **Actions → Daily link check → Run workflow** once. It checks every link and republishes `dist` with fresh health.
 
 ## License
 
-Code: [MIT](LICENSE). Catalog data (`data/`, `status/` and the published files): [CC0 1.0](LICENSE-DATA). The linked files themselves belong to their publishers. Each source states its license.
+Code: [MIT](LICENSE). Catalog data (`data/`, the `link-status` branch and the published files): [CC0 1.0](LICENSE-DATA). The linked files themselves belong to their publishers. Each source states its license.

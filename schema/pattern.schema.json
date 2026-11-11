@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/DevUtils-lol/test-files/main/schema/pattern.schema.json",
+  "$id": "https://raw.githubusercontent.com/DevUtils-lol/dummy-test-files/main/schema/pattern.schema.json",
   "title": "Test file pattern",
   "description": "One definition that expands into many files (cartesian product of vars). String fields may use {var.field} placeholders. Lives at data/patterns/<category>/<id>.json.",
   "type": "object",
@@ -73,7 +73,11 @@
     },
     "approxSize": {
       "type": "boolean",
-      "description": "The size is nominal (e.g. a \"10 MB\" file that is 10.4 MB)."
+      "description": "The size is nominal or changes upstream (e.g. a living dataset); skips the size-drift check."
+    },
+    "signature": {
+      "const": false,
+      "description": "Skip the magic-byte check — only for files that are intentionally unusual (malformed samples, legacy variants, data before the header)."
     },
     "idTemplate": {
       "type": "string",

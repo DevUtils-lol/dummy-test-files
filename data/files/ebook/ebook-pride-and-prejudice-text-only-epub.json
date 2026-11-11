@@ -5,9 +5,10 @@
     "category": "ebook",
     "format": "epub",
     "url": "https://www.gutenberg.org/ebooks/1342.epub.noimages",
-    "size": 558381,
+    "size": 609138,
     "source": "gutenberg",
     "tags": [
         "book"
-    ]
+    ],
+    "approxSize": true
 }

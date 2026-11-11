@@ -1,4 +1,8 @@
 node_modules/
 dist/
 .ci-dist/
+# Link health lives on the `link-status` branch (see check-links.yml).
+status/
 .DS_Store
+.link-status/
+out/

@@ -8,4 +8,3 @@
 - [ ] The host allows this use (license is in the source file under `data/sources/`)
 - [ ] It's not already in the catalog (CI checks URLs, but please search for similar files too)
 - [ ] It contains no personal data and nothing harmful (security test files like EICAR only in `security/`, discussed first)
-- [ ] I didn't edit anything in `status/`

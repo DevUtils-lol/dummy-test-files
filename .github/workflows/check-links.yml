@@ -1,8 +1,12 @@
 name: Daily link check
 
-# Probes every link once a day, commits the results to status/ and republishes, so dead
-# links disappear from apps automatically (after 3 failed days in a row) and recovered
-# ones come back.
+# Probes every link once a day and saves the results on the `link-status` branch, then
+# republishes, so dead links disappear from apps automatically (after 3 failed days in a
+# row) and recovered ones come back.
+#
+# Why a separate branch: `main` is protected (every change needs a reviewed PR) and the
+# Actions bot can't bypass that without a personal token. `link-status` holds only
+# generated health data, is written only by this workflow, and needs no protection.
 on:
   schedule:
     - cron: "17 3 * * *"
@@ -29,22 +33,33 @@ jobs:
         with:
           node-version: 22
 
-      - name: Check every link
-        run: node scripts/check-links.mjs
-
-      - name: Commit status
-        id: commit
+      - name: Check out link-status
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add status
+          if git ls-remote --exit-code --heads origin link-status >/dev/null; then
+            git fetch --depth=1 origin link-status
+            git worktree add -B link-status .link-status origin/link-status
+          else
+            git worktree add --orphan -b link-status .link-status
+          fi
+
+      - name: Check every link
+        env:
+          TEST_FILES_STATUS_DIR: .link-status/status
+        run: node scripts/check-links.mjs
+
+      - name: Save results
+        id: commit
+        working-directory: .link-status
+        run: |
+          git add -A
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          git commit -q -m "chore(status): daily link check"
-          git pull --rebase -q origin main
-          git push origin HEAD:main
+          git commit -q -m "link check $(date -u +%F)"
+          git push origin link-status
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
   # Pushes made with GITHUB_TOKEN don't trigger other workflows, so publish explicitly.
