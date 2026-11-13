@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T11:32:15.749Z",
+  "checkedAt": "2026-11-13T11:17:42.163Z",
   "entries": {
     "any-hetzner-ash-100mb": {
       "state": "ok",
@@ -7,7 +7,7 @@
       "size": 104857600,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-ash-10gb": {
@@ -16,7 +16,7 @@
       "size": 10737418240,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-ash-1gb": {
@@ -25,7 +25,7 @@
       "size": 1073741824,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-fsn1-100mb": {
@@ -34,7 +34,7 @@
       "size": 104857600,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-fsn1-10gb": {
@@ -43,7 +43,7 @@
       "size": 10737418240,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-fsn1-1gb": {
@@ -52,7 +52,7 @@
       "size": 1073741824,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-hel1-100mb": {
@@ -61,7 +61,7 @@
       "size": 104857600,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-hel1-10gb": {
@@ -70,7 +70,7 @@
       "size": 10737418240,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-hel1-1gb": {
@@ -79,7 +79,7 @@
       "size": 1073741824,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-nbg1-100mb": {
@@ -88,7 +88,7 @@
       "size": 104857600,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-nbg1-10gb": {
@@ -97,7 +97,7 @@
       "size": 10737418240,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-hetzner-nbg1-1gb": {
@@ -106,7 +106,7 @@
       "size": 1073741824,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-ovh-100mb": {
@@ -115,7 +115,7 @@
       "size": 104857600,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-ovh-10gb": {
@@ -124,7 +124,7 @@
       "size": 10737418240,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-ovh-10mb": {
@@ -133,7 +133,7 @@
       "size": 10485760,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-ovh-1gb": {
@@ -142,7 +142,7 @@
       "size": 1073741824,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-ovh-1mb": {
@@ -151,7 +151,7 @@
       "size": 1048576,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "any-tele2-100gb": {
@@ -161,7 +161,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -172,7 +172,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -183,7 +183,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -194,7 +194,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -205,7 +205,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -216,7 +216,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -227,7 +227,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -238,7 +238,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -249,7 +249,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     }

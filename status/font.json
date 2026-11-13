@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T11:32:15.749Z",
+  "checkedAt": "2026-11-13T11:17:42.163Z",
   "entries": {
     "font-inter-regular-latin-woff": {
       "state": "ok",
@@ -7,7 +7,7 @@
       "size": 30696,
       "contentType": "font/woff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "font-inter-regular-latin-woff2": {
@@ -16,7 +16,7 @@
       "size": 23664,
       "contentType": "font/woff2",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "font-inter-variable-ttf": {
@@ -25,7 +25,7 @@
       "size": 876576,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "font-noto-cjk-jp-otf": {
@@ -34,7 +34,7 @@
       "size": 16467736,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "font-noto-cjk-vf-ttc": {
@@ -43,7 +43,7 @@
       "size": 32682580,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "font-noto-sans-sc-ttf": {
@@ -52,7 +52,7 @@
       "size": 17772300,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "font-roboto-bold-latin-woff2": {
@@ -61,7 +61,7 @@
       "size": 22240,
       "contentType": "font/woff2",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bin-fontawesome-webfont": {
@@ -70,7 +70,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bin-lato-regular": {
@@ -79,7 +79,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bin-notosansshavian-regular": {
@@ -88,7 +88,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bin-opensans-regular": {
@@ -97,7 +97,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bin-slick": {
@@ -106,7 +106,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bin-sourcecodepro-regular": {
@@ -115,7 +115,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cff-fontawesome-webfont": {
@@ -124,7 +124,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cff-lato-regular": {
@@ -133,7 +133,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cff-notosansshavian-regular": {
@@ -142,7 +142,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cff-opensans-regular": {
@@ -151,7 +151,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cff-slick": {
@@ -160,7 +160,7 @@
       "size": 1024,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cff-sourcecodepro-regular": {
@@ -169,7 +169,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dfont-fontawesome-webfont": {
@@ -178,7 +178,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dfont-lato-regular": {
@@ -187,7 +187,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dfont-notosansshavian-regular": {
@@ -196,7 +196,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dfont-opensans-regular": {
@@ -205,7 +205,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dfont-slick": {
@@ -214,7 +214,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dfont-sourcecodepro-regular": {
@@ -223,7 +223,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-otf-fontawesome-webfont": {
@@ -232,7 +232,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-otf-lato-regular": {
@@ -241,7 +241,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-otf-notosansshavian-regular": {
@@ -250,7 +250,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-otf-opensans-regular": {
@@ -259,7 +259,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-otf-slick": {
@@ -268,7 +268,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-otf-sourcecodepro-regular": {
@@ -277,7 +277,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pfb-fontawesome-webfont": {
@@ -286,7 +286,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pfb-lato-regular": {
@@ -295,7 +295,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pfb-notosansshavian-regular": {
@@ -304,7 +304,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pfb-opensans-regular": {
@@ -313,7 +313,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pfb-slick": {
@@ -322,7 +322,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pfb-sourcecodepro-regular": {
@@ -331,7 +331,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ps-fontawesome-webfont": {
@@ -340,7 +340,7 @@
       "size": null,
       "contentType": "application/postscript",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ps-lato-regular": {
@@ -349,7 +349,7 @@
       "size": null,
       "contentType": "application/postscript",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ps-notosansshavian-regular": {
@@ -358,7 +358,7 @@
       "size": null,
       "contentType": "application/postscript",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ps-opensans-regular": {
@@ -367,7 +367,7 @@
       "size": null,
       "contentType": "application/postscript",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ps-slick": {
@@ -376,7 +376,7 @@
       "size": null,
       "contentType": "application/postscript",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ps-sourcecodepro-regular": {
@@ -385,7 +385,7 @@
       "size": null,
       "contentType": "application/postscript",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-sfd-fontawesome-webfont": {
@@ -394,7 +394,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-sfd-lato-regular": {
@@ -403,7 +403,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-sfd-notosansshavian-regular": {
@@ -412,7 +412,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-sfd-opensans-regular": {
@@ -421,7 +421,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-sfd-slick": {
@@ -430,7 +430,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-sfd-sourcecodepro-regular": {
@@ -439,7 +439,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ttf-fontawesome-webfont": {
@@ -448,7 +448,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ttf-lato-regular": {
@@ -457,7 +457,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ttf-notosansshavian-regular": {
@@ -466,7 +466,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ttf-opensans-regular": {
@@ -475,7 +475,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ttf-slick": {
@@ -484,7 +484,7 @@
       "size": 1892,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ttf-sourcecodepro-regular": {
@@ -493,7 +493,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-woff-fontawesome-webfont": {
@@ -502,7 +502,7 @@
       "size": null,
       "contentType": "font/woff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-woff-lato-regular": {
@@ -511,7 +511,7 @@
       "size": null,
       "contentType": "font/woff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-woff-notosansshavian-regular": {
@@ -520,7 +520,7 @@
       "size": null,
       "contentType": "font/woff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-woff-opensans-regular": {
@@ -529,7 +529,7 @@
       "size": null,
       "contentType": "font/woff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-woff-slick": {
@@ -538,7 +538,7 @@
       "size": 1256,
       "contentType": "font/woff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-woff-sourcecodepro-regular": {
@@ -547,7 +547,7 @@
       "size": null,
       "contentType": "font/woff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     }
   }

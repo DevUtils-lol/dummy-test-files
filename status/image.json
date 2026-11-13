@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T11:32:15.749Z",
+  "checkedAt": "2026-11-13T11:17:42.163Z",
   "entries": {
     "fs-bmp-sample-1280-853": {
       "state": "ok",
@@ -7,7 +7,7 @@
       "size": null,
       "contentType": "image/x-ms-bmp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bmp-sample-1920-1280": {
@@ -16,7 +16,7 @@
       "size": null,
       "contentType": "image/x-ms-bmp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bmp-sample-5184-3456": {
@@ -25,7 +25,7 @@
       "size": null,
       "contentType": "image/x-ms-bmp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-bmp-sample-640-426": {
@@ -34,7 +34,7 @@
       "size": null,
       "contentType": "image/x-ms-bmp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cr2-sample1": {
@@ -43,7 +43,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-cur-sample-1280-853": {
@@ -52,7 +52,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dds-sample-1280-853": {
@@ -61,7 +61,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dds-sample-1920-1280": {
@@ -70,7 +70,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dds-sample-5184-3456": {
@@ -79,7 +79,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dds-sample-640-426": {
@@ -88,7 +88,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-dng-sample1": {
@@ -97,7 +97,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-erf-sample1": {
@@ -106,7 +106,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-exr-sample-1280-853": {
@@ -115,7 +115,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-exr-sample-1920-1280": {
@@ -124,7 +124,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-exr-sample-5184-3456": {
@@ -133,7 +133,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-exr-sample-640-426": {
@@ -142,7 +142,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-fts-sample-1280-853": {
@@ -151,7 +151,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-gif-sample-1280-853": {
@@ -160,7 +160,7 @@
       "size": null,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-gif-sample-1920-1280": {
@@ -169,7 +169,7 @@
       "size": null,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-gif-sample-5184-3456": {
@@ -178,7 +178,7 @@
       "size": null,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-gif-sample-640-426": {
@@ -187,7 +187,7 @@
       "size": null,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-hdr-sample-1280-853": {
@@ -196,7 +196,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-hdr-sample-1920-1280": {
@@ -205,7 +205,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-hdr-sample-5184-3456": {
@@ -214,7 +214,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-hdr-sample-640-426": {
@@ -223,7 +223,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-heif-sample1": {
@@ -232,7 +232,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ico-sample-1280-853": {
@@ -241,7 +241,7 @@
       "size": null,
       "contentType": "image/x-icon",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ico-sample-1920-1280": {
@@ -250,7 +250,7 @@
       "size": null,
       "contentType": "image/x-icon",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ico-sample-5184-3456": {
@@ -259,7 +259,7 @@
       "size": null,
       "contentType": "image/x-icon",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ico-sample-640-426": {
@@ -268,7 +268,7 @@
       "size": null,
       "contentType": "image/x-icon",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jfif-sample1": {
@@ -277,7 +277,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jp2-sample1": {
@@ -286,7 +286,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpe-sample-1280-853": {
@@ -295,7 +295,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpeg-sample-1280-853": {
@@ -304,7 +304,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpeg-sample-1920-1280": {
@@ -313,7 +313,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpeg-sample-5184-3456": {
@@ -322,7 +322,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpeg-sample-640-426": {
@@ -331,7 +331,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpg-sample-1280-853": {
@@ -340,7 +340,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpg-sample-1920-1280": {
@@ -349,7 +349,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpg-sample-5184-3456": {
@@ -358,7 +358,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jpg-sample-640-426": {
@@ -367,7 +367,7 @@
       "size": null,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-jps-sample-1280-853": {
@@ -376,7 +376,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-mng-sample-1280-853": {
@@ -385,7 +385,7 @@
       "size": null,
       "contentType": "video/x-mng",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-nef-sample1": {
@@ -394,7 +394,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-nrw-sample1": {
@@ -403,7 +403,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-orf-sample1": {
@@ -412,7 +412,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pam-sample-1280-853": {
@@ -421,7 +421,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pbm-sample-1280-853": {
@@ -430,7 +430,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pcd-sample-1280-853": {
@@ -439,7 +439,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pcx-sample-1280-853": {
@@ -448,7 +448,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pef-sample1": {
@@ -457,7 +457,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pes-sample1": {
@@ -466,7 +466,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pfm-sample-1280-853": {
@@ -475,7 +475,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pgm-sample-1280-853": {
@@ -484,7 +484,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-picon-sample-1280-853": {
@@ -493,7 +493,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pict-sample-1280-853": {
@@ -502,7 +502,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-png-sample-1280-853": {
@@ -511,7 +511,7 @@
       "size": null,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-png-sample-1920-1280": {
@@ -520,7 +520,7 @@
       "size": null,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-png-sample-5184-3456": {
@@ -529,7 +529,7 @@
       "size": null,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-png-sample-640-426": {
@@ -538,7 +538,7 @@
       "size": null,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-pnm-sample-1280-853": {
@@ -547,7 +547,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ppm-sample-1280-853": {
@@ -556,7 +556,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-psd-sample-1280-853": {
@@ -565,7 +565,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-psd-sample-1920-1280": {
@@ -574,7 +574,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-psd-sample-5184-3456": {
@@ -583,7 +583,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-psd-sample-640-426": {
@@ -592,7 +592,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-raf-sample1": {
@@ -601,7 +601,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-ras-sample-1280-853": {
@@ -610,7 +610,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-rw2-sample1": {
@@ -619,7 +619,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-sgi-sample-1280-853": {
@@ -628,7 +628,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-svg-sample-1280-853": {
@@ -637,7 +637,7 @@
       "size": null,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-svg-sample-1920-1280": {
@@ -646,7 +646,7 @@
       "size": null,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-svg-sample-5184-3456": {
@@ -655,7 +655,7 @@
       "size": null,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-svg-sample-640-426": {
@@ -664,7 +664,7 @@
       "size": null,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-tga-sample-1280-853": {
@@ -673,7 +673,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-tga-sample-1920-1280": {
@@ -682,7 +682,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-tga-sample-5184-3456": {
@@ -691,7 +691,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-tga-sample-640-426": {
@@ -700,7 +700,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-tiff-sample-1280-853": {
@@ -709,7 +709,7 @@
       "size": null,
       "contentType": "image/tiff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-tiff-sample-5184-3456": {
@@ -718,7 +718,7 @@
       "size": null,
       "contentType": "image/tiff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-tiff-sample-640-426": {
@@ -727,7 +727,7 @@
       "size": null,
       "contentType": "image/tiff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-wbmp-sample-1280-853": {
@@ -736,7 +736,7 @@
       "size": null,
       "contentType": "image/vnd.wap.wbmp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-webp-sample1": {
@@ -745,7 +745,7 @@
       "size": null,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-xbm-sample-1280-853": {
@@ -754,7 +754,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-xpm-sample-1280-853": {
@@ -763,7 +763,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "fs-xwd-sample-1280-853": {
@@ -772,17 +772,19 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-dummyimage-600": {
-      "state": "ok",
-      "http": 206,
+      "state": "failing",
+      "http": 521,
       "size": 1785,
-      "contentType": "image/png",
-      "cors": true,
+      "contentType": null,
+      "cors": false,
       "lastOk": "2026-11-12",
-      "failCount": 0
+      "failCount": 1,
+      "failingSince": "2026-11-13",
+      "error": "HTTP 521"
     },
     "image-exif-landscape-1": {
       "state": "ok",
@@ -790,7 +792,7 @@
       "size": 347327,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-landscape-2": {
@@ -799,7 +801,7 @@
       "size": 349209,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-landscape-3": {
@@ -808,7 +810,7 @@
       "size": 348796,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-landscape-4": {
@@ -817,7 +819,7 @@
       "size": 348052,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-landscape-5": {
@@ -826,7 +828,7 @@
       "size": 351275,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-landscape-6": {
@@ -835,7 +837,7 @@
       "size": 352727,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-landscape-7": {
@@ -844,7 +846,7 @@
       "size": 351856,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-landscape-8": {
@@ -853,7 +855,7 @@
       "size": 352067,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-1": {
@@ -862,7 +864,7 @@
       "size": 245684,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-2": {
@@ -871,7 +873,7 @@
       "size": 246915,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-3": {
@@ -880,7 +882,7 @@
       "size": 247276,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-4": {
@@ -889,7 +891,7 @@
       "size": 246554,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-5": {
@@ -898,7 +900,7 @@
       "size": 251487,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-6": {
@@ -907,7 +909,7 @@
       "size": 251800,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-7": {
@@ -916,7 +918,7 @@
       "size": 250892,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-exif-portrait-8": {
@@ -925,7 +927,7 @@
       "size": 251978,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-filesamples-tiff": {
@@ -934,7 +936,7 @@
       "size": null,
       "contentType": "image/tiff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-heic-sample": {
@@ -943,7 +945,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-01": {
@@ -952,7 +954,7 @@
       "size": 736501,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-02": {
@@ -961,7 +963,7 @@
       "size": 617995,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-03": {
@@ -970,7 +972,7 @@
       "size": 502888,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-04": {
@@ -979,7 +981,7 @@
       "size": 637432,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-05": {
@@ -988,7 +990,7 @@
       "size": 785610,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-06": {
@@ -997,7 +999,7 @@
       "size": 618959,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-07": {
@@ -1006,7 +1008,7 @@
       "size": 566322,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-08": {
@@ -1015,7 +1017,7 @@
       "size": 788470,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-09": {
@@ -1024,7 +1026,7 @@
       "size": 582899,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-10": {
@@ -1033,7 +1035,7 @@
       "size": 593463,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-11": {
@@ -1042,7 +1044,7 @@
       "size": 621023,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-12": {
@@ -1051,7 +1053,7 @@
       "size": 531024,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-13": {
@@ -1060,7 +1062,7 @@
       "size": 822712,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-14": {
@@ -1069,7 +1071,7 @@
       "size": 692201,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-15": {
@@ -1078,7 +1080,7 @@
       "size": 612582,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-16": {
@@ -1087,7 +1089,7 @@
       "size": 534247,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-17": {
@@ -1096,7 +1098,7 @@
       "size": 602078,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-18": {
@@ -1105,7 +1107,7 @@
       "size": 780947,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-19": {
@@ -1114,7 +1116,7 @@
       "size": 671476,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-20": {
@@ -1123,7 +1125,7 @@
       "size": 492462,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-21": {
@@ -1132,7 +1134,7 @@
       "size": 637051,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-22": {
@@ -1141,7 +1143,7 @@
       "size": 701970,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-23": {
@@ -1150,7 +1152,7 @@
       "size": 557596,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-kodak-24": {
@@ -1159,7 +1161,7 @@
       "size": 706397,
       "contentType": "image/png",
       "cors": false,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-nasa-blue-marble-jpg": {
@@ -1169,7 +1171,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -1180,7 +1182,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -1191,7 +1193,7 @@
       "contentType": null,
       "cors": false,
       "lastOk": "2026-09-28",
-      "failCount": 3,
+      "failCount": 4,
       "failingSince": "2026-11-12",
       "error": "ETIMEDOUT"
     },
@@ -1202,7 +1204,7 @@
       "contentType": "text/html; charset=UTF-8",
       "cors": false,
       "lastOk": "2026-11-11",
-      "failCount": 1,
+      "failCount": 2,
       "failingSince": "2026-11-12",
       "error": "HTTP 522"
     },
@@ -1212,7 +1214,7 @@
       "size": 1976,
       "contentType": "image/avif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1280x720-gif": {
@@ -1221,7 +1223,7 @@
       "size": 10437,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1280x720-jpeg": {
@@ -1230,7 +1232,7 @@
       "size": 13574,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1280x720-png": {
@@ -1239,7 +1241,7 @@
       "size": 16997,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1280x720-svg": {
@@ -1248,7 +1250,7 @@
       "size": 4162,
       "contentType": "image/svg+xml; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1280x720-webp": {
@@ -1257,7 +1259,7 @@
       "size": 4690,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-150x150-avif": {
@@ -1266,7 +1268,7 @@
       "size": 735,
       "contentType": "image/avif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-150x150-gif": {
@@ -1275,7 +1277,7 @@
       "size": 1312,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-150x150-jpeg": {
@@ -1284,7 +1286,7 @@
       "size": 1058,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-150x150-png": {
@@ -1293,7 +1295,7 @@
       "size": 1652,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-150x150-svg": {
@@ -1302,7 +1304,7 @@
       "size": 2353,
       "contentType": "image/svg+xml; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-150x150-webp": {
@@ -1311,7 +1313,7 @@
       "size": 454,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1920x1080-avif": {
@@ -1320,7 +1322,7 @@
       "size": 2570,
       "contentType": "image/avif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1920x1080-gif": {
@@ -1329,7 +1331,7 @@
       "size": 16575,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1920x1080-jpeg": {
@@ -1338,7 +1340,7 @@
       "size": 24584,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1920x1080-png": {
@@ -1347,7 +1349,7 @@
       "size": 29688,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1920x1080-svg": {
@@ -1356,7 +1358,7 @@
       "size": 4782,
       "contentType": "image/svg+xml; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-1920x1080-webp": {
@@ -1365,7 +1367,7 @@
       "size": 8360,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-3840x2160-avif": {
@@ -1374,7 +1376,7 @@
       "size": 4344,
       "contentType": "image/avif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-3840x2160-gif": {
@@ -1383,7 +1385,7 @@
       "size": 36839,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-3840x2160-jpeg": {
@@ -1392,7 +1394,7 @@
       "size": 73981,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-3840x2160-png": {
@@ -1401,7 +1403,7 @@
       "size": 82982,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-3840x2160-svg": {
@@ -1410,7 +1412,7 @@
       "size": 5406,
       "contentType": "image/svg+xml; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-3840x2160-webp": {
@@ -1419,7 +1421,7 @@
       "size": 24132,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-640x480-avif": {
@@ -1428,7 +1430,7 @@
       "size": 1393,
       "contentType": "image/avif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-640x480-gif": {
@@ -1437,7 +1439,7 @@
       "size": 5172,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-640x480-jpeg": {
@@ -1446,7 +1448,7 @@
       "size": 5987,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-640x480-png": {
@@ -1455,7 +1457,7 @@
       "size": 8235,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-640x480-svg": {
@@ -1464,7 +1466,7 @@
       "size": 3167,
       "contentType": "image/svg+xml; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "image-placehold-640x480-webp": {
@@ -1473,7 +1475,7 @@
       "size": 2176,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-bmp-bmp": {
@@ -1482,7 +1484,7 @@
       "size": 30,
       "contentType": "image/bmp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-bpg-bpg": {
@@ -1491,7 +1493,7 @@
       "size": 132,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-dicom-dcm": {
@@ -1500,7 +1502,7 @@
       "size": 254,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-gif-gif": {
@@ -1509,7 +1511,7 @@
       "size": 14,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-gif-transparent-gif": {
@@ -1518,7 +1520,7 @@
       "size": 42,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-heif-heif": {
@@ -1527,7 +1529,7 @@
       "size": 386,
       "contentType": "image/heif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-ico-ico": {
@@ -1536,7 +1538,7 @@
       "size": 70,
       "contentType": "image/vnd.microsoft.icon",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-jpeg-jpg": {
@@ -1545,7 +1547,7 @@
       "size": 107,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-jpeg2-jp2": {
@@ -1554,7 +1556,7 @@
       "size": 212,
       "contentType": "image/jp2",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-jxl-jxl": {
@@ -1563,7 +1565,7 @@
       "size": 16,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-mng-mng": {
@@ -1572,7 +1574,7 @@
       "size": 148,
       "contentType": "video/mng",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-png-transparent-png": {
@@ -1581,7 +1583,7 @@
       "size": 67,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-png-truncated-png": {
@@ -1590,7 +1592,7 @@
       "size": 51,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-ppm-ppm": {
@@ -1599,7 +1601,7 @@
       "size": 14,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-ppmb-ppm": {
@@ -1608,7 +1610,7 @@
       "size": 12,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-svg-svg": {
@@ -1617,7 +1619,7 @@
       "size": 41,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-targa-tga": {
@@ -1626,7 +1628,7 @@
       "size": 47,
       "contentType": "image/targa",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-tiff-tif": {
@@ -1635,7 +1637,7 @@
       "size": 46,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-webp-webp": {
@@ -1644,7 +1646,7 @@
       "size": 26,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-windowsmetafile-wmf": {
@@ -1653,7 +1655,7 @@
       "size": 224,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "small-x-bitmap-xbm": {
@@ -1662,7 +1664,7 @@
       "size": 104,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-animation-of-buchli-drive": {
@@ -1671,7 +1673,7 @@
       "size": 10213491,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-bowling-balls-beach-2": {
@@ -1680,7 +1682,7 @@
       "size": 2470662,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-crissy-field-beach-and-golden-gate-bridge": {
@@ -1689,7 +1691,7 @@
       "size": 4341399,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-d-lmen-merfeld-felder-2024-0102": {
@@ -1698,7 +1700,7 @@
       "size": 62780952,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-ellipsograph-animation-large-transparent": {
@@ -1707,7 +1709,7 @@
       "size": 6922427,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-everest-himalayas": {
@@ -1716,7 +1718,7 @@
       "size": 8357266,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-honeybee-landing-on-milkthistle02": {
@@ -1725,7 +1727,7 @@
       "size": 330529,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-lagrangianpoints": {
@@ -1734,7 +1736,7 @@
       "size": 8815208,
       "contentType": "image/gif",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-macau-morpheus-hotel-2024-dllu": {
@@ -1743,7 +1745,7 @@
       "size": 40131260,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-magnolia-soulangeana-blossom": {
@@ -1752,7 +1754,7 @@
       "size": 198160,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-mountains-in-snow-mountain-lake-chola-valley-nepal-himalayas": {
@@ -1761,7 +1763,7 @@
       "size": 7417279,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-physical-map-of-ancient-greece-ru": {
@@ -1770,7 +1772,7 @@
       "size": 13615725,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-plant-cell-types": {
@@ -1779,7 +1781,7 @@
       "size": 7508411,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-solar-system-diagram-english": {
@@ -1788,7 +1790,7 @@
       "size": 422199,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-soyuz-rocket-and-spaceship-v1-1": {
@@ -1797,7 +1799,7 @@
       "size": 12819915,
       "contentType": "image/svg+xml",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-switzerland-esa370220": {
@@ -1806,7 +1808,7 @@
       "size": 557408592,
       "contentType": "image/tiff",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-sylvania-toledo-lynx-s-led-lamp-full-alpha-pnr-1232b": {
@@ -1815,7 +1817,7 @@
       "size": 4125794,
       "contentType": "image/webp",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-the-geologic-map-of-the-moon-at-1-2-5m-scale": {
@@ -1824,7 +1826,7 @@
       "size": 107280103,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-tolbachik-volcano-1975-cone-pano-kamchatka-on-2015-07-28": {
@@ -1833,7 +1835,7 @@
       "size": 136366064,
       "contentType": "image/png",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     },
     "wm-vignes-pr-s-du-pic-de-vissou-october-2020": {
@@ -1842,7 +1844,7 @@
       "size": 42796377,
       "contentType": "image/jpeg",
       "cors": true,
-      "lastOk": "2026-11-12",
+      "lastOk": "2026-11-13",
       "failCount": 0
     }
   }
