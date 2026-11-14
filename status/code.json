@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T11:17:42.163Z",
+  "checkedAt": "2026-11-14T10:41:27.704Z",
   "entries": {
     "code-cldr-english-locale-xml": {
       "state": "ok",
@@ -7,7 +7,7 @@
       "size": 486056,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "code-cldr-supplemental-data-xml": {
@@ -16,16 +16,16 @@
       "size": 394860,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "code-github-rest-api-openapi-yaml": {
       "state": "ok",
       "http": 206,
-      "size": 11038591,
+      "size": 11047039,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "code-petstore-openapi-3-0-yaml": {
@@ -34,7 +34,7 @@
       "size": 2772,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "code-stripe-api-openapi-yaml": {
@@ -43,7 +43,7 @@
       "size": 6630124,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "code-xml-namespace-schema-xml-xsd-xsd": {
@@ -52,7 +52,7 @@
       "size": 2426,
       "contentType": "application/xml",
       "cors": false,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-bat-ascii-to-unicode": {
@@ -61,7 +61,7 @@
       "size": 1620,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-bat-bios-date": {
@@ -70,7 +70,7 @@
       "size": 1074,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-bat-check-internet-connection": {
@@ -79,7 +79,7 @@
       "size": 241,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-c-sample1": {
@@ -88,7 +88,7 @@
       "size": 527,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-c-sample2": {
@@ -97,7 +97,7 @@
       "size": 527,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-c-sample3": {
@@ -106,7 +106,7 @@
       "size": 126,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-class-sample1": {
@@ -115,7 +115,7 @@
       "size": 153,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-cpp-sample1": {
@@ -124,7 +124,7 @@
       "size": 94,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-cpp-sample2": {
@@ -133,7 +133,7 @@
       "size": 103,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-cpp-sample3": {
@@ -142,7 +142,7 @@
       "size": 223,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-cs-sample1": {
@@ -151,7 +151,7 @@
       "size": 136,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-cs-sample2": {
@@ -160,7 +160,7 @@
       "size": 205,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-cs-sample3": {
@@ -169,7 +169,7 @@
       "size": 175,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-css-sample1": {
@@ -178,7 +178,7 @@
       "size": 130,
       "contentType": "text/css",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-css-sample2": {
@@ -187,7 +187,7 @@
       "size": 89,
       "contentType": "text/css",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-css-sample3": {
@@ -196,7 +196,7 @@
       "size": 474,
       "contentType": "text/css",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-go-sample1": {
@@ -205,7 +205,7 @@
       "size": 72,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-go-sample2": {
@@ -214,7 +214,7 @@
       "size": 412,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-go-sample3": {
@@ -223,7 +223,7 @@
       "size": 414,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-h-sample1": {
@@ -232,7 +232,7 @@
       "size": 103,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-h-sample2": {
@@ -241,7 +241,7 @@
       "size": 183,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-h-sample3": {
@@ -250,7 +250,7 @@
       "size": 1513,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-htaccess-block-ip": {
@@ -259,7 +259,7 @@
       "size": 71,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-htaccess-block-referrers": {
@@ -268,7 +268,7 @@
       "size": 125,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-htaccess-deny-http-request-methods": {
@@ -277,7 +277,7 @@
       "size": 76,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-htaccess-enable-browser-cache": {
@@ -286,7 +286,7 @@
       "size": 619,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-htaccess-enable-gzip": {
@@ -295,7 +295,7 @@
       "size": 1078,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-htaccess-set-header": {
@@ -304,7 +304,7 @@
       "size": 34,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-html-sample1": {
@@ -313,7 +313,7 @@
       "size": null,
       "contentType": "text/html",
       "cors": false,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-html-sample2": {
@@ -322,7 +322,7 @@
       "size": null,
       "contentType": "text/html",
       "cors": false,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-java-sample2": {
@@ -331,7 +331,7 @@
       "size": 251,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-java-sample3": {
@@ -340,7 +340,7 @@
       "size": 186,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-js-sample1": {
@@ -349,7 +349,7 @@
       "size": null,
       "contentType": "application/javascript",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-json-sample1": {
@@ -358,7 +358,7 @@
       "size": 63,
       "contentType": "application/json",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-json-sample2": {
@@ -367,7 +367,7 @@
       "size": 158,
       "contentType": "application/json",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-json-sample3": {
@@ -376,7 +376,7 @@
       "size": 96,
       "contentType": "application/json",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-json-sample4": {
@@ -385,7 +385,7 @@
       "size": 163,
       "contentType": "application/json",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-kml-sample1": {
@@ -394,7 +394,7 @@
       "size": 331,
       "contentType": "application/vnd.google-earth.kml+xml",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-kml-sample2": {
@@ -403,7 +403,7 @@
       "size": 438,
       "contentType": "application/vnd.google-earth.kml+xml",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-kml-sample3": {
@@ -412,7 +412,7 @@
       "size": 267,
       "contentType": "application/vnd.google-earth.kml+xml",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-php-sample1": {
@@ -421,7 +421,7 @@
       "size": 548,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-php-sample2": {
@@ -430,7 +430,7 @@
       "size": 761,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-php-sample3": {
@@ -439,7 +439,7 @@
       "size": 741,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-pl-sample1": {
@@ -448,7 +448,7 @@
       "size": 279,
       "contentType": "application/x-perl",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-pl-sample2": {
@@ -457,7 +457,7 @@
       "size": 117,
       "contentType": "application/x-perl",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-pl-sample3": {
@@ -466,7 +466,7 @@
       "size": 137,
       "contentType": "application/x-perl",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-py-sample1": {
@@ -475,7 +475,7 @@
       "size": 195,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-py-sample2": {
@@ -484,7 +484,7 @@
       "size": 287,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-py-sample3": {
@@ -493,7 +493,7 @@
       "size": 338,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-rb-sample1": {
@@ -502,7 +502,7 @@
       "size": 867,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-rb-sample2": {
@@ -511,7 +511,7 @@
       "size": 1113,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-rb-sample3": {
@@ -520,7 +520,7 @@
       "size": 447,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-sh-sample1": {
@@ -529,7 +529,7 @@
       "size": 89,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-sh-sample2": {
@@ -538,7 +538,7 @@
       "size": 79,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-sh-sample3": {
@@ -547,7 +547,7 @@
       "size": 111,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-sql-sample1": {
@@ -556,7 +556,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-sql-sample2": {
@@ -565,7 +565,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-swift-sample1": {
@@ -574,7 +574,7 @@
       "size": 84,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-swift-sample2": {
@@ -583,7 +583,7 @@
       "size": 192,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-swift-sample3": {
@@ -592,7 +592,7 @@
       "size": 170,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-vb-sample1": {
@@ -601,7 +601,7 @@
       "size": 384,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-vb-sample2": {
@@ -610,7 +610,7 @@
       "size": 779,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-vb-sample3": {
@@ -619,7 +619,7 @@
       "size": 484,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-yaml-homestead": {
@@ -628,7 +628,7 @@
       "size": 457,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-yaml-invoice": {
@@ -637,7 +637,7 @@
       "size": 649,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "fs-yaml-verify-apache": {
@@ -646,7 +646,7 @@
       "size": 526,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-ada-adb": {
@@ -655,7 +655,7 @@
       "size": 27,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-cobol-cob": {
@@ -664,7 +664,7 @@
       "size": 100,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-cpp-cpp": {
@@ -673,7 +673,7 @@
       "size": 12,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-csharp-cs": {
@@ -682,7 +682,7 @@
       "size": 30,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-go-go": {
@@ -691,7 +691,7 @@
       "size": 26,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-haskell-loop-hs": {
@@ -700,7 +700,7 @@
       "size": 10,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-haskell-term-hs": {
@@ -709,7 +709,7 @@
       "size": 13,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-html-2-0-html": {
@@ -718,7 +718,7 @@
       "size": 58,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-html-3-2-html": {
@@ -727,7 +727,7 @@
       "size": 63,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-html-4-0-strict-html": {
@@ -736,7 +736,7 @@
       "size": 59,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-html-4-01-frameset-html": {
@@ -745,7 +745,7 @@
       "size": 84,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-html-4-01-strict-html": {
@@ -754,7 +754,7 @@
       "size": 60,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-html-4-01-transitional-html": {
@@ -763,7 +763,7 @@
       "size": 71,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-html5-html": {
@@ -772,7 +772,7 @@
       "size": 15,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-iso-html-html": {
@@ -781,7 +781,7 @@
       "size": 113,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-java-java": {
@@ -790,7 +790,7 @@
       "size": 33,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-objective-c-m": {
@@ -799,7 +799,7 @@
       "size": 12,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xhtml-1-0-frameset-html": {
@@ -808,7 +808,7 @@
       "size": 82,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xhtml-1-0-strict-xhtml": {
@@ -817,7 +817,7 @@
       "size": 78,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xhtml-1-1-xhtml": {
@@ -826,7 +826,7 @@
       "size": 78,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xhtml-basic-1-0-xhtml": {
@@ -835,7 +835,7 @@
       "size": 41,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xhtml-basic-1-1-xhtml": {
@@ -844,7 +844,7 @@
       "size": 41,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xhtml5-xhtml": {
@@ -853,7 +853,7 @@
       "size": 44,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xml-1-0-valid-xml": {
@@ -862,7 +862,7 @@
       "size": 36,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xml-1-0-xml": {
@@ -871,7 +871,7 @@
       "size": 4,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xml-1-1-valid-xml": {
@@ -880,7 +880,7 @@
       "size": 57,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "small-xml-1-1-xml": {
@@ -889,7 +889,7 @@
       "size": 25,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     }
   }

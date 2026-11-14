@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T11:17:42.163Z",
+  "checkedAt": "2026-11-14T10:41:27.704Z",
   "entries": {
     "3d-armadillo-obj": {
       "state": "ok",
@@ -7,7 +7,7 @@
       "size": 4634780,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-horse-obj": {
@@ -16,7 +16,7 @@
       "size": 4818311,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-igea-ply": {
@@ -25,7 +25,7 @@
       "size": 3107641,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-abeautifulgame-glb": {
@@ -34,7 +34,7 @@
       "size": 42977928,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-avocado": {
@@ -43,7 +43,7 @@
       "size": 8110040,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-boombox": {
@@ -52,7 +52,7 @@
       "size": 10614184,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-cesiumman": {
@@ -61,7 +61,7 @@
       "size": 438044,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-damagedhelmet": {
@@ -70,7 +70,7 @@
       "size": 3773916,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-duck-glb": {
@@ -79,7 +79,7 @@
       "size": 120484,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-fox": {
@@ -88,7 +88,7 @@
       "size": 162852,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-lantern": {
@@ -97,7 +97,7 @@
       "size": 9564264,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-sheenchair": {
@@ -106,7 +106,7 @@
       "size": 4125648,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-khronos-toycar": {
@@ -115,7 +115,7 @@
       "size": 5422412,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-spot-obj": {
@@ -124,7 +124,7 @@
       "size": 330624,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-stanford-bunny-obj": {
@@ -133,7 +133,7 @@
       "size": 2408417,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-teapot-obj": {
@@ -142,7 +142,7 @@
       "size": 210614,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "3d-xyzrgb-dragon-obj": {
@@ -151,7 +151,7 @@
       "size": 11817802,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "wm-3d-modell-des-sierpinski-dreiecks-20220520-iteration-10": {
@@ -160,7 +160,7 @@
       "size": 23619684,
       "contentType": "application/sla",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "wm-meta-wiki-logo-3d": {
@@ -169,7 +169,7 @@
       "size": 5442630,
       "contentType": "application/sla",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     },
     "wm-wikiversity-logo-3d": {
@@ -178,7 +178,7 @@
       "size": 475340,
       "contentType": "application/sla",
       "cors": true,
-      "lastOk": "2026-11-13",
+      "lastOk": "2026-11-14",
       "failCount": 0
     }
   }
