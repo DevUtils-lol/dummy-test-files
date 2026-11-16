@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-15T11:16:17.121Z",
+  "checkedAt": "2026-11-16T11:37:19.010Z",
   "entries": {
     "data-airport-codes-csv": {
       "state": "ok",
@@ -7,7 +7,7 @@
       "size": 8826617,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-airports-of-the-world-json": {
@@ -16,7 +16,7 @@
       "size": 9032143,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-chinook-music-store-database-sqlite": {
@@ -25,7 +25,7 @@
       "size": 1067008,
       "contentType": "application/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-countries-geojson": {
@@ -34,7 +34,7 @@
       "size": 838726,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-countries-states-cities-json": {
@@ -43,7 +43,7 @@
       "size": 59130010,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-country-borders-high-detail-geojson": {
@@ -52,7 +52,7 @@
       "size": 14643641,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-country-list-csv": {
@@ -61,7 +61,7 @@
       "size": 3835,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-covid-csv": {
@@ -70,16 +70,16 @@
       "size": 8578215,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-dblp-bibliography-xml-gzipped-gz": {
       "state": "ok",
       "http": 206,
-      "size": 1120035080,
+      "size": 1120379370,
       "contentType": "application/x-gzip",
       "cors": false,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-gdp-csv": {
@@ -88,7 +88,7 @@
       "size": 562767,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-gharchive-hour": {
@@ -97,7 +97,7 @@
       "size": 3844072,
       "contentType": "application/gzip",
       "cors": false,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-github-rest-api-openapi-json": {
@@ -106,16 +106,16 @@
       "size": 14274027,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-imdb-title-basics": {
       "state": "ok",
       "http": 206,
-      "size": 230369459,
+      "size": 230445983,
       "contentType": "binary/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-jsonplaceholder-photos": {
@@ -124,7 +124,7 @@
       "size": null,
       "contentType": "application/json; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-large-json-25mb": {
@@ -133,7 +133,7 @@
       "size": 26141343,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-northwind-database-sqlite-db": {
@@ -142,7 +142,7 @@
       "size": 24702976,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-nyc-fhvhv-parquet": {
@@ -151,7 +151,7 @@
       "size": 472757547,
       "contentType": "binary/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-nyc-taxi-parquet": {
@@ -160,7 +160,7 @@
       "size": 49961641,
       "contentType": "binary/octet-stream",
       "cors": false,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-nyc-yellow-2015-parquet": {
@@ -169,26 +169,30 @@
       "size": 175325767,
       "contentType": "application/x-www-form-urlencoded; charset=utf-8",
       "cors": false,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-osm-germany-pbf": {
-      "state": "ok",
-      "http": 206,
+      "state": "failing",
+      "http": 0,
       "size": 4883371314,
-      "contentType": "application/octet-stream",
+      "contentType": null,
       "cors": false,
       "lastOk": "2026-11-15",
-      "failCount": 0
+      "failCount": 1,
+      "failingSince": "2026-11-16",
+      "error": "ECONNREFUSED"
     },
     "data-osm-monaco-pbf": {
-      "state": "ok",
-      "http": 206,
+      "state": "failing",
+      "http": 0,
       "size": 708112,
-      "contentType": "application/octet-stream",
+      "contentType": null,
       "cors": false,
       "lastOk": "2026-11-15",
-      "failCount": 0
+      "failCount": 1,
+      "failingSince": "2026-11-16",
+      "error": "ECONNREFUSED"
     },
     "data-sf-citylots-json": {
       "state": "ok",
@@ -196,7 +200,7 @@
       "size": 189778220,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-stripe-api-openapi-json": {
@@ -205,7 +209,7 @@
       "size": 8317513,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "data-world-cities-csv": {
@@ -214,7 +218,7 @@
       "size": 1336699,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "fs-csv-sample1": {
@@ -223,7 +227,7 @@
       "size": 502,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "fs-csv-sample2": {
@@ -232,7 +236,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "fs-csv-sample3": {
@@ -241,7 +245,7 @@
       "size": 723,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "fs-csv-sample4": {
@@ -250,7 +254,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-amazon-cellphones-ndjson": {
@@ -259,7 +263,7 @@
       "size": 277673,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-apache-builds-json": {
@@ -268,7 +272,7 @@
       "size": 127275,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-canada-json": {
@@ -277,7 +281,7 @@
       "size": 2251051,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-citm-catalog-json": {
@@ -286,7 +290,7 @@
       "size": 1727204,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-github-events-json": {
@@ -295,7 +299,7 @@
       "size": 65132,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-google-maps-api-compact-response-json": {
@@ -304,7 +308,7 @@
       "size": 11812,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-google-maps-api-response-json": {
@@ -313,7 +317,7 @@
       "size": 26102,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-gsoc-2018-json": {
@@ -322,7 +326,7 @@
       "size": 3327831,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-instruments-json": {
@@ -331,7 +335,7 @@
       "size": 220346,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-marine-ik-json": {
@@ -340,7 +344,7 @@
       "size": 2983466,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-mesh-json": {
@@ -349,7 +353,7 @@
       "size": 723597,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-mesh-pretty-json": {
@@ -358,7 +362,7 @@
       "size": 1577353,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-numbers-json": {
@@ -367,7 +371,7 @@
       "size": 150124,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-random-json": {
@@ -376,7 +380,7 @@
       "size": 510476,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-repeat-json": {
@@ -385,7 +389,7 @@
       "size": 11356,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-semanticscholar-corpus-json": {
@@ -394,7 +398,7 @@
       "size": 8593351,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-tree-pretty-json": {
@@ -403,7 +407,7 @@
       "size": 34556,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-twitter-api-compact-response-json": {
@@ -412,7 +416,7 @@
       "size": 10075,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-twitter-api-response-json": {
@@ -421,7 +425,7 @@
       "size": 15253,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-twitter-json": {
@@ -430,7 +434,7 @@
       "size": 631515,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-twitter-timeline-json": {
@@ -439,7 +443,7 @@
       "size": 42233,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-twitterescaped-json": {
@@ -448,7 +452,7 @@
       "size": 562408,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-simdjson-update-center-json": {
@@ -457,7 +461,7 @@
       "size": 533178,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-suite-i-number-huge-exp-json": {
@@ -466,7 +470,7 @@
       "size": 137,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-suite-n-string-unescaped-tab-json": {
@@ -475,7 +479,7 @@
       "size": 5,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-suite-n-structure-100000-opening-arrays-json": {
@@ -484,7 +488,7 @@
       "size": 100000,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "json-suite-y-string-utf8-json": {
@@ -493,7 +497,7 @@
       "size": 11,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "parquet-testing-alltypes-plain-parquet": {
@@ -502,7 +506,7 @@
       "size": 1851,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "parquet-testing-alltypes-tiny-pages-plain-parquet": {
@@ -511,7 +515,7 @@
       "size": 811756,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "parquet-testing-datapage-v1-corrupt-checksum-parquet": {
@@ -520,7 +524,7 @@
       "size": 41421,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "parquet-testing-delta-binary-packed-parquet": {
@@ -529,7 +533,7 @@
       "size": 72971,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "parquet-testing-lz4-raw-compressed-larger-parquet": {
@@ -538,7 +542,7 @@
       "size": 380836,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "parquet-testing-nested-structs-rust-parquet": {
@@ -547,7 +551,7 @@
       "size": 53040,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "parquet-testing-nulls-snappy-parquet": {
@@ -556,7 +560,7 @@
       "size": 461,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-2015-flights-parquet": {
@@ -565,7 +569,7 @@
       "size": 25238218,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-26k-consumer-complaints-csv": {
@@ -574,7 +578,7 @@
       "size": 4762432,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-all-stocks-5yr-csv": {
@@ -583,7 +587,7 @@
       "size": 29580549,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-flightdata-csv": {
@@ -592,7 +596,7 @@
       "size": 29970641,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-geojson-counties-fips-json": {
@@ -601,7 +605,7 @@
       "size": 3216816,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-liquor-iowa-2021-csv": {
@@ -610,7 +614,7 @@
       "size": 11905069,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-medicare-csv": {
@@ -619,7 +623,7 @@
       "size": 2145177,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-oil-and-gas-parquet": {
@@ -628,7 +632,7 @@
       "size": 2807664,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-processed-data-csv": {
@@ -637,7 +641,7 @@
       "size": 90470092,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     },
     "plotly-uber-rides-data1-csv": {
@@ -646,7 +650,7 @@
       "size": 58604196,
       "contentType": "text/plain; charset=utf-8",
       "cors": true,
-      "lastOk": "2026-11-15",
+      "lastOk": "2026-11-16",
       "failCount": 0
     }
   }
