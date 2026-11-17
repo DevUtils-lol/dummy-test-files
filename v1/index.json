@@ -1,7 +1,7 @@
 {
  "format": 1,
- "build": "2039e8b824",
- "checkedAt": "2026-11-16T11:37:19.010Z",
+ "build": "a64225fc1c",
+ "checkedAt": "2026-11-17T12:09:35.932Z",
  "total": 1029,
  "sources": {
   "3d-test-models": {
@@ -345,7 +345,7 @@
    "count": 204,
    "shards": [
     {
-     "path": "shards/image-0.cd27c4dd5f.json",
+     "path": "shards/image-0.8fbe863c0a.json",
      "count": 204,
      "bytes": 64910
     }
@@ -378,9 +378,9 @@
    "count": 72,
    "shards": [
     {
-     "path": "shards/data-0.fad5d7b2cf.json",
+     "path": "shards/data-0.0eabd18407.json",
      "count": 72,
-     "bytes": 22522
+     "bytes": 22366
     }
    ]
   },
@@ -400,7 +400,7 @@
    "count": 99,
    "shards": [
     {
-     "path": "shards/code-0.0a024cd013.json",
+     "path": "shards/code-0.3698a090a6.json",
      "count": 99,
      "bytes": 24351
     }
@@ -451,6 +451,6 @@
    ]
   }
  ],
- "commit": "1597f5fcc3b038312f7af8e8132730472ba17502",
- "publishedAt": "2026-11-16T11:37:44.637Z"
+ "commit": "1c5ea605c7f70ed42284a3e82e2132578b06790a",
+ "publishedAt": "2026-11-17T12:09:49.228Z"
 }
