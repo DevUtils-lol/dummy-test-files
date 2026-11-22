@@ -26,11 +26,13 @@
  "data-0.666c96b6e4.json": "2026-11-15",
  "data-0.6a5e94e191.json": "2026-11-12",
  "data-0.7159c9930f.json": "2026-11-13",
+ "data-0.b9ecc3ac0b.json": "2026-11-22",
  "data-0.d94454d4dc.json": "2026-11-11",
  "data-0.f0d04884d4.json": "2026-11-11",
  "data-0.fad5d7b2cf.json": "2026-11-17",
  "document-0.ebc34a8dec.json": "2026-11-11",
  "ebook-0.044b9ed1d2.json": "2026-11-11",
+ "ebook-0.25656ec3b1.json": "2026-11-22",
  "ebook-0.ca3c60aa7f.json": "2026-11-16",
  "font-0.c606079489.json": "2026-11-11",
  "image-0.03381a3ea1.json": "2026-11-21",
@@ -38,6 +40,7 @@
  "image-0.1de29d32e1.json": "2026-11-14",
  "image-0.2c3d442df9.json": "2026-11-12",
  "image-0.2d473474f6.json": "2026-11-19",
+ "image-0.3e76665418.json": "2026-11-22",
  "image-0.4d8fa31fe0.json": "2026-11-11",
  "image-0.76534e5260.json": "2026-11-20",
  "image-0.8fbe863c0a.json": "2026-11-18",
@@ -51,5 +54,6 @@
  "video-0.2ac06689c7.json": "2026-11-20",
  "video-0.3ad00f93a3.json": "2026-11-15",
  "video-0.73da02196b.json": "2026-11-11",
- "video-0.bb42640245.json": "2026-11-16"
+ "video-0.bb42640245.json": "2026-11-16",
+ "video-0.ca982b41af.json": "2026-11-22"
 }
