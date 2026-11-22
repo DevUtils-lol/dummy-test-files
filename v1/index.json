@@ -1,7 +1,7 @@
 {
  "format": 1,
- "build": "c0ab09dcab",
- "checkedAt": "2026-11-21T11:19:58.921Z",
+ "build": "1a923151a9",
+ "checkedAt": "2026-11-22T11:38:32.707Z",
  "total": 1029,
  "sources": {
   "3d-test-models": {
@@ -312,9 +312,9 @@
    "count": 239,
    "shards": [
     {
-     "path": "shards/video-0.ca982b41af.json",
+     "path": "shards/video-0.6fbfde8b27.json",
      "count": 239,
-     "bytes": 83814
+     "bytes": 83889
     }
    ]
   },
@@ -345,9 +345,9 @@
    "count": 204,
    "shards": [
     {
-     "path": "shards/image-0.3e76665418.json",
+     "path": "shards/image-0.652b9bbe46.json",
      "count": 204,
-     "bytes": 64910
+     "bytes": 64960
     }
    ]
   },
@@ -378,7 +378,7 @@
    "count": 72,
    "shards": [
     {
-     "path": "shards/data-0.b9ecc3ac0b.json",
+     "path": "shards/data-0.710c776d7f.json",
      "count": 72,
      "bytes": 22366
     }
@@ -411,9 +411,9 @@
    "count": 40,
    "shards": [
     {
-     "path": "shards/ebook-0.25656ec3b1.json",
+     "path": "shards/ebook-0.498e2030f7.json",
      "count": 40,
-     "bytes": 10987
+     "bytes": 11062
     }
    ]
   },
@@ -451,6 +451,6 @@
    ]
   }
  ],
- "commit": "dfd7efd13c6a26eae405a86fead67eba0f9116fd",
- "publishedAt": "2026-11-21T11:20:08.853Z"
+ "commit": "3a5c53378f058ea7569745e4ff7c44bfad474e4b",
+ "publishedAt": "2026-11-22T11:38:43.342Z"
 }
