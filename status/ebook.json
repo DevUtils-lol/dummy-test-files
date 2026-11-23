@@ -1,16 +1,14 @@
 {
-  "checkedAt": "2026-11-22T11:38:32.707Z",
+  "checkedAt": "2026-11-23T13:05:13.379Z",
   "entries": {
     "ebook-alice-epub": {
-      "state": "failing",
-      "http": 403,
+      "state": "ok",
+      "http": 200,
       "size": null,
-      "contentType": "text/html; charset=UTF-8",
-      "cors": false,
-      "lastOk": "2026-11-21",
-      "failCount": 1,
-      "failingSince": "2026-11-22",
-      "error": "HTTP 403"
+      "contentType": "application/octet-stream",
+      "cors": true,
+      "lastOk": "2026-11-23",
+      "failCount": 0
     },
     "ebook-pride-and-prejudice-html-html": {
       "state": "ok",
@@ -63,7 +61,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-azw3-around-the-world-in-28-languages": {
@@ -72,7 +70,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-azw3-famouspaintings": {
@@ -81,7 +79,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-azw3-sample1": {
@@ -90,7 +88,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-azw3-sway": {
@@ -99,7 +97,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-epub-around-the-world-in-28-languages": {
@@ -108,7 +106,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-epub-famouspaintings": {
@@ -117,7 +115,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-epub-sample1": {
@@ -126,7 +124,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-epub-sway": {
@@ -135,7 +133,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-fb2-alices-adventures-in-wonderland": {
@@ -144,7 +142,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-fb2-around-the-world-in-28-languages": {
@@ -153,7 +151,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-fb2-famouspaintings": {
@@ -162,7 +160,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-fb2-sample1": {
@@ -171,7 +169,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-fb2-sway": {
@@ -180,7 +178,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-lrf-alices-adventures-in-wonderland": {
@@ -189,7 +187,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-lrf-around-the-world-in-28-languages": {
@@ -198,7 +196,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-lrf-famouspaintings": {
@@ -207,7 +205,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-lrf-sample1": {
@@ -216,7 +214,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-lrf-sway": {
@@ -225,7 +223,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-mobi-alices-adventures-in-wonderland": {
@@ -234,7 +232,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-mobi-around-the-world-in-28-languages": {
@@ -243,7 +241,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-mobi-famouspaintings": {
@@ -252,7 +250,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-mobi-sample1": {
@@ -261,7 +259,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-mobi-sway": {
@@ -270,7 +268,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-pdb-alices-adventures-in-wonderland": {
@@ -279,7 +277,7 @@
       "size": null,
       "contentType": "application/x-pilot",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-pdb-around-the-world-in-28-languages": {
@@ -288,7 +286,7 @@
       "size": null,
       "contentType": "application/x-pilot",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-pdb-famouspaintings": {
@@ -297,7 +295,7 @@
       "size": null,
       "contentType": "application/x-pilot",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-pdb-sample1": {
@@ -306,7 +304,7 @@
       "size": null,
       "contentType": "application/x-pilot",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-pdb-sway": {
@@ -315,7 +313,7 @@
       "size": null,
       "contentType": "application/x-pilot",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-snb-alices-adventures-in-wonderland": {
@@ -324,7 +322,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-snb-around-the-world-in-28-languages": {
@@ -333,7 +331,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-snb-famouspaintings": {
@@ -342,7 +340,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-snb-sample1": {
@@ -351,7 +349,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     },
     "fs-snb-sway": {
@@ -360,7 +358,7 @@
       "size": null,
       "contentType": "application/octet-stream",
       "cors": true,
-      "lastOk": "2026-11-22",
+      "lastOk": "2026-11-23",
       "failCount": 0
     }
   }
