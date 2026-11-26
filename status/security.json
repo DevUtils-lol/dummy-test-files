@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-11-25T13:10:07.299Z",
+  "checkedAt": "2026-11-26T12:56:51.236Z",
   "entries": {
     "archive-eicar-zip": {
       "state": "ok",
-      "http": 200,
+      "http": 206,
       "size": 184,
       "contentType": "application/zip",
       "cors": false,
-      "lastOk": "2026-11-25",
+      "lastOk": "2026-11-26",
       "failCount": 0
     },
     "security-eicar": {
       "state": "ok",
-      "http": 200,
+      "http": 206,
       "size": 68,
       "contentType": null,
       "cors": false,
-      "lastOk": "2026-11-25",
+      "lastOk": "2026-11-26",
       "failCount": 0
     }
   }
