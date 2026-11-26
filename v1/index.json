@@ -1,7 +1,7 @@
 {
  "format": 1,
- "build": "5849ed7b24",
- "checkedAt": "2026-11-25T13:10:07.299Z",
+ "build": "01e1684b56",
+ "checkedAt": "2026-11-26T12:56:51.236Z",
  "total": 1029,
  "sources": {
   "3d-test-models": {
@@ -312,9 +312,9 @@
    "count": 239,
    "shards": [
     {
-     "path": "shards/video-0.ca982b41af.json",
+     "path": "shards/video-0.387575247e.json",
      "count": 239,
-     "bytes": 83814
+     "bytes": 83789
     }
    ]
   },
@@ -345,7 +345,7 @@
    "count": 204,
    "shards": [
     {
-     "path": "shards/image-0.c15bd193de.json",
+     "path": "shards/image-0.fca1ef1cb8.json",
      "count": 204,
      "bytes": 64885
     }
@@ -378,7 +378,7 @@
    "count": 72,
    "shards": [
     {
-     "path": "shards/data-0.632f01fb6b.json",
+     "path": "shards/data-0.8deb6cbe47.json",
      "count": 72,
      "bytes": 22366
     }
@@ -400,7 +400,7 @@
    "count": 99,
    "shards": [
     {
-     "path": "shards/code-0.7262c401c4.json",
+     "path": "shards/code-0.ca40501ac8.json",
      "count": 99,
      "bytes": 24351
     }
@@ -451,6 +451,6 @@
    ]
   }
  ],
- "commit": "dc2388ca76e2ab25eb32b6502241ab0bb75d1767",
- "publishedAt": "2026-11-25T13:10:20.935Z"
+ "commit": "9f711728022a184f431dbd0616f13625b2799d94",
+ "publishedAt": "2026-11-26T12:57:04.174Z"
 }
